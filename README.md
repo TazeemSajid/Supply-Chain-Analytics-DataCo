@@ -72,19 +72,20 @@ A retail supply chain company wants to:
 ## 📈 Power BI Dashboard
 
 ### Page 1 — Executive Overview
-![Executive Overview](visuals/page1_executive_overview.png)
+<img width="1152" height="652" alt="Screenshot 2026-06-11 172633" src="https://github.com/user-attachments/assets/c0fd3bf7-76e7-4308-bb01-bd3a178978a1" />
 
 ### Page 2 — Delivery Performance
-![Delivery Performance](visuals/page2_delivery_performance.png)
+<img width="1164" height="635" alt="Screenshot 2026-06-11 172658" src="https://github.com/user-attachments/assets/b7659ad7-a92e-40eb-b22f-ea5ca99b283d" />
 
 ### Page 3 — Product & Profitability
-![Product Profitability](visuals/page3_product_profitability.png)
+<img width="1156" height="655" alt="Screenshot 2026-06-11 172726" src="https://github.com/user-attachments/assets/2923ff9d-7379-4deb-aa5a-c62fca9f618b" />
 
 ### Page 4 — Geographic Insights
-![Geographic Insights](visuals/page4_geographic_insights.png)
+<img width="1157" height="657" alt="Screenshot 2026-06-11 172743" src="https://github.com/user-attachments/assets/d25a2d2c-2559-4cdf-a539-e32640eda8ce" />
 
 ### Page 5 — Recommendations
-![Recommendations](visuals/Screenshot 2026-06-11 093127.png)
+<img width="1158" height="674" alt="Screenshot 2026-06-11 093127" src="https://github.com/user-attachments/assets/c68bb734-d575-452a-a9d6-b3a531587cae" />
+
 
 ---
 
