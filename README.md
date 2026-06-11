@@ -84,7 +84,7 @@ A retail supply chain company wants to:
 ![Geographic Insights](visuals/page4_geographic_insights.png)
 
 ### Page 5 — Recommendations
-![Recommendations](visuals/page5_recommendations.png)
+![Recommendations](visuals/Screenshot 2026-06-11 093127.png)
 
 ---
 
