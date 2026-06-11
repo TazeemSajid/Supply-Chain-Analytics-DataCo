@@ -50,7 +50,11 @@ A retail supply chain company wants to:
 ---
 
 ## 🗄️ Data Model (Star Schema)
-
+fact_orders (180,519 rows)
+├── dim_products (118 rows)
+├── dim_customers (20,652 rows)
+├── dim_shipping (65,752 rows)
+└── dim_geography (3,772 rows)
 ---
 
 ## 📊 SQL Analysis
