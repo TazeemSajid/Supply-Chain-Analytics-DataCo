@@ -1,0 +1,3773 @@
+order_region,order_country,order_city,order_state,market
+South Asia,Indonesia,Bekasi,Java Occidental,Pacific Asia
+South Asia,India,Bikaner,Rajastán,Pacific Asia
+Oceania,Australia,Townsville,Queensland,Pacific Asia
+Oceania,Australia,Toowoomba,Queensland,Pacific Asia
+Eastern Asia,China,Guangzhou,Guangdong,Pacific Asia
+Eastern Asia,Japón,Tokio,Tokio,Pacific Asia
+Southeast Asia,Indonesia,Manado,Célebes Septentrional,Pacific Asia
+South Asia,India,Sangli,Maharashtra,Pacific Asia
+Eastern Asia,Corea Del Sur,Seúl,Seúl,Pacific Asia
+South Asia,India,Jabalpur,Madhya Pradesh,Pacific Asia
+Oceania,Australia,Geelong,Victoria,Pacific Asia
+Oceania,Australia,Brisbane,Queensland,Pacific Asia
+Oceania,Australia,Mandurah,Australia Occidental,Pacific Asia
+Eastern Asia,China,Guilin,Guangxi,Pacific Asia
+South Asia,India,Delhi,Delhi,Pacific Asia
+Eastern Asia,China,Suzhou,Gansu,Pacific Asia
+Southeast Asia,Singapur,Singapur,Singapur,Pacific Asia
+South Asia,India,Hubli,Karnataka,Pacific Asia
+Oceania,Australia,Wollongong,Nueva Gales del Sur,Pacific Asia
+Southeast Asia,Indonesia,Medan,Sumatra Septentrional,Pacific Asia
+Oceania,Australia,Canberra,Territorio de la Capital Australiana,Pacific Asia
+South Asia,India,Bangalore,Karnataka,Pacific Asia
+Eastern Asia,China,Yiwu,Zhejiang,Pacific Asia
+South Asia,India,Mirzapur,Uttar Pradesh,Pacific Asia
+West Asia,Turquía,Bursa,Bursa,Pacific Asia
+Oceania,Australia,Murray Bridge,Australia del Sur,Pacific Asia
+West Asia,Turquía,Kartal,Estambul,Pacific Asia
+Eastern Asia,Mongolia,Ulan Bator,Ulán Bator,Pacific Asia
+West Asia,Turquía,Estambul,Estambul,Pacific Asia
+South Asia,India,Raipur,Rajastán,Pacific Asia
+West Of Usa,Estados Unidos,Pasco,Washington,Usca
+West Of Usa,Estados Unidos,Los Angeles,California,Usca
+West Of Usa,Estados Unidos,San Francisco,California,Usca
+Us Center,Estados Unidos,Overland Park,Kansas,Usca
+West Africa,Nigeria,Ugep,Cross River,Africa
+Central Africa,República Democrática Del Congo,Kinshasa,Kinshasa,Africa
+West Africa,Senegal,Dakar,Dakar,Africa
+North Africa,Marruecos,Casablanca,Gran Casablanca,Africa
+Western Europe,Alemania,Dortmund,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Drancy,Isla de Francia,Europe
+Western Europe,Francia,Nantes,Países del Loira,Europe
+Western Europe,Países Bajos,Groningen,Groningen,Europe
+Northern Europe,Reino Unido,Gateshead,Inglaterra,Europe
+Northern Europe,Reino Unido,Eastbourne,Inglaterra,Europe
+Western Europe,Francia,Hayange,Alsacia-Champaña-Ardenas-Lorena,Europe
+Northern Europe,Reino Unido,Portsmouth,Inglaterra,Europe
+Western Europe,Alemania,Gelsenkirchen,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Nice,Provenza-Alpes-Costa Azul,Europe
+Central America,Guatemala,Petapa,Guatemala,Latam
+Central America,El Salvador,Mejicanos,San Salvador,Latam
+Central America,Panamá,David,Chiriquí,Latam
+Caribbean,República Dominicana,Santo Domingo,Santo Domingo,Latam
+South America,Venezuela,Cabimas,Zulia,Latam
+South America,Colombia,Dos Quebradas,Risaralda,Latam
+Central America,El Salvador,Ilopango,San Salvador,Latam
+Central America,Honduras,Tegucigalpa,Francisco Morazán,Latam
+South America,Brasil,Juazeiro,Bahía,Latam
+Central America,México,Mexico City,Distrito Federal,Latam
+Central America,México,Tlaquepaque,Jalisco,Latam
+Central America,México,Puebla,Puebla,Latam
+South America,Brasil,São Paulo,São Paulo,Latam
+South America,Uruguay,Montevideo,Montevideo,Latam
+South America,Argentina,Buenos Aires,Buenos Aires,Latam
+South America,Brasil,Barueri,São Paulo,Latam
+South America,Brasil,Arapongas,Paraná,Latam
+Caribbean,Cuba,Camagüey,Camagüey,Latam
+Caribbean,Cuba,Las Tunas,Las Tunas,Latam
+Central America,México,Tepic,Nayarit,Latam
+Central America,Panamá,San Miguelito,Panamá,Latam
+Central America,México,Ixtapaluca,México,Latam
+South America,Brasil,Maceió,Alagoas,Latam
+South America,Brasil,Belo Horizonte,Minas Gerais,Latam
+Caribbean,Cuba,Santiago de Cuba,Santiago de Cuba,Latam
+Central America,Honduras,San Pedro Sula,Cortés,Latam
+South America,Perú,Lima,Lima (ciudad),Latam
+Caribbean,Cuba,Holguín,Holguín,Latam
+Central America,México,Orizaba,Veracruz,Latam
+Central America,Nicaragua,Managua,Managua,Latam
+Central America,México,Villahermosa,Tabasco,Latam
+South America,Brasil,Quixadá,Ceará,Latam
+Central America,Guatemala,Mixco,Guatemala,Latam
+Caribbean,Cuba,Nueva Gerona,Isla de la Juventud,Latam
+Central America,Guatemala,Chimaltenango,Chimaltenango,Latam
+Central America,Guatemala,Villa Nueva,Guatemala,Latam
+South America,Ecuador,Quito,Pichincha,Latam
+South America,Venezuela,Valle de La Pascua,Guárico,Latam
+South America,Brasil,Cotia,São Paulo,Latam
+South America,Brasil,Itapecuru Mirim,Marañón,Latam
+Central America,Nicaragua,León,León,Latam
+Central America,México,Tlalpan,Distrito Federal,Latam
+Central America,El Salvador,Apopa,San Salvador,Latam
+South America,Argentina,Cipolletti,Río Negro,Latam
+Central America,Honduras,La Ceiba,Atlántida,Latam
+Central America,México,Córdoba,Veracruz,Latam
+Central Africa,Angola,Kuito,Bié,Africa
+North Africa,Sudán,Jartum,Jartum,Africa
+East Africa,Somalia,Hargeysa,Gobolka Woqooyi Galbeed,Africa
+North Africa,Marruecos,Kenitra,Garb-Chrarda-Beni Hsen,Africa
+West Africa,Costa De Marfil,Abidjan,Lagunes,Africa
+North Africa,Egipto,Abu Kabir,Ash Sharqiyah,Africa
+Southern Europe,Italia,Perugia,Umbría,Europe
+Western Europe,Alemania,Nuremberg,Bavaria,Europe
+Western Europe,Francia,Reims,Alsacia-Champaña-Ardenas-Lorena,Europe
+Western Europe,Alemania,Halle,Sajonia-Anhalt,Europe
+Western Europe,Alemania,Bremerhaven,Bremen,Europe
+Southern Europe,Italia,Portici,Campania,Europe
+Western Europe,Alemania,Bielefeld,Renania del Norte-Westfalia,Europe
+Northern Europe,Reino Unido,London,Inglaterra,Europe
+Western Europe,Alemania,Duisburg,Renania del Norte-Westfalia,Europe
+Northern Europe,Reino Unido,Bradford,Inglaterra,Europe
+Southern Europe,Italia,Agrigento,Sicilia,Europe
+Northern Europe,Reino Unido,Oldham,Inglaterra,Europe
+Southern Europe,Italia,Palermo,Sicilia,Europe
+Southern Europe,España,Madrid,Madrid,Europe
+Western Europe,Francia,Nancy,Alsacia-Champaña-Ardenas-Lorena,Europe
+Southern Europe,España,Girona,Cataluña,Europe
+Western Europe,Francia,Laon,Norte-Paso de Calais-Picardía,Europe
+Northern Europe,Reino Unido,Hartlepool,Inglaterra,Europe
+Western Europe,Francia,Pontault-Combault,Isla de Francia,Europe
+Western Europe,Francia,La Rochelle,Aquitania-Lemosín-Poitou-Charentes,Europe
+Northern Europe,Reino Unido,Edinburgh,Escocia,Europe
+Southern Europe,Italia,Acerra,Campania,Europe
+Western Europe,Alemania,Hanover,Baja Sajonia,Europe
+Northern Europe,Reino Unido,Manchester,Inglaterra,Europe
+Southern Europe,Italia,Messina,Sicilia,Europe
+Western Europe,Alemania,Wilhelmshaven,Baja Sajonia,Europe
+Northern Europe,Reino Unido,Letchworth,Inglaterra,Europe
+Northern Europe,Reino Unido,Kilwinning,Escocia,Europe
+Western Europe,Francia,Villeneuve-le-Roi,Isla de Francia,Europe
+Southern Europe,España,Barakaldo,País Vasco,Europe
+Northern Europe,Suecia,Estocolmo,Estocolmo,Europe
+Northern Europe,Reino Unido,Aylesbury,Inglaterra,Europe
+Western Europe,Alemania,Langenhagen,Baja Sajonia,Europe
+Northern Europe,Reino Unido,Birmingham,Inglaterra,Europe
+Western Europe,Países Bajos,Amsterdam,Holanda Septentrional,Europe
+Western Europe,Austria,Viena,Viena,Europe
+Us Center,Estados Unidos,Houston,Texas,Usca
+West Of Usa,Estados Unidos,Gilbert,Arizona,Usca
+West Of Usa,Estados Unidos,San Jose,California,Usca
+West Of Usa,Estados Unidos,Fresno,California,Usca
+West Of Usa,Estados Unidos,Peoria,Arizona,Usca
+East Of Usa,Estados Unidos,Cincinnati,Ohio,Usca
+Us Center,Estados Unidos,Columbus,Indiana,Usca
+Canada,Canada,Ottawa,Ontario,Usca
+Canada,Canada,Kitchener,Ontario,Usca
+East Of Usa,Estados Unidos,Philadelphia,Pensilvania,Usca
+Us Center,Estados Unidos,Des Plaines,Illinois,Usca
+Us Center,Estados Unidos,Elmhurst,Illinois,Usca
+East Africa,Madagascar,Antananarivo,Analamanga,Africa
+North Africa,Argelia,Algiers,Alger,Africa
+West Africa,Liberia,Monrovia,Montserrado,Africa
+West Africa,Costa De Marfil,Gagnoa,Fromager,Africa
+East Africa,Zambia,Livingstone,Meridional,Africa
+North Africa,Marruecos,Fes,Fez-Bulmán,Africa
+North Africa,Egipto,Cairo,El Cairo,Africa
+North Africa,Egipto,Hurghada,Al Bahr al Ahmar,Africa
+West Africa,Níger,Niamey,Niamey,Africa
+North Africa,Marruecos,Sale,Rabat-Salé-Zemur-Zaer,Africa
+Southern Africa,Sudafrica,Pretoria,Gauteng,Africa
+North Africa,Marruecos,Marrakech,Marrakech-Tensift-Al Hauz,Africa
+North Africa,Sudán,Bur Sudan,Mar Rojo,Africa
+West Africa,Nigeria,Lagos,Lagos,Africa
+East Africa,Mozambique,Quelimane,Zambezia,Africa
+Southern Africa,Sudafrica,Port Elizabeth,Cabo Oriental,Africa
+East Africa,Tanzania,Shinyanga,Shinyanga,Africa
+East Africa,Somalia,Kismaayo,Jubbada Hoose,Africa
+East Africa,Ruanda,Butare,Meridional,Africa
+Southern Africa,Sudafrica,Newcastle,KwaZulu-Natal,Africa
+West Asia,Israel,Jerusalén,Jerusalén,Pacific Asia
+Oceania,Australia,Gold Coast,Queensland,Pacific Asia
+Oceania,Australia,Newcastle,Nueva Gales del Sur,Pacific Asia
+Oceania,Nueva Zelanda,Porirua,Wellington,Pacific Asia
+Oceania,Australia,Mildura,Victoria,Pacific Asia
+South Asia,Bangladés,Daca,Daca,Pacific Asia
+South Asia,India,Kanpur,Uttar Pradesh,Pacific Asia
+Southeast Asia,Tailandia,Bangkok,Bangkok,Pacific Asia
+West Asia,Irak,Bagdad,Bagdad,Pacific Asia
+West Asia,Turquía,Adana,Adana,Pacific Asia
+West Asia,Arabia Saudí,Riyadh,Riad,Pacific Asia
+Eastern Asia,China,Shenzhen,Guangdong,Pacific Asia
+Eastern Asia,China,Tianjin,Tianjin,Pacific Asia
+Oceania,Australia,Perth,Australia Occidental,Pacific Asia
+Oceania,Nueva Zelanda,Dunedin,Otago,Pacific Asia
+Oceania,Australia,Melbourne,Victoria,Pacific Asia
+South Asia,India,Ulhasnagar,Maharashtra,Pacific Asia
+Southeast Asia,Filipinas,Manila,Capital Nacional,Pacific Asia
+West Asia,Turquía,Mersin,Mersin,Pacific Asia
+Central Asia,Kazajistán,Temirtau,Karagandá,Pacific Asia
+Eastern Asia,China,Tengzhou,Shandong,Pacific Asia
+Eastern Asia,China,Nantong,Jiangsu,Pacific Asia
+Eastern Asia,China,Dalian,Liaoning,Pacific Asia
+Eastern Asia,China,Lianyuan,Hunan,Pacific Asia
+Oceania,Australia,Caloundra,Queensland,Pacific Asia
+Oceania,Australia,Bendigo,Victoria,Pacific Asia
+Oceania,Australia,Adelaide,Australia del Sur,Pacific Asia
+South Asia,India,Ajmer,Rajastán,Pacific Asia
+South Asia,Irán,Kerman,Kerman,Pacific Asia
+South Asia,India,Vadodara,Guyarat,Pacific Asia
+Southeast Asia,Indonesia,Semarang,Java Central,Pacific Asia
+Southeast Asia,Indonesia,Cirebon,Java Occidental,Pacific Asia
+Southeast Asia,Myanmar (Birmania),Rangún,Rangún,Pacific Asia
+West Asia,Turquía,Kütahya,Kütahya,Pacific Asia
+Central Asia,Uzbekistán,Namangán,Namangán,Pacific Asia
+Eastern Asia,China,Xinzhou,Hubei,Pacific Asia
+Eastern Asia,China,Mudanjiang,Heilongjiang,Pacific Asia
+West Africa,Benín,Lokossa,Mono,Africa
+West Africa,Nigeria,Ikot Ekpene,Akwa Ibom,Africa
+West Africa,Nigeria,Warri,Delta,Africa
+Central Africa,República Democrática Del Congo,Bandundu,Bandundu,Africa
+Central Africa,Camerún,Foumban,Ouest,Africa
+Central Africa,Angola,Luanda,Luanda,Africa
+West Africa,Nigeria,Maiduguri,Borno,Africa
+East Africa,Kenia,Nairobi,Nairobi,Africa
+East Africa,Zambia,Kitwe,Copperbelt,Africa
+Central Africa,Camerún,Nkongsamba,Littoral,Africa
+Central Africa,República Democrática Del Congo,Mbuji-mayi,Kasai Oriental,Africa
+West Africa,Togo,Lome,Marítima,Africa
+East Africa,Madagascar,Mahajanga,Boeny,Africa
+West Africa,Nigeria,Kano,Kano,Africa
+North Africa,Argelia,Annaba,Annaba,Africa
+West Africa,Benín,Cotonou,Littoral,Africa
+East Africa,Tanzania,Dar es Salaam,Dar es Salaam,Africa
+Southern Africa,Sudafrica,Cape Town,Cabo Occidental,Africa
+Western Europe,Francia,Montpellier,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Eastern Europe,Ucrania,Khmelnytskyi,Khmelnytskyi,Europe
+Western Europe,Francia,Vannes,Bretaña,Europe
+Southern Europe,España,Fuenlabrada,Madrid,Europe
+Western Europe,Francia,Villemomble,Isla de Francia,Europe
+Western Europe,Francia,Gien,Centro-Valle de Loira,Europe
+Western Europe,Francia,Neuilly-sur-Seine,Isla de Francia,Europe
+Western Europe,Alemania,Viersen,Renania del Norte-Westfalia,Europe
+Southern Europe,Italia,Verona,Véneto,Europe
+Southern Europe,Italia,Fano,Marche,Europe
+Eastern Europe,Polonia,Gdynia,Pomerania,Europe
+Southern Europe,España,Talavera de la Reina,Castilla-La Mancha,Europe
+Western Europe,Francia,Montreuil,Isla de Francia,Europe
+Western Europe,Francia,Marseille,Provenza-Alpes-Costa Azul,Europe
+Southern Europe,Portugal,Lisbon,Lisboa,Europe
+Northern Europe,Reino Unido,Wolverhampton,Inglaterra,Europe
+Eastern Europe,Rumania,Satu Mare,Satu Mare,Europe
+Central America,México,Guadalajara,Jalisco,Latam
+South America,Colombia,Cúcuta,Norte de Santander,Latam
+Central America,México,Zacatecas,Zacatecas,Latam
+Central America,México,Chihuahua,Chihuahua,Latam
+South America,Brasil,Brasília,Distrito Federal,Latam
+South America,Brasil,Santarém,Pará,Latam
+South America,Brasil,Joinville,Santa Catarina,Latam
+Central America,México,Monterrey,Nuevo León,Latam
+South America,Colombia,Pitalito,Huila,Latam
+Central America,México,Querétaro,Querétaro,Latam
+Caribbean,Trinidad Y Tobago,Chaguanas,Chaguanas,Latam
+Central America,México,Hermosillo,Sonora,Latam
+Central America,México,Coacalco,México,Latam
+South America,Brasil,Balneário Camboriú,Santa Catarina,Latam
+South America,Venezuela,Maturín,Monagas,Latam
+South America,Brasil,Parintins,Amazonas,Latam
+Central America,Guatemala,Huehuetenango,Huehuetenango,Latam
+Central America,Guatemala,Chinautla,Guatemala,Latam
+South America,Brasil,Sorocaba,São Paulo,Latam
+South America,Argentina,San Justo,Santa Fe,Latam
+South America,Brasil,Colombo,Paraná,Latam
+South America,Brasil,Itu,São Paulo,Latam
+Central America,México,Cuernavaca,Morelos,Latam
+South America,Brasil,Águas Lindas de Goiás,Goiás,Latam
+South America,Brasil,Vespasiano,Minas Gerais,Latam
+South America,Colombia,Bogotá,Bogotá,Latam
+South Asia,India,Bhilai,Chhattisgarh,Pacific Asia
+Eastern Asia,China,Qingdao,Shandong,Pacific Asia
+South Asia,Afganistán,Herat,Herat,Pacific Asia
+Oceania,Australia,Sydney,Nueva Gales del Sur,Pacific Asia
+Southeast Asia,Indonesia,Bandung,Java Occidental,Pacific Asia
+Eastern Asia,China,Tongchuan,Shaanxi,Pacific Asia
+South Asia,India,Ujjain,Madhya Pradesh,Pacific Asia
+Southeast Asia,Indonesia,Balikpapan,Kalimantan Oriental,Pacific Asia
+South Asia,India,Pune,Maharashtra,Pacific Asia
+Eastern Asia,China,Weifang,Shandong,Pacific Asia
+Southeast Asia,Indonesia,Yogyakarta,Yogyakarta,Pacific Asia
+Oceania,Australia,Rockhampton,Queensland,Pacific Asia
+Eastern Asia,China,Siping,Jilin,Pacific Asia
+Eastern Asia,China,Shanghái,Shanghái,Pacific Asia
+Southeast Asia,Indonesia,Depok,Yogyakarta,Pacific Asia
+Eastern Asia,Japón,Kawasaki,Kanagawa,Pacific Asia
+South Asia,Pakistán,Lahore,Punyab,Pacific Asia
+Southeast Asia,Indonesia,Malang,Java Oriental,Pacific Asia
+Southeast Asia,Vietnam,Ho Chi Minh City,Ciudad Ho Chi Minh,Pacific Asia
+Eastern Asia,China,Shenyang,Liaoning,Pacific Asia
+Eastern Asia,Corea Del Sur,Daegu,Daegu,Pacific Asia
+South Asia,India,Rajkot,Guyarat,Pacific Asia
+South Asia,India,Gorakhpur,Haryana,Pacific Asia
+Southeast Asia,Indonesia,Surabaya,Java Oriental,Pacific Asia
+South Asia,India,Nagpur,Maharashtra,Pacific Asia
+Southeast Asia,Tailandia,Nakhon Ratchasima,Nakhon Ratchasima,Pacific Asia
+Southeast Asia,Malasia,Kota Kinabalu,Sabah,Pacific Asia
+Eastern Asia,China,Jiutai,Jilin,Pacific Asia
+Eastern Asia,China,Shantou,Guangdong,Pacific Asia
+Oceania,Australia,Cairns,Queensland,Pacific Asia
+South Asia,India,Jaipur,Rajastán,Pacific Asia
+South Asia,India,Raipur,Chhattisgarh,Pacific Asia
+Eastern Asia,China,Loudi,Hunan,Pacific Asia
+Central America,Nicaragua,Tipitapa,Managua,Latam
+West Asia,Arabia Saudí,Tabuk,Tabuk,Pacific Asia
+Oceania,Nueva Zelanda,Manukau City,Auckland,Pacific Asia
+Southeast Asia,Indonesia,Yakarta,Yakarta,Pacific Asia
+Southeast Asia,Indonesia,Tangerang,Java Occidental,Pacific Asia
+South Asia,India,Aurangabad,Bihar,Pacific Asia
+West Of Usa,Estados Unidos,Seattle,Washington,Usca
+West Of Usa,Estados Unidos,Oakland,California,Usca
+East Of Usa,Estados Unidos,New York City,Nueva York,Usca
+South Of  Usa,Estados Unidos,Monroe,Carolina del Norte,Usca
+Southern Africa,Sudafrica,Potchefstroom,Noroeste,Africa
+Western Europe,Alemania,Wiesbaden,Hesse,Europe
+Western Europe,Alemania,Munich,Bavaria,Europe
+Western Europe,Francia,Bobigny,Isla de Francia,Europe
+Western Europe,Francia,Lille,Norte-Paso de Calais-Picardía,Europe
+Eastern Europe,Rumania,Giurgiu,Giurgiu,Europe
+Northern Europe,Reino Unido,Tamworth,Inglaterra,Europe
+Eastern Europe,Ucrania,Lviv,Lviv,Europe
+Central America,México,Hidalgo,Michoacán,Latam
+Central America,México,Irapuato,Guanajuato,Latam
+Central America,México,Zapopan,Jalisco,Latam
+South America,Brasil,Mauá,São Paulo,Latam
+South Asia,Irán,Qom,Qom,Pacific Asia
+West Of Usa,Estados Unidos,Denver,Colorado,Usca
+South Of  Usa,Estados Unidos,Jacksonville,Florida,Usca
+Southern Europe,Italia,Brindisi,Apulia,Europe
+Western Europe,Alemania,Hamburgo,Hamburgo,Europe
+Western Europe,Países Bajos,The Hague,Holanda Meridional,Europe
+Northern Europe,Reino Unido,Halifax,Inglaterra,Europe
+Western Europe,Alemania,Ratingen,Renania del Norte-Westfalia,Europe
+Eastern Europe,Rumania,Galati,Galati,Europe
+Central America,México,Lázaro Cárdenas,Michoacán,Latam
+Western Europe,Países Bajos,Arnhem,Güeldres,Europe
+Southern Europe,Italia,Parma,Emilia-Romaña,Europe
+Northern Europe,Finlandia,Vantaa,Uusimaa,Europe
+Southern Europe,Italia,Rome,Lacio,Europe
+Southern Europe,Italia,Vicenza,Véneto,Europe
+Western Europe,Francia,Wattrelos,Norte-Paso de Calais-Picardía,Europe
+Eastern Europe,Rusia,Yaroslavl,Yaroslavl,Europe
+Northern Europe,Reino Unido,Hastings,Inglaterra,Europe
+Northern Europe,Reino Unido,Sheffield,Inglaterra,Europe
+Northern Europe,Reino Unido,Lowestoft,Inglaterra,Europe
+Northern Europe,Finlandia,Turku,Finlandia del Sudoeste,Europe
+Southern Europe,España,San Sebastian,País Vasco,Europe
+Western Europe,Alemania,Remscheid,Renania del Norte-Westfalia,Europe
+Eastern Europe,Rusia,Sterlitamak,Bashkortostán,Europe
+Northern Europe,Reino Unido,Exeter,Inglaterra,Europe
+Western Europe,Francia,Pamiers,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Western Europe,Países Bajos,Dordrecht,Holanda Meridional,Europe
+Western Europe,Francia,Strasbourg,Alsacia-Champaña-Ardenas-Lorena,Europe
+Western Europe,Países Bajos,Alphen aan den Rijn,Holanda Meridional,Europe
+Eastern Europe,Polonia,Lublin,Lublin,Europe
+Northern Europe,Irlanda,Dublín,Dublín,Europe
+Western Europe,Francia,Six-Fours-les-Plages,Provenza-Alpes-Costa Azul,Europe
+Western Europe,Francia,Rennes,Bretaña,Europe
+Southern Europe,Italia,Capannori,Toscana,Europe
+Western Europe,Alemania,Reutlingen,Baden-Wurtemberg,Europe
+Western Europe,Francia,Palaiseau,Isla de Francia,Europe
+Northern Europe,Reino Unido,Redditch,Inglaterra,Europe
+Northern Europe,Reino Unido,Leeds,Inglaterra,Europe
+Northern Europe,Reino Unido,Plymouth,Inglaterra,Europe
+Southern Europe,España,Barcelona,Cataluña,Europe
+Southern Europe,España,Castelldefels,Cataluña,Europe
+Northern Europe,Noruega,Oslo,Oslo,Europe
+Western Europe,Francia,Hautmont,Norte-Paso de Calais-Picardía,Europe
+Eastern Europe,Eslovaquia,Banska Bystrica,Banská Bystrica,Europe
+Northern Europe,Suecia,Nacka,Estocolmo,Europe
+Northern Europe,Reino Unido,West Bromwich,Inglaterra,Europe
+Southern Europe,Italia,Milan,Lombardía,Europe
+Northern Europe,Reino Unido,Basingstoke,Inglaterra,Europe
+Northern Europe,Reino Unido,Littlehampton,Inglaterra,Europe
+Southern Europe,España,Seville,Andalucía,Europe
+Southern Europe,Italia,Moncalieri,Piamonte,Europe
+Western Europe,Bélgica,Seraing,Lieja,Europe
+Eastern Europe,Ucrania,Kramators'k,Donetsk,Europe
+Western Europe,Alemania,Kiel,Schleswig-Holstein,Europe
+Northern Europe,Reino Unido,Sunderland,Inglaterra,Europe
+Western Europe,Alemania,Augsburg,Bavaria,Europe
+Western Europe,Francia,Cognac,Aquitania-Lemosín-Poitou-Charentes,Europe
+Western Europe,Alemania,Castrop-Rauxel,Renania del Norte-Westfalia,Europe
+Eastern Europe,Polonia,Bytom,Silesia,Europe
+Central America,México,Durango,Durango,Latam
+South America,Brasil,Serra,Espíritu Santo,Latam
+Caribbean,República Dominicana,Santiago de los Caballeros,Santiago de Chile,Latam
+Central America,El Salvador,San Salvador,San Salvador,Latam
+Caribbean,Cuba,Pinar del Río,Pinar del Río,Latam
+South America,Brasil,Araranguá,Santa Catarina,Latam
+Central America,México,Juárez,Chihuahua,Latam
+South America,Perú,Puno,Puno,Latam
+South America,Brasil,Navegantes,Santa Catarina,Latam
+Central America,México,Tampico,Tamaulipas,Latam
+South America,Bolivia,La Paz,La Paz,Latam
+Central America,Nicaragua,Matagalpa,Matagalpa,Latam
+Central America,El Salvador,Cuscatancingo,San Salvador,Latam
+South America,Brasil,Americana,São Paulo,Latam
+South America,Brasil,Indaial,Santa Catarina,Latam
+Central America,México,Tijuana,Baja California,Latam
+Central America,México,Ciudad del Carmen,Campeche,Latam
+South America,Brasil,Santana de Parnaíba,São Paulo,Latam
+South America,Brasil,Limeira,São Paulo,Latam
+South America,Venezuela,Valencia,Carabobo,Latam
+South America,Chile,Santiago de Chile,Santiago de Chile,Latam
+South America,Brasil,Macapá,Amapá,Latam
+Caribbean,Jamaica,Portmore,Santa Caterina,Latam
+Central America,México,Saltillo,Coahuila,Latam
+Caribbean,Cuba,Guantánamo,Guantánamo,Latam
+South America,Colombia,Cartago,Valle del Cauca,Latam
+South America,Perú,Arequipa,Arequipa,Latam
+Central America,México,Atlixco,Puebla,Latam
+South America,Brasil,Rio Branco,Acre,Latam
+South America,Perú,Ayacucho,Ayacucho,Latam
+South America,Brasil,Vassouras,Río de Janeiro,Latam
+South Asia,India,Hyderabad,Telangana,Pacific Asia
+Eastern Asia,China,Jiangyan,Jiangsu,Pacific Asia
+Oceania,Nueva Zelanda,Christchurch,Canterbury,Pacific Asia
+Oceania,Nueva Zelanda,Masterton,Wellington,Pacific Asia
+Eastern Asia,China,Daqing,Heilongjiang,Pacific Asia
+Oceania,Australia,Albury,Nueva Gales del Sur,Pacific Asia
+Southeast Asia,Filipinas,Valenzuela,Capital Nacional,Pacific Asia
+Southeast Asia,Filipinas,Antipolo,Calabarzón,Pacific Asia
+South Asia,Irán,Borujerd,Lorestan,Pacific Asia
+West Asia,Turquía,Izmir,Izmir,Pacific Asia
+Eastern Asia,China,Shulan,Jilin,Pacific Asia
+West Asia,Turquía,Antalya,Antalya,Pacific Asia
+West Asia,Yemen,Taizz,Taiz,Pacific Asia
+Eastern Asia,China,Yangzhou,Jiangsu,Pacific Asia
+Eastern Asia,Japón,Asahikawa,Hokkaido,Pacific Asia
+Southeast Asia,Filipinas,Valencia,Mindanao Septentrional,Pacific Asia
+North Africa,Marruecos,Khouribga,Chauía-Uardiga,Africa
+West Africa,Ghana,Accra,Gran Accra,Africa
+North Africa,Argelia,Boghni,Tizi Ouzou,Africa
+North Africa,Marruecos,Meknes,Mequinez-Tafilalet,Africa
+East Africa,Kenia,Thika,Central,Africa
+North Africa,Sudán,Ad Diwem,Nilo Blanco,Africa
+North Africa,Egipto,Alexandria,Alejandría,Africa
+Central Africa,República Democrática Del Congo,Kalemie,Katanga,Africa
+North Africa,Sudán,Wad Madani,Gezira,Africa
+East Africa,Somalia,Mogadishu,Benadir,Africa
+West Africa,Guinea,Kindia,Kindia,Africa
+North Africa,Marruecos,Taza,Taza-Alhucemas-Taunat,Africa
+East Africa,Etiopía,Dire Dawa,Dire Dawa,Africa
+Southern Europe,Italia,Turin,Piamonte,Europe
+Western Europe,Alemania,Cologne,Renania del Norte-Westfalia,Europe
+Eastern Europe,Rusia,Uvarovo,Tambov,Europe
+Northern Europe,Reino Unido,Southend-on-Sea,Inglaterra,Europe
+Northern Europe,Reino Unido,Widnes,Inglaterra,Europe
+Western Europe,Francia,Carpentras,Provenza-Alpes-Costa Azul,Europe
+Western Europe,Países Bajos,Utrecht,Utrecht,Europe
+Western Europe,Bélgica,Genk,Limburgo,Europe
+Northern Europe,Reino Unido,Gloucester,Inglaterra,Europe
+Northern Europe,Finlandia,Helsinki,Uusimaa,Europe
+Western Europe,Francia,Miramas,Provenza-Alpes-Costa Azul,Europe
+Eastern Europe,Bulgaria,Sofia,Sofía-Ciudad,Europe
+Southern Europe,España,Granada,Andalucía,Europe
+Western Europe,Francia,Mont-Saint-Aignan,Normandía,Europe
+Western Europe,Alemania,Berlín,Berlín,Europe
+Southern Europe,Italia,Cagliari,Cerdeña,Europe
+Western Europe,Alemania,Erftstadt,Renania del Norte-Westfalia,Europe
+Northern Europe,Reino Unido,Harrow,Inglaterra,Europe
+Southern Europe,Italia,Pescara,Abruzos,Europe
+Western Europe,Francia,Tourcoing,Norte-Paso de Calais-Picardía,Europe
+Southern Europe,Italia,Afragola,Campania,Europe
+Eastern Europe,Ucrania,Lugansk,Lugansk,Europe
+Northern Europe,Reino Unido,Doncaster,Inglaterra,Europe
+Western Europe,Francia,Bry-sur-Marne,Isla de Francia,Europe
+Western Europe,Bélgica,Charleroi,Henao,Europe
+Western Europe,Francia,Niort,Aquitania-Lemosín-Poitou-Charentes,Europe
+Southern Europe,Italia,Venice,Véneto,Europe
+Western Europe,Alemania,Ulm,Baden-Wurtemberg,Europe
+Northern Europe,Reino Unido,Cambridge,Inglaterra,Europe
+Western Europe,Alemania,Siegen,Renania del Norte-Westfalia,Europe
+Southern Europe,España,Las Rozas de Madrid,Madrid,Europe
+Northern Europe,Reino Unido,Luton,Inglaterra,Europe
+Western Europe,Francia,Verdun,Alsacia-Champaña-Ardenas-Lorena,Europe
+Western Europe,Francia,Conflans-Sainte-Honorine,Isla de Francia,Europe
+Southern Europe,Italia,Sesto San Giovanni,Lombardía,Europe
+Western Europe,Francia,Bondy,Isla de Francia,Europe
+Southern Europe,España,Valencia,Valenciana,Europe
+Western Europe,Francia,Noisy-le-Grand,Isla de Francia,Europe
+Southern Europe,España,Elx,Valenciana,Europe
+Western Europe,Alemania,Gronau,Renania del Norte-Westfalia,Europe
+Western Europe,Alemania,Frankfurt,Hesse,Europe
+Northern Europe,Reino Unido,Rotherham,Inglaterra,Europe
+Western Europe,Francia,Savigny-le-Temple,Isla de Francia,Europe
+Western Europe,Francia,La Seyne-sur-Mer,Provenza-Alpes-Costa Azul,Europe
+Eastern Asia,Japón,Fuji,Shizuoka,Pacific Asia
+Eastern Asia,China,Suzhou,Anhui,Pacific Asia
+Eastern Asia,Corea Del Sur,Changwon,Gyeongsangnam,Pacific Asia
+Eastern Asia,China,Baoding,Hebei,Pacific Asia
+Oceania,Australia,Port Macquarie,Nueva Gales del Sur,Pacific Asia
+South Asia,India,Vijayawada,Andhra Pradesh,Pacific Asia
+Central Asia,Uzbekistán,Termez,Surjandarín,Pacific Asia
+Central Asia,Kirguistán,Bishkek,Bishkek,Pacific Asia
+Eastern Asia,China,Pekín,Pekín,Pacific Asia
+South Asia,India,Thane,Maharashtra,Pacific Asia
+South Asia,India,Mumbai,Maharashtra,Pacific Asia
+South Asia,India,Durgapur,Bengala Occidental,Pacific Asia
+Southeast Asia,Indonesia,Samarinda,Kalimantan Oriental,Pacific Asia
+Southeast Asia,Filipinas,Bacolod City,Visayas Occidental,Pacific Asia
+Oceania,Australia,Lismore,Nueva Gales del Sur,Pacific Asia
+South Asia,India,Bhavnagar,Guyarat,Pacific Asia
+Southeast Asia,Filipinas,Angeles City,Luzón Central,Pacific Asia
+West Asia,Turquía,Corlu,Tekirdag,Pacific Asia
+West Asia,Arabia Saudí,Jeddah,Meca,Pacific Asia
+West Asia,Georgia,K'ut'aisi,Imericia,Pacific Asia
+Eastern Asia,Japón,Hirakata,Osaka,Pacific Asia
+Eastern Asia,China,Neijiang,Sichuan,Pacific Asia
+Eastern Asia,China,Shanwei,Guangdong,Pacific Asia
+Oceania,Nueva Zelanda,Waitakere,Auckland,Pacific Asia
+South Asia,India,Mangalore,Karnataka,Pacific Asia
+South Asia,Nepal,Kathmandu,Central,Pacific Asia
+Southeast Asia,Indonesia,Kendari,Célebes Suroriental,Pacific Asia
+Southeast Asia,Indonesia,Probolinggo,Java Oriental,Pacific Asia
+Eastern Asia,China,Jixi,Heilongjiang,Pacific Asia
+Oceania,Australia,Darwin,Territorio del Norte,Pacific Asia
+South Asia,Irán,Rasht,Guilán,Pacific Asia
+South Asia,Irán,Ahvaz,Juzestán,Pacific Asia
+Western Europe,Alemania,Arnsberg,Renania del Norte-Westfalia,Europe
+Southern Europe,Italia,Genoa,Liguria,Europe
+Western Europe,Francia,Toulouse,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Northern Europe,Reino Unido,Waterlooville,Inglaterra,Europe
+Western Europe,Alemania,Leipzig,Sajonia,Europe
+Western Europe,Francia,Vanves,Isla de Francia,Europe
+Western Europe,Francia,Meyzieu,Auvernia-Ródano-Alpes,Europe
+Western Europe,Francia,Mulhouse,Alsacia-Champaña-Ardenas-Lorena,Europe
+Northern Europe,Reino Unido,Leicester,Inglaterra,Europe
+Western Europe,Francia,Chelles,Isla de Francia,Europe
+Southern Europe,España,Marbella,Andalucía,Europe
+Southern Europe,Italia,Florence,Toscana,Europe
+Eastern Europe,Rusia,Kashira,Moscú,Europe
+Western Europe,Francia,Cholet,Países del Loira,Europe
+Western Europe,Alemania,Bochum,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Annecy,Auvernia-Ródano-Alpes,Europe
+Western Europe,Alemania,Magdeburg,Sajonia-Anhalt,Europe
+Western Europe,Bélgica,Amberes,Amberes,Europe
+Eastern Europe,Rusia,Makhachkala,Daguestán,Europe
+Eastern Europe,Rusia,Cheliábinsk,Cheliábinsk,Europe
+Western Europe,Alemania,Brandenburgo,Brandenburgo,Europe
+Western Europe,Alemania,Wetzlar,Hesse,Europe
+Western Europe,Francia,Pertuis,Provenza-Alpes-Costa Azul,Europe
+Southern Europe,España,Torrevieja,Valenciana,Europe
+Western Europe,Francia,Cagnes-sur-Mer,Provenza-Alpes-Costa Azul,Europe
+Western Europe,Francia,Nanterre,Isla de Francia,Europe
+Western Europe,Francia,Vichy,Auvernia,Europe
+Western Europe,Alemania,Lohne,Baja Sajonia,Europe
+Western Europe,Francia,Le Mans,Países del Loira,Europe
+Western Europe,Francia,Bordeaux,Aquitania-Lemosín-Poitou-Charentes,Europe
+Eastern Europe,Rusia,Astracán,Astracán,Europe
+Western Europe,Francia,Rouen,Normandía,Europe
+Western Europe,Alemania,Stuttgart,Baden-Wurtemberg,Europe
+Northern Europe,Reino Unido,Peterborough,Inglaterra,Europe
+Southern Europe,Italia,Montecatini Terme,Toscana,Europe
+Eastern Europe,Polonia,Warsaw,Mazovia,Europe
+Southern Europe,España,Huelva,Andalucía,Europe
+Southern Europe,Italia,Reggio nell'Emilia,Emilia-Romaña,Europe
+Western Europe,Francia,Le Bouscat,Aquitania-Lemosín-Poitou-Charentes,Europe
+Eastern Europe,Rusia,Derbent,Daguestán,Europe
+Northern Europe,Reino Unido,Crewe,Inglaterra,Europe
+Western Europe,Francia,Paris,Isla de Francia,Europe
+Northern Europe,Reino Unido,Bognor Regis,Inglaterra,Europe
+Western Europe,Francia,Biarritz,Aquitania-Lemosín-Poitou-Charentes,Europe
+Western Europe,Francia,Aix-en-Provence,Provenza-Alpes-Costa Azul,Europe
+South America,Brasil,Registro,São Paulo,Latam
+South America,Brasil,Presidente Dutra,Marañón,Latam
+Central America,Guatemala,Villa Canales,Guatemala,Latam
+Central America,México,Jiutepec,Morelos,Latam
+South America,Brasil,Brumado,Bahía,Latam
+South America,Brasil,Teresópolis,Río de Janeiro,Latam
+South America,Brasil,Guarulhos,São Paulo,Latam
+West Asia,Turquía,Bornova,Izmir,Pacific Asia
+West Asia,Turquía,Salihli,Manisa,Pacific Asia
+West Asia,Israel,Tel Aviv,Tel Aviv,Pacific Asia
+Central Asia,Kazajistán,Astaná,Astaná,Pacific Asia
+Oceania,Australia,Launceston,Tasmania,Pacific Asia
+South Asia,India,Ranchi,Jharkhand,Pacific Asia
+Oceania,Nueva Zelanda,New Plymouth,Taranaki,Pacific Asia
+Eastern Asia,China,Heyuan,Guangdong,Pacific Asia
+South Asia,Irán,Saveh,Markazí,Pacific Asia
+South Asia,India,Durg,Chhattisgarh,Pacific Asia
+Southeast Asia,Filipinas,Makati,Capital Nacional,Pacific Asia
+Eastern Asia,China,Xinyi,Guangdong,Pacific Asia
+Eastern Asia,China,Lianzhou,Guangdong,Pacific Asia
+West Asia,Turquía,Eskisehir,Eskisehir,Pacific Asia
+Oceania,Australia,Armidale,Nueva Gales del Sur,Pacific Asia
+Oceania,Australia,Tamworth,Nueva Gales del Sur,Pacific Asia
+Southeast Asia,Indonesia,Jambi,Jambi,Pacific Asia
+Eastern Asia,China,Xuzhou,Jiangsu,Pacific Asia
+Eastern Asia,China,Wuhan,Hubei,Pacific Asia
+Oceania,Australia,Hobart,Tasmania,Pacific Asia
+West Asia,Turquía,Sincan,Ankara,Pacific Asia
+Oceania,Australia,Mackay,Queensland,Pacific Asia
+Eastern Asia,China,Yuci,Shanxi,Pacific Asia
+Eastern Asia,Japón,Fukui,Fukui,Pacific Asia
+Southeast Asia,Filipinas,Caloocan,Capital Nacional,Pacific Asia
+West Asia,Irak,Basra,Basora,Pacific Asia
+South Asia,India,Belgaum,Karnataka,Pacific Asia
+Southeast Asia,Filipinas,Cainta,Calabarzón,Pacific Asia
+Oceania,Nueva Zelanda,Auckland,Auckland,Pacific Asia
+Oceania,Nueva Zelanda,Taupo,Waikato,Pacific Asia
+South Asia,Pakistán,Gujranwala,Punyab,Pacific Asia
+Central Asia,Kazajistán,Sarkand,Almaty,Pacific Asia
+West Asia,Emiratos Árabes Unidos,Ajman,Ajmán,Pacific Asia
+Eastern Asia,China,Zhuhai,Guangdong,Pacific Asia
+Eastern Asia,Corea Del Sur,Bucheon,Gyeonggi,Pacific Asia
+Oceania,Nueva Zelanda,Nelson,Nelson,Pacific Asia
+Eastern Asia,China,Yichun,Jiangxi,Pacific Asia
+South Asia,India,Solapur,Maharashtra,Pacific Asia
+Eastern Asia,China,Chongqing,Chongqing,Pacific Asia
+Eastern Asia,China,Zhaoqing,Guangdong,Pacific Asia
+Southeast Asia,Indonesia,Tegal,Java Central,Pacific Asia
+South Asia,India,Bihar Sharif,Bihar,Pacific Asia
+Eastern Asia,China,Taixing,Jiangsu,Pacific Asia
+South Asia,Pakistán,Mardan,Jaiber Pajtunjuá,Pacific Asia
+Eastern Asia,China,Xinzhou,Shanxi,Pacific Asia
+Eastern Asia,China,Nanchong,Sichuan,Pacific Asia
+Southeast Asia,Camboya,Nom Pen,Nom Pen,Pacific Asia
+South Asia,India,Patna,Bihar,Pacific Asia
+South Asia,India,Faridabad,Haryana,Pacific Asia
+Oceania,Australia,Maryborough,Queensland,Pacific Asia
+Eastern Asia,China,Huangshan,Anhui,Pacific Asia
+Oceania,Australia,Kwinana,Australia Occidental,Pacific Asia
+South Asia,India,Madurai,Tamil Nadu,Pacific Asia
+Eastern Asia,China,Wenzhou,Zhejiang,Pacific Asia
+Eastern Asia,China,Suzhou,Jiangsu,Pacific Asia
+Eastern Asia,China,Chengdu,Sichuan,Pacific Asia
+Eastern Asia,China,Huadian,Jilin,Pacific Asia
+South Asia,India,Fatehpur,Rajastán,Pacific Asia
+Eastern Asia,China,Yancheng,Jiangsu,Pacific Asia
+Southeast Asia,Indonesia,Kediri,Java Oriental,Pacific Asia
+Oceania,Australia,Coffs Harbour,Nueva Gales del Sur,Pacific Asia
+Southeast Asia,Indonesia,Surakarta,Java Central,Pacific Asia
+Southeast Asia,Filipinas,Bacoor,Calabarzón,Pacific Asia
+Oceania,Australia,Bundaberg,Queensland,Pacific Asia
+Southeast Asia,Malasia,Ipoh,Perak,Pacific Asia
+Eastern Asia,China,Tongchuan,Sichuan,Pacific Asia
+Eastern Asia,Corea Del Sur,Goyang,Gyeonggi,Pacific Asia
+Southeast Asia,Filipinas,Pasig,Capital Nacional,Pacific Asia
+South Asia,India,Ichalkaranji,Maharashtra,Pacific Asia
+Southeast Asia,Indonesia,Palembang,Sumatra Meridional,Pacific Asia
+South Asia,India,Kota,Rajastán,Pacific Asia
+South America,Brasil,São Bernardo do Campo,São Paulo,Latam
+Central America,El Salvador,San Martín,Cuscatlán,Latam
+Central America,México,Ocotlán,Jalisco,Latam
+South Asia,Afganistán,Kabul,Kabul,Pacific Asia
+Us Center,Estados Unidos,Tulsa,Oklahoma,Usca
+West Of Usa,Estados Unidos,Moreno Valley,California,Usca
+West Africa,Nigeria,Zaria,Kaduna,Africa
+East Africa,Uganda,Kampala,Kampala,Africa
+West Africa,Nigeria,Port Harcourt,Ríos,Africa
+Southern Africa,Sudafrica,Johannesburg,Gauteng,Africa
+West Africa,Nigeria,Minna,Níger,Africa
+North Africa,Argelia,Constantina,Constantina,Africa
+West Africa,Nigeria,Abakaliki,Ebonyi,Africa
+Southern Africa,Sudafrica,Stellenbosch,Cabo Occidental,Africa
+North Africa,Marruecos,Tangier,Tánger-Tetuán,Africa
+Southern Africa,Lesoto,Maseru,Maseru,Africa
+Southern Africa,Sudafrica,Soweto,Gauteng,Africa
+Western Europe,Francia,Fontenay-aux-Roses,Isla de Francia,Europe
+Southern Europe,España,Badalona,Cataluña,Europe
+Northern Europe,Suecia,Gothenburg,Västra Götaland,Europe
+Northern Europe,Reino Unido,Glasgow,Escocia,Europe
+Southern Europe,Italia,Monza,Lombardía,Europe
+Northern Europe,Reino Unido,Swindon,Inglaterra,Europe
+Western Europe,Francia,Brest,Bretaña,Europe
+Western Europe,Francia,Le Chesnay,Isla de Francia,Europe
+Western Europe,Francia,Malakoff,Isla de Francia,Europe
+Southern Europe,España,Valladolid,Castilla y León,Europe
+Western Europe,Francia,Sevran,Isla de Francia,Europe
+Western Europe,Francia,Vincennes,Isla de Francia,Europe
+Western Europe,Francia,Caen,Normandía,Europe
+Western Europe,Países Bajos,Nieuwegein,Utrecht,Europe
+Northern Europe,Reino Unido,Darton,Inglaterra,Europe
+Northern Europe,Reino Unido,Northampton,Inglaterra,Europe
+Western Europe,Alemania,Halle,Renania del Norte-Westfalia,Europe
+Eastern Europe,Ucrania,Dniprodzerzhyns'k,Dnipropetrovsk,Europe
+Western Europe,Francia,Roissy-en-Brie,Isla de Francia,Europe
+Western Europe,Francia,Brive-la-Gaillarde,Aquitania-Lemosín-Poitou-Charentes,Europe
+Western Europe,Francia,Le Petit-Quevilly,Normandía,Europe
+Western Europe,Alemania,Trier,Renania-Palatinado,Europe
+Eastern Europe,Polonia,Gdansk,Pomerania,Europe
+Western Europe,Alemania,Velbert,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Avignon,Provenza-Alpes-Costa Azul,Europe
+Northern Europe,Reino Unido,Preston,Inglaterra,Europe
+Southern Europe,Italia,Trapani,Sicilia,Europe
+Southern Europe,Italia,Aprilia,Lacio,Europe
+Western Europe,Francia,Meudon,Isla de Francia,Europe
+Eastern Europe,Ucrania,Mykolayiv,Mykolayiv,Europe
+Northern Europe,Reino Unido,Colchester,Inglaterra,Europe
+Southern Europe,Italia,Cosenza,Calabria,Europe
+Western Europe,Bélgica,Hasselt,Limburgo,Europe
+Western Europe,Alemania,Rostock,Mecklemburgo-Pomerania Occidental,Europe
+Western Europe,Francia,Tours,Centro-Valle de Loira,Europe
+Southern Europe,Italia,Altamura,Apulia,Europe
+Western Europe,Francia,Toulon,Provenza-Alpes-Costa Azul,Europe
+Northern Europe,Lituania,Vilna,Vilna,Europe
+Northern Europe,Reino Unido,Lincoln,Inglaterra,Europe
+Western Europe,Alemania,Aschaffenburg,Bavaria,Europe
+Western Europe,Alemania,Bremen,Bremen,Europe
+Western Europe,Alemania,Heidelberg,Baden-Wurtemberg,Europe
+Southern Europe,España,Bilbao,País Vasco,Europe
+Western Europe,Alemania,Wuppertal,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Mont-de-Marsan,Aquitania-Lemosín-Poitou-Charentes,Europe
+Northern Europe,Reino Unido,Stoke-on-Trent,Inglaterra,Europe
+Western Europe,Francia,Garches,Isla de Francia,Europe
+Southern Europe,Italia,Pozzuoli,Campania,Europe
+Western Europe,Alemania,Zwickau,Sajonia,Europe
+Western Europe,Alemania,Offenbach,Hesse,Europe
+Eastern Europe,Ucrania,Dnipropetrovsk,Dnipropetrovsk,Europe
+Western Europe,Francia,La Baule-Escoublac,Países del Loira,Europe
+Northern Europe,Reino Unido,Wigan,Inglaterra,Europe
+Western Europe,Francia,Mons-en-Baroeul,Norte-Paso de Calais-Picardía,Europe
+Eastern Europe,Rumania,Timisoara,Timis,Europe
+Western Europe,Suiza,Berne,Berna,Europe
+Northern Europe,Reino Unido,Aberdeen,Escocia,Europe
+Western Europe,Alemania,Celle,Baja Sajonia,Europe
+Southern Europe,Italia,Treviso,Véneto,Europe
+Western Europe,Francia,Le Blanc-Mesnil,Isla de Francia,Europe
+Western Europe,Francia,Dijon,Borgoña-Franco Condado,Europe
+Western Europe,Francia,Antony,Isla de Francia,Europe
+Southern Europe,Italia,Carrara,Toscana,Europe
+Eastern Europe,Hungría,Budapest,Budapest,Europe
+Western Europe,Francia,Castres,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Western Europe,Países Bajos,Doetinchem,Güeldres,Europe
+Western Europe,Francia,Marignane,Provenza-Alpes-Costa Azul,Europe
+Southern Europe,España,Pamplona,Navarra,Europe
+Western Europe,Francia,Ajaccio,Corse,Europe
+Northern Europe,Reino Unido,Garforth,Inglaterra,Europe
+Western Europe,Alemania,Ingolstadt,Bavaria,Europe
+Western Europe,Francia,Martigues,Provenza-Alpes-Costa Azul,Europe
+Western Europe,Francia,Courbevoie,Isla de Francia,Europe
+Western Europe,Francia,Franconville,Isla de Francia,Europe
+Northern Europe,Dinamarca,Copenhagen,Región Capital,Europe
+Western Europe,Francia,Mantes-la-Jolie,Isla de Francia,Europe
+Western Europe,Alemania,Erlangen,Bavaria,Europe
+Western Europe,Francia,Chaumont,Alsacia-Champaña-Ardenas-Lorena,Europe
+Western Europe,Francia,Lannion,Bretaña,Europe
+Southern Europe,España,Burgos,Castilla y León,Europe
+Western Europe,Francia,Corbeil-Essonnes,Isla de Francia,Europe
+Eastern Europe,Polonia,Dabrowa Gornicza,Silesia,Europe
+Southern Europe,Portugal,Porto,Porto,Europe
+Northern Europe,Reino Unido,Swansea,Gales,Europe
+Western Europe,Alemania,Wolfsburg,Baja Sajonia,Europe
+Western Europe,Francia,Versailles,Isla de Francia,Europe
+Western Europe,Francia,Argenteuil,Isla de Francia,Europe
+Western Europe,Países Bajos,Emmen,Drenthe,Europe
+Western Europe,Alemania,Herten,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Saint-Malo,Bretaña,Europe
+Eastern Europe,Rusia,Blagoveshchensk,Amur,Europe
+Southern Europe,España,Vitoria,País Vasco,Europe
+Western Europe,Francia,Muret,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Southern Europe,Italia,Bari,Apulia,Europe
+Western Europe,Alemania,Essen,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Clichy-sous-Bois,Isla de Francia,Europe
+Western Europe,Francia,Gennevilliers,Isla de Francia,Europe
+Northern Europe,Suecia,Karlstad,Värmland,Europe
+Northern Europe,Reino Unido,Maidstone,Inglaterra,Europe
+Western Europe,Austria,Salzburgo,Salzburgo,Europe
+Western Europe,Alemania,Herford,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Creil,Norte-Paso de Calais-Picardía,Europe
+Western Europe,Alemania,Langenfeld,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Saint-Germain-en-Laye,Isla de Francia,Europe
+Western Europe,Francia,Rillieux-la-Pape,Auvernia-Ródano-Alpes,Europe
+Western Europe,Francia,Mougins,Provenza-Alpes-Costa Azul,Europe
+Western Europe,Francia,Rambouillet,Isla de Francia,Europe
+Western Europe,Alemania,Dresden,Sajonia,Europe
+Northern Europe,Finlandia,Espoo,Uusimaa,Europe
+Western Europe,Francia,Aubervilliers,Isla de Francia,Europe
+Caribbean,Haití,Carrefour,Ouest,Latam
+South America,Brasil,Pirapora,Minas Gerais,Latam
+South America,Argentina,Tartagal,Salta,Latam
+Central America,Guatemala,Quetzaltenango,Quezaltenango,Latam
+Central America,Panamá,Panama City,Panamá,Latam
+Northern Europe,Reino Unido,Bolton,Inglaterra,Europe
+Western Europe,Francia,Grigny,Isla de Francia,Europe
+Northern Europe,Reino Unido,Great Yarmouth,Inglaterra,Europe
+Western Europe,Francia,Calais,Norte-Paso de Calais-Picardía,Europe
+Southern Europe,Italia,Gallarate,Lombardía,Europe
+Western Europe,Francia,Chartres,Centro-Valle de Loira,Europe
+Southern Europe,España,Torremolinos,Andalucía,Europe
+Western Europe,Alemania,Chemnitz,Sajonia,Europe
+Western Europe,Países Bajos,Zeist,Utrecht,Europe
+Western Europe,Alemania,Friedrichshafen,Baden-Wurtemberg,Europe
+Western Europe,Bélgica,Mechelen,Amberes,Europe
+Southern Europe,Italia,Piacenza,Emilia-Romaña,Europe
+Southern Europe,España,Palma de Mallorca,Islas Baleares,Europe
+Western Europe,Francia,Le Havre,Normandía,Europe
+Western Europe,Francia,Bayonne,Aquitania-Lemosín-Poitou-Charentes,Europe
+Eastern Europe,Ucrania,Sumy,Sumy,Europe
+Western Europe,Francia,Menton,Provenza-Alpes-Costa Azul,Europe
+Southern Europe,Italia,Brescia,Lombardía,Europe
+Eastern Europe,Rumania,Bacau,Bacau,Europe
+Western Europe,Francia,Pantin,Isla de Francia,Europe
+Southern Europe,Italia,Bologna,Emilia-Romaña,Europe
+Northern Europe,Finlandia,Kotka,Kymenlaakso,Europe
+Eastern Europe,Polonia,Opole,Opole,Europe
+Western Europe,Francia,Sarcelles,Isla de Francia,Europe
+Western Europe,Países Bajos,Oosterhout,Brabante Septentrional,Europe
+Western Europe,Alemania,Heilbronn,Baden-Wurtemberg,Europe
+Western Europe,Francia,Aulnay-sous-Bois,Isla de Francia,Europe
+Western Europe,Francia,Vigneux-sur-Seine,Isla de Francia,Europe
+Western Europe,Alemania,Recklinghausen,Renania del Norte-Westfalia,Europe
+Northern Europe,Reino Unido,Stockton-on-Tees,Inglaterra,Europe
+Southern Europe,Italia,Cerignola,Apulia,Europe
+Western Europe,Francia,Clamart,Isla de Francia,Europe
+Western Europe,Países Bajos,Veenendaal,Utrecht,Europe
+Southern Europe,Italia,Carpi,Emilia-Romaña,Europe
+Western Europe,Francia,Carcassonne,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Western Europe,Alemania,Garbsen,Baja Sajonia,Europe
+Western Europe,Francia,Dreux,Centro-Valle de Loira,Europe
+Eastern Europe,Bielorrusia,Mazyr,Gómel,Europe
+Northern Europe,Noruega,Sandnes,Rogaland,Europe
+Southern Europe,Croacia,Rijeka,Primorje-Gorski Kotar,Europe
+Southern Europe,Italia,Catania,Sicilia,Europe
+Western Europe,Francia,La Teste-de-Buch,Aquitania-Lemosín-Poitou-Charentes,Europe
+Western Europe,Francia,Tarbes,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Western Europe,Francia,Pessac,Aquitania-Lemosín-Poitou-Charentes,Europe
+Western Europe,Francia,Bayeux,Normandía,Europe
+Western Europe,Francia,Ronchin,Norte-Paso de Calais-Picardía,Europe
+Northern Europe,Reino Unido,Carlisle,Inglaterra,Europe
+Northern Europe,Lituania,Kaunas,Kaunas,Europe
+Northern Europe,Reino Unido,Rugby,Inglaterra,Europe
+Eastern Europe,Ucrania,Vínnytsia,Vínnytsia,Europe
+Northern Europe,Reino Unido,Derby,Inglaterra,Europe
+Western Europe,Alemania,Dormagen,Renania del Norte-Westfalia,Europe
+Western Europe,Suiza,Ginebra,Ginebra,Europe
+Western Europe,Alemania,Gera,Turingia,Europe
+Western Europe,Francia,Mantes-la-Ville,Isla de Francia,Europe
+Northern Europe,Reino Unido,Bebington,Inglaterra,Europe
+Southern Europe,Italia,Novara,Piamonte,Europe
+Eastern Europe,Rusia,Angarsk,Irkutsk,Europe
+Eastern Europe,Rumania,Ploiesti,Prahova,Europe
+Northern Europe,Reino Unido,Loughborough,Inglaterra,Europe
+Western Europe,Francia,Deuil-la-Barre,Isla de Francia,Europe
+Eastern Europe,Ucrania,Járkov,Járkov,Europe
+Southern Europe,España,Tarragona,Cataluña,Europe
+Western Europe,Francia,Pontivy,Bretaña,Europe
+Northern Europe,Reino Unido,Cheltenham,Inglaterra,Europe
+Southern Europe,España,Zamora,Castilla y León,Europe
+Western Europe,Francia,Villenave-d'Ornon,Aquitania-Lemosín-Poitou-Charentes,Europe
+Western Europe,Francia,Le Plessis-Robinson,Isla de Francia,Europe
+Western Europe,Francia,Roanne,Auvernia-Ródano-Alpes,Europe
+South America,Argentina,Posadas,Misiones,Latam
+Central America,México,Culiacán,Sinaloa,Latam
+Caribbean,Cuba,Cienfuegos,Cienfuegos,Latam
+South America,Brasil,Birigui,São Paulo,Latam
+West Asia,Turquía,Denizli,Denizli,Pacific Asia
+South Asia,India,Guwahati,Assam,Pacific Asia
+Eastern Asia,China,Jinan,Shandong,Pacific Asia
+West Asia,Turquía,Corum,Corum,Pacific Asia
+South Asia,Pakistán,Rawalpindi,Punyab,Pacific Asia
+Eastern Asia,China,Huainan,Anhui,Pacific Asia
+Eastern Asia,China,Luoyang,Fujian,Pacific Asia
+Eastern Asia,China,Hangzhou,Zhejiang,Pacific Asia
+Eastern Asia,China,Huaiyin,Jiangsu,Pacific Asia
+Eastern Asia,China,Guangshui,Hubei,Pacific Asia
+Southeast Asia,Filipinas,Baguio City,Cordillera,Pacific Asia
+Southeast Asia,Laos,Vientiane,Prefectura de Vientián,Pacific Asia
+South Asia,India,Gwalior,Madhya Pradesh,Pacific Asia
+Southeast Asia,Vietnam,Hanoi,Th? Dô Hà N?i,Pacific Asia
+South Asia,India,Raipur,Uttarakhand,Pacific Asia
+Eastern Asia,China,Yingcheng,Hubei,Pacific Asia
+Central Asia,Uzbekistán,Qarshi,Kashkadar,Pacific Asia
+South Asia,Irán,Zahedan,Sistán y Baluchistán,Pacific Asia
+Eastern Asia,Japón,Anjo,Aichi,Pacific Asia
+South Asia,Irán,Abadan,Juzestán,Pacific Asia
+Eastern Asia,China,Anshan,Liaoning,Pacific Asia
+Southeast Asia,Malasia,Kuala Terengganu,Trengganu,Pacific Asia
+South Asia,India,Visakhapatnam,Andhra Pradesh,Pacific Asia
+South Asia,India,Kollam,Kerala,Pacific Asia
+West Asia,Baréin,Al Muharraq,Muharraq,Pacific Asia
+Eastern Asia,China,Zaozhuang,Shandong,Pacific Asia
+Eastern Asia,China,Xichang,Sichuan,Pacific Asia
+Oceania,Australia,Dubbo,Nueva Gales del Sur,Pacific Asia
+South Asia,India,Nellore,Andhra Pradesh,Pacific Asia
+Oceania,Australia,Albany,Australia Occidental,Pacific Asia
+Oceania,Australia,Mount Isa,Queensland,Pacific Asia
+East Of Usa,Estados Unidos,Clinton,Maryland,Usca
+Us Center,Estados Unidos,Oswego,Illinois,Usca
+Us Center,Estados Unidos,Saint Charles,Illinois,Usca
+South Of  Usa,Estados Unidos,Columbus,Georgia,Usca
+Us Center,Estados Unidos,Decatur,Illinois,Usca
+West Of Usa,Estados Unidos,Costa Mesa,California,Usca
+South Of  Usa,Estados Unidos,Asheville,Carolina del Norte,Usca
+South Of  Usa,Estados Unidos,Florence,Alabama,Usca
+East Of Usa,Estados Unidos,Lowell,Massachusetts,Usca
+East Of Usa,Estados Unidos,Akron,Ohio,Usca
+Canada,Canada,London,Ontario,Usca
+South Of  Usa,Estados Unidos,Springfield,Virginia,Usca
+West Of Usa,Estados Unidos,Henderson,Nevada,Usca
+Canada,Canada,North York,Ontario,Usca
+Us Center,Estados Unidos,Grand Rapids,Michigan,Usca
+Canada,Canada,Mississauga,Ontario,Usca
+Us Center,Estados Unidos,Round Rock,Texas,Usca
+Us Center,Estados Unidos,Arlington,Texas,Usca
+West Of Usa,Estados Unidos,San Diego,California,Usca
+West Of Usa,Estados Unidos,Tucson,Arizona,Usca
+Us Center,Estados Unidos,Detroit,Michigan,Usca
+Us Center,Estados Unidos,Minneapolis,Minnesota,Usca
+South Of  Usa,Estados Unidos,Charlotte,Carolina del Norte,Usca
+Canada,Canada,Windsor,Ontario,Usca
+South Of  Usa,Estados Unidos,Newport News,Virginia,Usca
+East Of Usa,Estados Unidos,Oceanside,Nueva York,Usca
+Canada,Canada,Surrey,Columbia británica,Usca
+Us Center,Estados Unidos,San Antonio,Texas,Usca
+Us Center,Estados Unidos,Omaha,Nebraska,Usca
+East Of Usa,Estados Unidos,Baltimore,Maryland,Usca
+Us Center,Estados Unidos,Dallas,Texas,Usca
+Canada,Canada,Calgary,Alberta,Usca
+Us Center,Estados Unidos,Jackson,Michigan,Usca
+East Of Usa,Estados Unidos,Columbus,Ohio,Usca
+Us Center,Estados Unidos,Chicago,Illinois,Usca
+East Of Usa,Estados Unidos,Waterbury,Connecticut,Usca
+South Of  Usa,Estados Unidos,Henderson,Kentucky,Usca
+West Of Usa,Estados Unidos,Parker,Colorado,Usca
+West Of Usa,Estados Unidos,Fairfield,California,Usca
+North Africa,Egipto,Fayún,Fayún,Africa
+Northern Europe,Reino Unido,Bournemouth,Inglaterra,Europe
+Western Europe,Francia,Argentan,Normandía,Europe
+Western Europe,Francia,Saint-Michel-sur-Orge,Isla de Francia,Europe
+Western Europe,Bélgica,Ghent,Flanders Oriental,Europe
+Western Europe,Francia,Maisons-Alfort,Isla de Francia,Europe
+Northern Europe,Reino Unido,Solihull,Inglaterra,Europe
+Western Europe,Francia,Perpignan,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Eastern Europe,Rusia,Ufa,Bashkortostán,Europe
+Southern Europe,Macedonia,Kumanovo,Kumanovo,Europe
+Western Europe,Francia,Athis-Mons,Isla de Francia,Europe
+Western Europe,Países Bajos,Almelo,Overijssel,Europe
+Northern Europe,Dinamarca,Odense,Dinamarca Meridional,Europe
+Western Europe,Alemania,Bergheim,Renania del Norte-Westfalia,Europe
+Western Europe,Países Bajos,Rotterdam,Holanda Meridional,Europe
+Eastern Europe,Rusia,Kaliningrado,Kaliningrado,Europe
+Southern Europe,Italia,Bergamo,Lombardía,Europe
+Southern Europe,Italia,Foggia,Apulia,Europe
+Western Europe,Alemania,Mainz,Renania-Palatinado,Europe
+Eastern Europe,Ucrania,Kryvyy Rih,Dnipropetrovsk,Europe
+Southern Europe,Portugal,Vila Nova de Gaia,Porto,Europe
+Western Europe,Francia,Fontaine,Auvernia-Ródano-Alpes,Europe
+Western Europe,Francia,Issy-les-Moulineaux,Isla de Francia,Europe
+Western Europe,Países Bajos,Apeldoorn,Güeldres,Europe
+Eastern Europe,Polonia,Slupsk,Pomerania,Europe
+Northern Europe,Dinamarca,Frederiksberg,Región Capital,Europe
+Southern Europe,Croacia,Zagreb,Grad Zagreb,Europe
+Western Europe,Francia,Le Creusot,Borgoña-Franco Condado,Europe
+Northern Europe,Reino Unido,Huddersfield,Inglaterra,Europe
+Western Europe,Alemania,Hamm,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Marly-le-Roi,Isla de Francia,Europe
+Western Europe,Países Bajos,Leeuwarden,Frisia,Europe
+Eastern Europe,Rusia,Budënnovsk,Stávropol,Europe
+Northern Europe,Reino Unido,Dundee,Escocia,Europe
+Western Europe,Francia,Bezons,Isla de Francia,Europe
+Western Europe,Francia,Douarnenez,Bretaña,Europe
+Eastern Europe,Rumania,Constanza,Constanza,Europe
+Southern Europe,Italia,Guidonia Montecelio,Lacio,Europe
+Western Europe,Francia,Viroflay,Isla de Francia,Europe
+Western Europe,Alemania,Freiburg,Baden-Wurtemberg,Europe
+Northern Europe,Noruega,Hamar,Hedmark,Europe
+Western Europe,Francia,Lyon,Auvernia-Ródano-Alpes,Europe
+Western Europe,Francia,Saint-Quentin,Norte-Paso de Calais-Picardía,Europe
+Western Europe,Francia,Bagneux,Isla de Francia,Europe
+Western Europe,Suiza,San Galo,San Galo,Europe
+Western Europe,Alemania,Bayreuth,Bavaria,Europe
+Eastern Europe,Bulgaria,Varna,Varna,Europe
+Western Europe,Francia,Soissons,Norte-Paso de Calais-Picardía,Europe
+Eastern Europe,República Checa,Ostrava,Moravia-Silesia,Europe
+Eastern Europe,República Checa,Liberec,Liberec,Europe
+Western Europe,Suiza,Zurich,Zúrich,Europe
+Western Europe,Francia,Pau,Aquitania-Lemosín-Poitou-Charentes,Europe
+Southern Europe,Italia,Capua,Campania,Europe
+Eastern Europe,Rusia,Ivanovo,Ivanovo,Europe
+Southern Europe,España,Melilla,Melilla,Europe
+Eastern Europe,Rusia,Kaluga,Kaluga,Europe
+Southern Europe,España,Getafe,Madrid,Europe
+Western Europe,Alemania,Munster,Baja Sajonia,Europe
+Western Europe,Francia,Arles,Provenza-Alpes-Costa Azul,Europe
+Eastern Europe,Ucrania,Poltava,Poltava,Europe
+Northern Europe,Reino Unido,Basildon,Inglaterra,Europe
+Northern Europe,Suecia,Upsala,Upsala,Europe
+Western Europe,Suiza,Winterthur,Zúrich,Europe
+Southern Europe,Italia,Grosseto,Toscana,Europe
+South Asia,Irán,Aligudarz,Lorestan,Pacific Asia
+Southeast Asia,Malasia,Taiping,Perak,Pacific Asia
+West Asia,Arabia Saudí,Medina,Medina,Pacific Asia
+South Asia,India,Chennai,Tamil Nadu,Pacific Asia
+Southeast Asia,Malasia,Kuala Lumpur,Kuala Lumpur,Pacific Asia
+West Asia,Irak,Ad Diwaniyah,Cadisia,Pacific Asia
+Eastern Asia,Japón,Kita-ku,Hyogo,Pacific Asia
+Eastern Asia,Japón,Himeji,Hyogo,Pacific Asia
+Oceania,Australia,Wagga Wagga,Nueva Gales del Sur,Pacific Asia
+South Asia,Pakistán,Bahawalpur,Punyab,Pacific Asia
+West Asia,Irak,Arbil,Arbil,Pacific Asia
+Eastern Asia,China,Xi'an,Shaanxi,Pacific Asia
+Eastern Asia,Japón,Nishinomiya,Hyogo,Pacific Asia
+South Asia,Irán,Shiraz,Fars,Pacific Asia
+South Asia,India,Bokaro,Jharkhand,Pacific Asia
+Oceania,Nueva Zelanda,Wellington,Wellington,Pacific Asia
+South Asia,India,Malegaon,Maharashtra,Pacific Asia
+Eastern Asia,China,Liaocheng,Shandong,Pacific Asia
+Eastern Asia,China,Zhengzhou,Henan,Pacific Asia
+Eastern Asia,China,Taizhou,Jiangsu,Pacific Asia
+South Asia,Bangladés,Chittagong,Chittagong,Pacific Asia
+South Asia,India,Thiruvananthapuram,Kerala,Pacific Asia
+Eastern Asia,Japón,Atsugacho,Hokkaido,Pacific Asia
+Eastern Asia,China,Zhanjiang,Guangdong,Pacific Asia
+South Asia,Afganistán,Jalalabad,Nangarhar,Pacific Asia
+West Asia,Turquía,Soma,Manisa,Pacific Asia
+Oceania,Nueva Zelanda,Rotorua,Bay of Plenty,Pacific Asia
+South Asia,India,Agra,Uttar Pradesh,Pacific Asia
+Southeast Asia,Malasia,Kuantan,Pahang,Pacific Asia
+Eastern Asia,China,Yangjiang,Guangdong,Pacific Asia
+West Asia,Georgia,Tiflis,Tiflis,Pacific Asia
+West Asia,Irak,Mosul,Nínive,Pacific Asia
+Eastern Asia,China,Xiaogan,Hubei,Pacific Asia
+South Asia,Irán,Zanyán,Zanyán,Pacific Asia
+Eastern Asia,China,Jincheng,Shanxi,Pacific Asia
+Southeast Asia,Indonesia,Depok,Java Occidental,Pacific Asia
+West Asia,Turquía,Mamak,Ankara,Pacific Asia
+Eastern Asia,China,Nanchang,Jiangxi,Pacific Asia
+Eastern Asia,China,Mianyang,Sichuan,Pacific Asia
+Eastern Asia,China,Xianyang,Shaanxi,Pacific Asia
+Eastern Asia,China,Luoyang,Guangdong,Pacific Asia
+Oceania,Australia,Nowra,Nueva Gales del Sur,Pacific Asia
+Southeast Asia,Indonesia,Denpasar,Bali,Pacific Asia
+Eastern Asia,China,Nanyang,Henan,Pacific Asia
+Eastern Asia,Corea Del Sur,Daejeon,Daejeon,Pacific Asia
+Eastern Asia,China,Changzhou,Jiangsu,Pacific Asia
+Oceania,Nueva Zelanda,Gisborne,Gisborne,Pacific Asia
+South Asia,Sri Lanka,Colombo,Occidental,Pacific Asia
+Eastern Asia,Japón,Takatsuki,Osaka,Pacific Asia
+Oceania,Australia,Devonport,Tasmania,Pacific Asia
+Southeast Asia,Vietnam,Rach Gia,Kiên Giang,Pacific Asia
+South Asia,Irán,Bandar Abbas,Hormozgán,Pacific Asia
+South Of  Usa,Estados Unidos,Alexandria,Virginia,Usca
+South Of  Usa,Estados Unidos,Huntsville,Alabama,Usca
+East Of Usa,Estados Unidos,Newark,Delaware,Usca
+South Of  Usa,Estados Unidos,Memphis,Tennessee,Usca
+South Of  Usa,Estados Unidos,Fayetteville,Arkansas,Usca
+South Of  Usa,Estados Unidos,Richmond,Virginia,Usca
+South Of  Usa,Estados Unidos,Richmond,Kentucky,Usca
+Us Center,Estados Unidos,Springfield,Misuri,Usca
+South Of  Usa,Estados Unidos,Lakeland,Florida,Usca
+East Of Usa,Estados Unidos,Auburn,Nueva York,Usca
+East Of Usa,Estados Unidos,Springfield,Ohio,Usca
+Us Center,Estados Unidos,Pharr,Texas,Usca
+East Of Usa,Estados Unidos,Hempstead,Nueva York,Usca
+South Of  Usa,Estados Unidos,Louisville,Kentucky,Usca
+Us Center,Estados Unidos,Wichita,Kansas,Usca
+Us Center,Estados Unidos,Fort Worth,Texas,Usca
+East Of Usa,Estados Unidos,Columbia,Maryland,Usca
+South Of  Usa,Estados Unidos,Atlanta,Georgia,Usca
+Us Center,Estados Unidos,Odessa,Texas,Usca
+Canada,Canada,Saanich,Columbia británica,Usca
+West Of Usa,Estados Unidos,Las Vegas,Nevada,Usca
+West Of Usa,Estados Unidos,Morgan Hill,California,Usca
+West Of Usa,Estados Unidos,Portland,Oregón,Usca
+East Of Usa,Estados Unidos,Buffalo,Nueva York,Usca
+Us Center,Estados Unidos,Amarillo,Texas,Usca
+South Of  Usa,Estados Unidos,Tampa,Florida,Usca
+Us Center,Estados Unidos,Frisco,Texas,Usca
+South Of  Usa,Estados Unidos,Jacksonville,Carolina del Norte,Usca
+South Of  Usa,Estados Unidos,Tallahassee,Florida,Usca
+East Of Usa,Estados Unidos,Lewiston,Maine,Usca
+South Of  Usa,Estados Unidos,Port Saint Lucie,Florida,Usca
+Us Center,Estados Unidos,Saint Louis,Misuri,Usca
+East Of Usa,Estados Unidos,Lawrence,Massachusetts,Usca
+Canada,Canada,Saskatoon,Saskatchewan,Usca
+West Of Usa,Estados Unidos,Redmond,Oregón,Usca
+South Of  Usa,Estados Unidos,Fayetteville,Carolina del Norte,Usca
+East Of Usa,Estados Unidos,Rome,Nueva York,Usca
+Central Africa,Camerún,Edea,Littoral,Africa
+East Africa,Zimbabue,Chitungwiza,Harare,Africa
+East Africa,Zimbabue,Harare,Harare,Africa
+Central Africa,República Democrática Del Congo,Lubumbashi,Katanga,Africa
+West Africa,Benín,Djougou,Donga,Africa
+East Africa,Eritrea,Keren,Anseba,Africa
+West Africa,Burkina Faso,Ouagadougou,Centro,Africa
+Western Europe,Alemania,Ennigerloh,Renania del Norte-Westfalia,Europe
+Western Europe,Alemania,Solingen,Renania del Norte-Westfalia,Europe
+Southern Europe,Italia,Naples,Campania,Europe
+Western Europe,Alemania,Langen,Baja Sajonia,Europe
+Eastern Europe,Rumania,Ramnicu Valcea,Vâlcea,Europe
+Northern Europe,Reino Unido,Mansfield,Inglaterra,Europe
+Western Europe,Francia,Montmorency,Isla de Francia,Europe
+Western Europe,Alemania,Oldenburg,Baja Sajonia,Europe
+Western Europe,Francia,Ivry-sur-Seine,Isla de Francia,Europe
+Western Europe,Francia,Saint-Denis,Isla de Francia,Europe
+Northern Europe,Reino Unido,Poole,Inglaterra,Europe
+Western Europe,Francia,Boulogne-sur-Mer,Norte-Paso de Calais-Picardía,Europe
+Western Europe,Francia,Champigny-sur-Marne,Isla de Francia,Europe
+Eastern Europe,Bielorrusia,Brest,Brest,Europe
+Eastern Asia,China,Suihua,Heilongjiang,Pacific Asia
+Eastern Asia,China,Wuchuan,Guangdong,Pacific Asia
+South Asia,India,Rohtak,Haryana,Pacific Asia
+Southeast Asia,Filipinas,San Jose del Monte,Luzón Central,Pacific Asia
+South America,Brasil,Santa Rosa,Rio Grande do Sul,Latam
+Central America,Nicaragua,Masaya,Masaya,Latam
+Central America,El Salvador,Soyapango,San Salvador,Latam
+South America,Colombia,Medellín,Antioquía,Latam
+Central America,Costa Rica,Nicoya,Guanacaste,Latam
+South America,Brasil,Ribeirão Preto,São Paulo,Latam
+Central America,Nicaragua,Estelí,Estelí,Latam
+South America,Brasil,Itapevi,São Paulo,Latam
+South America,Bolivia,Oruro,Oruro,Latam
+Central America,México,Progreso,Yucatán,Latam
+South America,Brasil,Curitiba,Paraná,Latam
+Central America,México,Toluca,México,Latam
+South America,Brasil,Fortaleza,Ceará,Latam
+South America,Argentina,Avellaneda,Santa Fe,Latam
+Central America,México,Azcapotzalco,Distrito Federal,Latam
+West Africa,Benín,Porto-Novo,Ouémé,Africa
+West Asia,Turquía,Nigde,Nigde,Pacific Asia
+West Asia,Turquía,Ardahan,Ardahan,Pacific Asia
+West Asia,Turquía,Maltepe,Estambul,Pacific Asia
+Eastern Europe,Rusia,Magnitogorsk,Cheliábinsk,Europe
+Central Africa,República Democrática Del Congo,Kananga,Kasai Occidental,Africa
+Eastern Europe,Polonia,Poznan,Gran Polonia,Europe
+Central Africa,República Democrática Del Congo,Mbandaka,Équateur,Africa
+West Asia,Turquía,Akhisar,Manisa,Pacific Asia
+West Africa,Ghana,Tamale,Septentrional,Africa
+West Asia,Turquía,Sanliurfa,Sanliurfa,Pacific Asia
+West Asia,Turquía,Kahramanmara?,Kahramanmara?,Pacific Asia
+West Asia,Turquía,Ankara,Ankara,Pacific Asia
+West Asia,Israel,Haifa,Haifa,Pacific Asia
+Canada,Canada,Toronto,Ontario,Usca
+North Africa,Marruecos,Rabat,Rabat-Salé-Zemur-Zaer,Africa
+West Africa,Nigeria,Kaduna,Kaduna,Africa
+West Asia,Turquía,Uskudar,Estambul,Pacific Asia
+West Africa,Senegal,Thies Nones,Thiès,Africa
+North Africa,Argelia,Orán,Orán,Africa
+West Of Usa,Estados Unidos,Sacramento,California,Usca
+South Of  Usa,Estados Unidos,Clarksville,Tennessee,Usca
+Us Center,Estados Unidos,Noblesville,Indiana,Usca
+East Of Usa,Estados Unidos,Lakewood,Nueva Jersey,Usca
+East Of Usa,Estados Unidos,Wheeling,Virginia Occidental,Usca
+East Of Usa,Estados Unidos,Chester,Pensilvania,Usca
+West Of Usa,Estados Unidos,Spokane,Washington,Usca
+East Of Usa,Estados Unidos,Cambridge,Massachusetts,Usca
+South Of  Usa,Estados Unidos,Little Rock,Arkansas,Usca
+South Of  Usa,Estados Unidos,Jackson,Misisipi,Usca
+East Of Usa,Estados Unidos,Medina,Ohio,Usca
+East Of Usa,Estados Unidos,Wilmington,Delaware,Usca
+Us Center,Estados Unidos,Broken Arrow,Oklahoma,Usca
+South Of  Usa,Estados Unidos,Chesapeake,Virginia,Usca
+West Of Usa,Estados Unidos,Englewood,Colorado,Usca
+West Of Usa,Estados Unidos,Phoenix,Arizona,Usca
+South Of  Usa,Estados Unidos,Southaven,Misisipi,Usca
+West Of Usa,Estados Unidos,Redlands,California,Usca
+Us Center,Estados Unidos,Quincy,Illinois,Usca
+Us Center,Estados Unidos,Saint Paul,Minnesota,Usca
+South Of  Usa,Estados Unidos,Harrisonburg,Virginia,Usca
+Us Center,Estados Unidos,New Albany,Indiana,Usca
+Oceania,Australia,Griffith,Nueva Gales del Sur,Pacific Asia
+Eastern Asia,China,Fushun,Liaoning,Pacific Asia
+South Asia,India,Moradabad,Uttar Pradesh,Pacific Asia
+South Asia,India,Nagercoil,Tamil Nadu,Pacific Asia
+Eastern Asia,China,Yunyang,Henan,Pacific Asia
+South Asia,India,Kulti,Bengala Occidental,Pacific Asia
+South Asia,India,Imphal,Manipur,Pacific Asia
+Southern Europe,Italia,Pisa,Toscana,Europe
+Southern Europe,Portugal,Amadora,Lisboa,Europe
+Western Europe,Países Bajos,Tilburg,Brabante Septentrional,Europe
+Western Europe,Alemania,Naumburg,Sajonia-Anhalt,Europe
+Southern Europe,España,Valdemoro,Madrid,Europe
+Western Europe,Francia,Olivet,Centro-Valle de Loira,Europe
+Western Europe,Francia,Epinal,Alsacia-Champaña-Ardenas-Lorena,Europe
+Southern Europe,Italia,Avellino,Campania,Europe
+Western Europe,Países Bajos,Schiedam,Holanda Meridional,Europe
+Southern Europe,Italia,Ravenna,Emilia-Romaña,Europe
+Western Europe,Francia,Flers,Normandía,Europe
+Western Europe,Alemania,Emden,Baja Sajonia,Europe
+Southern Europe,Italia,Rimini,Emilia-Romaña,Europe
+South America,Brasil,Surubim,Pernambuco,Latam
+South America,Brasil,Pontes e Lacerda,Mato Grosso,Latam
+Central America,México,Coyoacán,Distrito Federal,Latam
+South America,Colombia,Arauca,Arauca,Latam
+Central America,Honduras,Choloma,Cortés,Latam
+Central America,México,Soledad Díez Gutiérrez,San Luis Potosí,Latam
+South America,Argentina,San Rafael,Mendoza,Latam
+Central America,México,Milpa Alta,Distrito Federal,Latam
+South America,Brasil,Feira de Santana,Bahía,Latam
+South America,Brasil,Francisco Beltrão,Paraná,Latam
+South America,Brasil,Araguaína,Tocantins,Latam
+Caribbean,Cuba,San José de las Lajas,Mayabeque,Latam
+Central America,México,San Pablo de las Salinas,México,Latam
+Central America,México,Gómez Palacio,Durango,Latam
+South America,Brasil,Eunápolis,Bahía,Latam
+Caribbean,Cuba,Palma Soriano,Santiago de Cuba,Latam
+South America,Colombia,Neiva,Huila,Latam
+Caribbean,Cuba,Matanzas,Matanzas,Latam
+South America,Colombia,Bello,Antioquía,Latam
+Caribbean,Cuba,Santa Clara,Villa Clara,Latam
+South America,Brasil,Betim,Minas Gerais,Latam
+South America,Chile,Puerto Montt,Los Lagos,Latam
+South America,Brasil,Anápolis,Goiás,Latam
+Central America,El Salvador,Santa Ana,Santa Ana,Latam
+Central America,México,Morelia,Michoacán,Latam
+South America,Venezuela,Puerto La Cruz,Anzoátegui,Latam
+Caribbean,República Dominicana,La Romana,La Romana,Latam
+Caribbean,República Dominicana,Santa Cruz de Barahona,Barahona,Latam
+South America,Brasil,Barra Mansa,Río de Janeiro,Latam
+South America,Brasil,Salvador,Bahía,Latam
+South America,Brasil,João Pessoa,Paraíba,Latam
+Central America,México,Nuevo Laredo,Tamaulipas,Latam
+South America,Ecuador,Santo Domingo de los Colorados,Pichincha,Latam
+Caribbean,República Dominicana,La Vega,La Vega,Latam
+South America,Colombia,Santa Marta,Magdalena,Latam
+South America,Argentina,Mendoza,Mendoza,Latam
+West Asia,Turquía,Bagcilar,Estambul,Pacific Asia
+Eastern Europe,Ucrania,Ivano-Frankivs'k,Ivano-Frankivsk,Europe
+East Africa,Tanzania,Mwanza,Mwanza,Africa
+North Africa,Libia,Benghazi,Bengasi,Africa
+Eastern Europe,Rusia,Arkhangelsk,Arjánguelsk,Europe
+West Asia,Arabia Saudí,Jizán,Jizán,Pacific Asia
+Southern Europe,Italia,Tivoli,Lacio,Europe
+Western Europe,Francia,Cachan,Isla de Francia,Europe
+Western Europe,Francia,Les Pavillons-sous-Bois,Isla de Francia,Europe
+Eastern Europe,Polonia,Lodz,Lodz,Europe
+Eastern Europe,Ucrania,Kremenchuk,Poltava,Europe
+Western Europe,Francia,Villeneuve-d'Ascq,Norte-Paso de Calais-Picardía,Europe
+Eastern Europe,Polonia,Radom,Mazovia,Europe
+Western Europe,Francia,Bourgoin-Jallieu,Auvernia-Ródano-Alpes,Europe
+Western Europe,Alemania,Hildesheim,Baja Sajonia,Europe
+Western Europe,Francia,Villiers-sur-Marne,Isla de Francia,Europe
+Southern Europe,Italia,Marina di Carrara,Toscana,Europe
+Northern Europe,Lituania,Siauliai,iauliai,Europe
+Northern Europe,Reino Unido,Blackpool,Inglaterra,Europe
+Western Europe,Países Bajos,Heerlen,Limburgo,Europe
+Northern Europe,Suecia,Solna,Estocolmo,Europe
+Western Europe,Francia,Domont,Isla de Francia,Europe
+Western Europe,Francia,Puteaux,Isla de Francia,Europe
+Western Europe,Alemania,Erfurt,Turingia,Europe
+South America,Argentina,Santa Fe,Santa Fe,Latam
+Central America,México,San Francisco del Rincón,Guanajuato,Latam
+South America,Brasil,Porto Alegre,Rio Grande do Sul,Latam
+Central America,México,Miguel Hidalgo,Distrito Federal,Latam
+Central America,México,Heroica Zitácuaro,Michoacán,Latam
+Central America,México,Veracruz,Veracruz,Latam
+Central America,Honduras,Choluteca,Choluteca,Latam
+South America,Brasil,Resende,Río de Janeiro,Latam
+Central America,México,San Cristóbal de Las Casas,Chiapas,Latam
+Central America,México,Tuxtla Gutiérrez,Chiapas,Latam
+South America,Brasil,Mossoró,Río Grande del Norte,Latam
+Central America,México,Celaya,Guanajuato,Latam
+Caribbean,Haití,Gonaïves,Artibonito,Latam
+Caribbean,Cuba,Sancti Spíritus,Sancti Spíritus,Latam
+South America,Colombia,Armenia,Quindío,Latam
+Central America,México,Metepec,México,Latam
+Central America,México,Tulancingo,Hidalgo,Latam
+South America,Brasil,Castanhal,Pará,Latam
+South America,Colombia,Bucaramanga,Santander,Latam
+South America,Colombia,Soledad,Atlántico,Latam
+Central America,México,Acuña,Coahuila,Latam
+South America,Brasil,Itaúna,Minas Gerais,Latam
+Caribbean,Trinidad Y Tobago,San Fernando,San Fernando,Latam
+South America,Venezuela,El Limón,Aragua,Latam
+South America,Colombia,Barranquilla,Atlántico,Latam
+Central America,México,Poza Rica de Hidalgo,Veracruz,Latam
+South America,Brasil,Altamira,Pará,Latam
+Central America,México,Mexicali,Baja California,Latam
+South America,Brasil,Ponte Nova,Minas Gerais,Latam
+South America,Argentina,San Juan,San Juan,Latam
+Caribbean,Cuba,Manzanillo,Granma,Latam
+South America,Perú,Callao,Callao,Latam
+South America,Colombia,Montenegro,Quindío,Latam
+South America,Brasil,Caxias do Sul,Rio Grande do Sul,Latam
+Central America,El Salvador,Delgado,San Salvador,Latam
+South America,Brasil,Blumenau,Santa Catarina,Latam
+South America,Uruguay,Las Piedras,Canelones,Latam
+Central America,Panamá,Colón,Colón,Latam
+South America,Brasil,Teresina,Piauí,Latam
+West Asia,Turquía,Gaziantep,Gaziantep,Pacific Asia
+Eastern Asia,Corea Del Sur,Busan,Busan,Pacific Asia
+West Asia,Turquía,Konya,Konya,Pacific Asia
+Oceania,Australia,Bunbury,Australia Occidental,Pacific Asia
+South Asia,India,Surat,Guyarat,Pacific Asia
+Eastern Asia,China,Laiyang,Shandong,Pacific Asia
+South Asia,India,Bhatpara,Bengala Occidental,Pacific Asia
+South Asia,Irán,Malayer,Hamadán,Pacific Asia
+South Asia,India,Parbhani,Maharashtra,Pacific Asia
+Central Asia,Kazajistán,Karagandá,Karagandá,Pacific Asia
+Eastern Asia,China,Huaibei,Anhui,Pacific Asia
+Eastern Asia,Japón,Matsubara,Oita,Pacific Asia
+Eastern Asia,China,Harbin,Heilongjiang,Pacific Asia
+Eastern Asia,China,Baotou,Mongolia Interior,Pacific Asia
+South Asia,India,Bhubaneswar,Odisha,Pacific Asia
+Eastern Asia,China,Gongzhuling,Jilin,Pacific Asia
+South Asia,India,Bhatinda,Punyab,Pacific Asia
+Oceania,Australia,Alice Springs,Territorio del Norte,Pacific Asia
+Central America,Nicaragua,Granada,Granada,Latam
+Central America,Guatemala,Escuintla,Escuintla,Latam
+South America,Brasil,Pilar,Alagoas,Latam
+South America,Venezuela,Caracas,Distrito Capital,Latam
+Central America,México,León,Guanajuato,Latam
+South America,Brasil,Cabo Frio,Río de Janeiro,Latam
+South America,Brasil,Valinhos,São Paulo,Latam
+Central America,México,Tlalnepantla,México,Latam
+Central America,México,Obregón,Sonora,Latam
+Central America,Honduras,El Progreso,Yoro,Latam
+Central America,México,General Escobedo,Nuevo León,Latam
+Central America,México,San Luis Río Colorado,Sonora,Latam
+Caribbean,Cuba,Contramaestre,Santiago de Cuba,Latam
+South America,Chile,Talcahuano,Bío-Bío,Latam
+Central America,México,Victoria,Tamaulipas,Latam
+Central America,México,Reynosa,Tamaulipas,Latam
+Caribbean,Barbados,Bridgetown,San Miguel,Latam
+South America,Brasil,São Gonçalo,Río de Janeiro,Latam
+South America,Brasil,Penedo,Alagoas,Latam
+Caribbean,Cuba,Moa,Holguín,Latam
+Central America,México,Los Mochis,Sinaloa,Latam
+South America,Venezuela,Maracaibo,Zulia,Latam
+South America,Brasil,Recife,Pernambuco,Latam
+South America,Venezuela,Guacara,Carabobo,Latam
+Central America,México,Villa Frontera,Coahuila,Latam
+Central America,México,Madero,Tamaulipas,Latam
+Central America,México,Iguala,Guerrero,Latam
+South America,Bolivia,Cochabamba,Cochabamba,Latam
+Caribbean,Cuba,Consolación del Sur,Pinar del Río,Latam
+South America,Brasil,Igarassu,Pernambuco,Latam
+South America,Colombia,Manizales,Caldas,Latam
+Central America,México,Guasave,Sinaloa,Latam
+Central America,México,Mérida,Yucatán,Latam
+South America,Brasil,Pindamonhangaba,São Paulo,Latam
+South America,Venezuela,Barquisimeto,Lara,Latam
+South America,Brasil,Açu,Río Grande del Norte,Latam
+South America,Colombia,Yopal,Casanare,Latam
+South Asia,Bangladés,Sylhet,Sylhet,Pacific Asia
+Oceania,Nueva Zelanda,Hamilton,Waikato,Pacific Asia
+Central Asia,Tayikistán,Kulob,Khatlon,Pacific Asia
+Eastern Asia,China,Shangqiu,Henan,Pacific Asia
+Southeast Asia,Indonesia,Pematangsiantar,Sumatra Septentrional,Pacific Asia
+Central Asia,Kazajistán,Almaty,Ciudad de Almatý,Pacific Asia
+Southeast Asia,Indonesia,Pontianak,Borneo Occidental,Pacific Asia
+Central Asia,Kazajistán,Ekibastuz,Pavlodar,Pacific Asia
+Oceania,Nueva Zelanda,Palmerston North,Manawatu-Wanganui,Pacific Asia
+South Asia,India,Srinagar,Jammu y Cachemira,Pacific Asia
+South Asia,India,Gorakhpur,Uttar Pradesh,Pacific Asia
+West Asia,Siria,Homs,Hims,Pacific Asia
+Eastern Asia,China,Benxi,Liaoning,Pacific Asia
+Oceania,Australia,Katoomba,Nueva Gales del Sur,Pacific Asia
+Southeast Asia,Indonesia,Dumai,Riau,Pacific Asia
+Southeast Asia,Indonesia,Bogor,Java Occidental,Pacific Asia
+South Asia,India,Varanasi,Uttar Pradesh,Pacific Asia
+South Asia,India,Dewas,Madhya Pradesh,Pacific Asia
+South Asia,India,Amritsar,Punyab,Pacific Asia
+West Asia,Irak,Al Hillah,Babilonia,Pacific Asia
+South Asia,India,Kakinada,Andhra Pradesh,Pacific Asia
+South Asia,Bangladés,Khulna,Khulna,Pacific Asia
+South Asia,India,Korba,Chhattisgarh,Pacific Asia
+Western Europe,Francia,Cormeilles-en-Parisis,Isla de Francia,Europe
+Southern Europe,Italia,Ferrara,Emilia-Romaña,Europe
+Western Europe,Alemania,Herne,Renania del Norte-Westfalia,Europe
+South America,Brasil,Manaus,Amazonas,Latam
+Caribbean,Cuba,Puerto Padre,Las Tunas,Latam
+Caribbean,Guadalupe,Les Abymes,Guadalupe,Latam
+Central America,México,Colima,Colima,Latam
+South America,Brasil,Nova Serrana,Minas Gerais,Latam
+South America,Perú,Huancayo,Junín,Latam
+South America,Argentina,Paraná,Entre Ríos,Latam
+West Asia,Israel,Ashdod,Meridional,Pacific Asia
+Eastern Asia,China,Hohhot,Mongolia Interior,Pacific Asia
+Eastern Asia,China,Fengcheng,Liaoning,Pacific Asia
+Oceania,Papúa Nueva Guinea,Port Moresby,Capital Nacional,Pacific Asia
+Eastern Asia,Japón,Fukuyama,Hiroshima,Pacific Asia
+West Asia,Turquía,Turgutlu,Manisa,Pacific Asia
+South Of  Usa,Estados Unidos,Smyrna,Tennessee,Usca
+South Of  Usa,Estados Unidos,Wilmington,Carolina del Norte,Usca
+West Africa,Nigeria,Ibadan,Oyo,Africa
+West Africa,Nigeria,Katsina,Katsina,Africa
+Southern Europe,Italia,Cesena,Emilia-Romaña,Europe
+Northern Europe,Reino Unido,Farnborough,Inglaterra,Europe
+South America,Argentina,San Nicolás de los Arroyos,Buenos Aires (provincia),Latam
+Eastern Asia,China,Jieyang,Guangdong,Pacific Asia
+South Of  Usa,Estados Unidos,Columbia,Carolina del Sur,Usca
+South Of  Usa,Estados Unidos,Franklin,Tennessee,Usca
+South America,Brasil,São Leopoldo,Rio Grande do Sul,Latam
+Northern Europe,Lituania,Klaip?da,Klaip?da,Europe
+Eastern Europe,Bielorrusia,Gómel,Gómel,Europe
+Oceania,Australia,Broken Hill,Nueva Gales del Sur,Pacific Asia
+Eastern Asia,China,Kunming,Yunnan,Pacific Asia
+Southeast Asia,Indonesia,Sukabumi,Java Occidental,Pacific Asia
+South Asia,India,Bijapur,Karnataka,Pacific Asia
+South Of  Usa,Estados Unidos,Raleigh,Carolina del Norte,Usca
+Caribbean,República Dominicana,Moca,Espaillat,Latam
+East Africa,Zimbabue,Bulawayo,Bulawayo,Africa
+Central Africa,Angola,Malanje,Malanje,Africa
+Southern Europe,España,Reus,Cataluña,Europe
+Western Europe,Francia,Neuilly-sur-Marne,Isla de Francia,Europe
+Eastern Europe,Rusia,Irkutsk,Irkutsk,Europe
+Western Europe,Francia,Quimper,Bretaña,Europe
+Eastern Europe,Ucrania,Horlivka,Donetsk,Europe
+Western Europe,Alemania,Mannheim,Baden-Wurtemberg,Europe
+Oceania,Nueva Zelanda,Blenheim,Marlborough,Pacific Asia
+South Asia,India,Kukatpalli,Telangana,Pacific Asia
+Southeast Asia,Filipinas,Las Pinas,Capital Nacional,Pacific Asia
+Eastern Asia,China,Changzhi,Shanxi,Pacific Asia
+Eastern Asia,China,Changchun,Jilin,Pacific Asia
+West Asia,Azerbaiyán,Baku,Baki,Pacific Asia
+West Asia,Arabia Saudí,Yanbu al Bahr,Medina,Pacific Asia
+South Asia,Irán,Khorramabad,Lorestan,Pacific Asia
+Eastern Asia,China,Chaoyang,Liaoning,Pacific Asia
+Eastern Asia,China,Jiangyou,Sichuan,Pacific Asia
+Southeast Asia,Malasia,Seremban,Negeri Sembilan,Pacific Asia
+West Asia,Turquía,Ceyhan,Adana,Pacific Asia
+South Asia,India,Warangal,Telangana,Pacific Asia
+South Asia,India,Tiruchchirappalli,Tamil Nadu,Pacific Asia
+Southeast Asia,Indonesia,Pekanbaru,Riau,Pacific Asia
+Eastern Asia,China,Licheng,Jiangsu,Pacific Asia
+Oceania,Australia,Wodonga,Victoria,Pacific Asia
+South Asia,India,Lucknow,Uttar Pradesh,Pacific Asia
+South Asia,India,Darbhanga,Bihar,Pacific Asia
+South Asia,Pakistán,Hyderabad,Sind,Pacific Asia
+Southeast Asia,Malasia,Kuching,Sarawak,Pacific Asia
+Eastern Asia,China,Jieshou,Anhui,Pacific Asia
+Eastern Asia,China,Lanxi,Zhejiang,Pacific Asia
+Oceania,Australia,Mount Gambier,Australia del Sur,Pacific Asia
+Eastern Asia,China,Wenling,Zhejiang,Pacific Asia
+Oceania,Australia,Melton,Victoria,Pacific Asia
+Eastern Asia,China,Jiangmen,Guangdong,Pacific Asia
+South Asia,India,Meerut,Uttar Pradesh,Pacific Asia
+Eastern Asia,China,Hangu,Tianjin,Pacific Asia
+South Asia,Irán,Mashhad,Jorasán Razaví,Pacific Asia
+Central Asia,Turkmenistán,Turkmenabat,Lebap,Pacific Asia
+South Asia,India,Durgapur,Maharashtra,Pacific Asia
+Oceania,Australia,Whyalla,Australia del Sur,Pacific Asia
+Oceania,Australia,Traralgon,Victoria,Pacific Asia
+West Of Usa,Estados Unidos,Aurora,Colorado,Usca
+South Of  Usa,Estados Unidos,Salem,Virginia,Usca
+Southern Europe,España,Ponferrada,Castilla y León,Europe
+Southern Europe,España,Irun,País Vasco,Europe
+Southern Europe,Italia,Arezzo,Toscana,Europe
+Southern Europe,Italia,Acireale,Sicilia,Europe
+Northern Europe,Reino Unido,Walsall,Inglaterra,Europe
+Southern Europe,España,Alicante,Valenciana,Europe
+Western Europe,Francia,Fontainebleau,Isla de Francia,Europe
+Eastern Europe,Ucrania,Sevastopol,Sevastopol,Europe
+Central America,México,Salina Cruz,Oaxaca,Latam
+South America,Ecuador,Guayaquil,Guayas,Latam
+South America,Brasil,Maringá,Paraná,Latam
+South America,Chile,Puente Alto,Santiago de Chile,Latam
+Central America,México,San Luis Potosí,San Luis Potosí,Latam
+Caribbean,República Dominicana,San Pedro de Macorís,San Pedro de Macorís,Latam
+South America,Brasil,Itaituba,Pará,Latam
+Central America,México,Piedras Negras,Coahuila,Latam
+South America,Chile,Rancagua,O'Higgins,Latam
+Central America,El Salvador,Antiguo Cuscatlán,La Libertad,Latam
+Central America,México,Santa Catarina,Nuevo León,Latam
+South America,Brasil,Jequié,Bahía,Latam
+Caribbean,República Dominicana,Baní,Peravia,Latam
+Central America,Guatemala,Amatitlán,Guatemala,Latam
+South America,Brasil,Simões Filho,Bahía,Latam
+South America,Brasil,Chapecó,Santa Catarina,Latam
+South America,Argentina,Resistencia,Chaco,Latam
+South America,Brasil,Barreirinhas,Marañón,Latam
+South America,Uruguay,Paysandú,Paysandú,Latam
+South America,Brasil,Jataí,Goiás,Latam
+South America,Brasil,Cruzeiro,São Paulo,Latam
+South America,Uruguay,Rivera,Rivera,Latam
+South America,Brasil,Uruguaiana,Rio Grande do Sul,Latam
+South America,Brasil,Arapiraca,Alagoas,Latam
+South America,Brasil,Guarapuava,Paraná,Latam
+Caribbean,República Dominicana,San Francisco de Macorís,Duarte,Latam
+South America,Argentina,Córdoba,Córdoba,Latam
+Central America,México,Campeche,Campeche,Latam
+South America,Brasil,Itajaí,Santa Catarina,Latam
+South America,Venezuela,Turmero,Aragua,Latam
+South America,Brasil,Bom Jesus da Lapa,Bahía,Latam
+South America,Brasil,Gaspar,Santa Catarina,Latam
+South America,Brasil,Linhares,Espíritu Santo,Latam
+Central America,México,Miramar,Tamaulipas,Latam
+South America,Brasil,Ilhéus,Bahía,Latam
+South America,Brasil,Umuarama,Paraná,Latam
+South America,Brasil,São José dos Campos,São Paulo,Latam
+South America,Brasil,Ibiúna,São Paulo,Latam
+South America,Brasil,Praia Grande,São Paulo,Latam
+South America,Brasil,Cruz das Almas,Bahía,Latam
+South America,Bolivia,Santa Cruz de la Sierra,Santa Cruz,Latam
+South America,Brasil,Novo Gama,Goiás,Latam
+South America,Brasil,Pouso Alegre,Minas Gerais,Latam
+South America,Brasil,Jacobina,Bahía,Latam
+South America,Paraguay,Asunción,Asunción,Latam
+South America,Perú,Paita,Piura,Latam
+Central America,México,Apodaca,Nuevo León,Latam
+Caribbean,Cuba,Bayamo,Granma,Latam
+Caribbean,Jamaica,Spanish Town,Santa Caterina,Latam
+South America,Brasil,Santo André,São Paulo,Latam
+Caribbean,Cuba,Ciego de Ávila,Ciego de Ávila,Latam
+Central America,México,Torreón,Coahuila,Latam
+South America,Brasil,Limoeiro do Norte,Ceará,Latam
+South America,Brasil,Cajazeiras,Paraíba,Latam
+South America,Colombia,Pereira,Risaralda,Latam
+South America,Brasil,Camaçari,Bahía,Latam
+South America,Brasil,Franca,São Paulo,Latam
+South America,Brasil,Tupã,São Paulo,Latam
+South America,Brasil,Juiz de Fora,Minas Gerais,Latam
+South America,Perú,Cajamarca,Cajamarca,Latam
+South America,Brasil,Votuporanga,São Paulo,Latam
+Central America,México,Puerto Vallarta,Jalisco,Latam
+Central America,Nicaragua,Chinandega,Chinandega,Latam
+South America,Brasil,Bayeux,Paraíba,Latam
+South America,Chile,Antofagasta,Antofagasta,Latam
+South America,Colombia,Sabanalarga,Atlántico,Latam
+South America,Brasil,Ji-Paraná,Rondônia,Latam
+Caribbean,República Dominicana,San Juan de la Maguana,San Juan,Latam
+South America,Brasil,Araçatuba,São Paulo,Latam
+South America,Brasil,Canoas,Rio Grande do Sul,Latam
+Central America,México,Cancún,Quintana Roo,Latam
+South America,Venezuela,San Cristóbal,Táchira,Latam
+South America,Brasil,Grajaú,Marañón,Latam
+West Asia,Turquía,Kirsehir,Kirsehir,Pacific Asia
+Southeast Asia,Malasia,Sandakan,Sabah,Pacific Asia
+Central Asia,Turkmenistán,Asjabad,Asjabad,Pacific Asia
+Eastern Asia,China,Binzhou,Shandong,Pacific Asia
+Eastern Asia,China,Guiyang,Guizhou,Pacific Asia
+Oceania,Nueva Zelanda,Lower Hutt,Wellington,Pacific Asia
+Oceania,Australia,Ballarat,Victoria,Pacific Asia
+Southeast Asia,Filipinas,Calamba,Calabarzón,Pacific Asia
+South Asia,Irán,Kashan,Isfahán,Pacific Asia
+West Asia,Jordania,Amman,Amán,Pacific Asia
+West Asia,Arabia Saudí,Al Mubarraz,Ash Sharqiyah,Pacific Asia
+South Asia,Irán,Yazd,Yazd,Pacific Asia
+West Asia,Arabia Saudí,Sakaka,Al Jawf,Pacific Asia
+Eastern Asia,China,Chifeng,Mongolia Interior,Pacific Asia
+South Asia,India,Ludhiana,Punyab,Pacific Asia
+South Asia,Irán,Kermanshah,Kermanshah,Pacific Asia
+Southeast Asia,Indonesia,Padang,Sumatra Occidental,Pacific Asia
+Eastern Asia,Hong Kong,Kowloon,Hong Kong,Pacific Asia
+Central Asia,Kazajistán,Kokshetau,Akmola,Pacific Asia
+West Asia,Turquía,Nazilli,Aydin,Pacific Asia
+Eastern Asia,Japón,Nagasaki,Nagasaki,Pacific Asia
+West Asia,Turquía,Sivas,Sivas,Pacific Asia
+South Asia,India,Firozabad,Uttar Pradesh,Pacific Asia
+Eastern Asia,China,Xiamen,Fujian,Pacific Asia
+Eastern Asia,China,Ninghai,Shandong,Pacific Asia
+South Asia,India,Kozhikode,Kerala,Pacific Asia
+Eastern Asia,China,Xintai,Shandong,Pacific Asia
+West Asia,Turquía,Mardin,Mardin,Pacific Asia
+South Asia,India,Kalyan,Maharashtra,Pacific Asia
+Western Europe,Francia,Boulogne-Billancourt,Isla de Francia,Europe
+Eastern Europe,Rumania,Targu Mures,Mures,Europe
+Eastern Europe,Ucrania,Donets'k,Donetsk,Europe
+Southern Europe,España,Jerez de la Frontera,Andalucía,Europe
+Western Europe,Alemania,Oberhausen,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Pontoise,Isla de Francia,Europe
+Northern Europe,Reino Unido,Crawley,Inglaterra,Europe
+Western Europe,Francia,Wasquehal,Norte-Paso de Calais-Picardía,Europe
+Eastern Europe,Rusia,Miass,Cheliábinsk,Europe
+Western Europe,Austria,Villach,Carintia,Europe
+Eastern Europe,Rusia,Vladímir,Vladímir,Europe
+Western Europe,Francia,Annemasse,Auvernia-Ródano-Alpes,Europe
+Western Europe,Francia,Metz,Alsacia-Champaña-Ardenas-Lorena,Europe
+Western Europe,Francia,Levallois-Perret,Isla de Francia,Europe
+Western Europe,Francia,Givors,Auvernia-Ródano-Alpes,Europe
+Eastern Europe,Rusia,Bélgorod,Bélgorod,Europe
+Western Europe,Alemania,Menden,Renania del Norte-Westfalia,Europe
+Central America,Panamá,Arraiján,Panamá,Latam
+South America,Argentina,Rosario,Santa Fe,Latam
+South America,Argentina,Concepción del Uruguay,Entre Ríos,Latam
+South America,Chile,Viña del Mar,Valparaíso,Latam
+Central America,México,Apatzingán de la Constitución,Michoacán,Latam
+Central America,México,Tecomán,Colima,Latam
+South America,Brasil,Vitória,Espíritu Santo,Latam
+South America,Ecuador,Portoviejo,Manabí,Latam
+South America,Bolivia,Trinidad,El Beni,Latam
+South America,Brasil,Passo Fundo,Rio Grande do Sul,Latam
+South America,Brasil,Aracaju,Sergipe,Latam
+Central America,México,San Andrés Tuxtla,Veracruz,Latam
+South America,Colombia,Jamundí,Valle del Cauca,Latam
+Central America,México,Tehuacán,Puebla,Latam
+Central America,México,Lagos de Moreno,Jalisco,Latam
+South America,Brasil,São Miguel dos Campos,Alagoas,Latam
+Central America,El Salvador,Sonsonate,Sonsonate,Latam
+South America,Brasil,Bezerros,Pernambuco,Latam
+South Asia,India,Kochi,Kerala,Pacific Asia
+Oceania,Nueva Zelanda,Invercargill,Southland,Pacific Asia
+Eastern Asia,China,Lanzhou,Gansu,Pacific Asia
+West Asia,Turquía,Kilis,Kilis,Pacific Asia
+West Asia,Turquía,Siirt,Siirt,Pacific Asia
+Eastern Asia,China,Chaozhou,Guangdong,Pacific Asia
+West Asia,Turquía,Erzurum,Erzurum,Pacific Asia
+Oceania,Nueva Zelanda,Tauranga,Bay of Plenty,Pacific Asia
+South Asia,Pakistán,Sukkur,Sind,Pacific Asia
+South Asia,India,Mysore,Karnataka,Pacific Asia
+South Asia,India,Kolhapur,Maharashtra,Pacific Asia
+Eastern Asia,China,Jiaozuo,Henan,Pacific Asia
+Eastern Asia,Corea Del Sur,Aew?l-li,Jeju,Pacific Asia
+Eastern Asia,Japón,Edogawa-ku,Tokio,Pacific Asia
+West Asia,Turquía,Kastamonu,Kastamonu,Pacific Asia
+East Of Usa,Estados Unidos,Newark,Ohio,Usca
+Us Center,Estados Unidos,Superior,Wisconsin,Usca
+Canada,Canada,Regina,Saskatchewan,Usca
+Canada,Canada,Montréal,Quebec,Usca
+West Of Usa,Estados Unidos,Tempe,Arizona,Usca
+West Of Usa,Estados Unidos,Albuquerque,Nuevo México,Usca
+South Of  Usa,Estados Unidos,Wilson,Carolina del Norte,Usca
+Us Center,Estados Unidos,Mesquite,Texas,Usca
+West Of Usa,Estados Unidos,Woodland,California,Usca
+North Africa,Marruecos,El Jadida,Dukala-Abda,Africa
+West Asia,Arabia Saudí,Abha,Asir,Pacific Asia
+West Asia,Turquía,Antakya,Hatay,Pacific Asia
+West Africa,Guinea,Nzerekore,Nzérékoré,Africa
+Central Africa,República Democrática Del Congo,Likasi,Katanga,Africa
+South Of  Usa,Estados Unidos,Fort Lauderdale,Florida,Usca
+Us Center,Estados Unidos,Pasadena,Texas,Usca
+East Of Usa,Estados Unidos,Kent,Ohio,Usca
+East Of Usa,Estados Unidos,Bangor,Maine,Usca
+Us Center,Estados Unidos,Huntsville,Texas,Usca
+East Of Usa,Estados Unidos,Morristown,Nueva Jersey,Usca
+South Of  Usa,Estados Unidos,Decatur,Alabama,Usca
+South Of  Usa,Estados Unidos,Miramar,Florida,Usca
+South Of  Usa,Estados Unidos,Arlington,Virginia,Usca
+South Of  Usa,Estados Unidos,Nashville,Tennessee,Usca
+West Of Usa,Estados Unidos,Santa Ana,California,Usca
+South Of  Usa,Estados Unidos,Marietta,Georgia,Usca
+South Of  Usa,Estados Unidos,Miami,Florida,Usca
+West Of Usa,Estados Unidos,Pasadena,California,Usca
+Us Center,Estados Unidos,Oak Park,Illinois,Usca
+Us Center,Estados Unidos,Wausau,Wisconsin,Usca
+Us Center,Estados Unidos,Fremont,Nebraska,Usca
+Us Center,Estados Unidos,Milwaukee,Wisconsin,Usca
+Us Center,Estados Unidos,Aurora,Illinois,Usca
+Us Center,Estados Unidos,Lakeville,Minnesota,Usca
+South Of  Usa,Estados Unidos,Durham,Carolina del Norte,Usca
+Eastern Asia,China,Anqing,Anhui,Pacific Asia
+Eastern Asia,China,Taiyuan,Shanxi,Pacific Asia
+South Asia,India,Pimpri,Maharashtra,Pacific Asia
+Eastern Asia,Japón,Ichikawa,Chiba,Pacific Asia
+Western Europe,Francia,Cournon-d'Auvergne,Auvernia,Europe
+Southern Europe,España,Oviedo,Asturias,Europe
+Western Europe,Francia,Clermont-Ferrand,Auvernia,Europe
+Northern Europe,Reino Unido,Cardiff,Gales,Europe
+Northern Europe,Irlanda,Cork,Cork,Europe
+Western Europe,Alemania,Gladbeck,Renania del Norte-Westfalia,Europe
+Southern Europe,Italia,Chieti,Abruzos,Europe
+Western Europe,Austria,Linz,Alta Austria,Europe
+Western Europe,Francia,Sceaux,Isla de Francia,Europe
+Western Europe,Francia,Montauban,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Southern Europe,Italia,Sassari,Cerdeña,Europe
+South America,Argentina,La Plata,Buenos Aires (provincia),Latam
+South America,Brasil,Cuiabá,Mato Grosso,Latam
+South America,Colombia,Malambo,Atlántico,Latam
+Western Europe,Francia,Auch,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Southern Europe,España,Lorca,Murcia,Europe
+Northern Europe,Reino Unido,Kingswood,Inglaterra,Europe
+Western Europe,Francia,Draguignan,Provenza-Alpes-Costa Azul,Europe
+Western Europe,Alemania,Offenburg,Baden-Wurtemberg,Europe
+Central America,México,Valles,San Luis Potosí,Latam
+Caribbean,Cuba,Morón,Ciego de Ávila,Latam
+South America,Brasil,São Benedito,Ceará,Latam
+Central America,México,Silao,Guanajuato,Latam
+West Africa,Nigeria,Enugu,Enugu,Africa
+East Africa,Kenia,Mombasa,Costa,Africa
+North Africa,Egipto,Sohag,Suhaj,Africa
+Northern Europe,Reino Unido,Watford,Inglaterra,Europe
+Western Europe,Francia,Albi,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Southern Europe,Portugal,Loures,Lisboa,Europe
+Western Europe,Francia,Villeurbanne,Auvernia-Ródano-Alpes,Europe
+Northern Europe,Irlanda,Tallaght,Dublín del Sur,Europe
+Northern Europe,Noruega,Stavanger,Rogaland,Europe
+Western Europe,Francia,Poissy,Isla de Francia,Europe
+Western Europe,Alemania,Aachen,Renania del Norte-Westfalia,Europe
+Eastern Europe,Rusia,Rybinsk,Yaroslavl,Europe
+Southern Europe,España,San Fernando,Andalucía,Europe
+Eastern Europe,Polonia,Ruda Slaska,Silesia,Europe
+Western Europe,Alemania,Darmstadt,Hesse,Europe
+Western Europe,Alemania,Worms,Renania-Palatinado,Europe
+Western Europe,Francia,Livry-Gargan,Isla de Francia,Europe
+Western Europe,Países Bajos,Zwolle,Overijssel,Europe
+Western Europe,Francia,Suresnes,Isla de Francia,Europe
+Western Europe,Alemania,Langen,Hesse,Europe
+Western Europe,Francia,Les Clayes-sous-Bois,Isla de Francia,Europe
+Western Europe,Alemania,Krefeld,Renania del Norte-Westfalia,Europe
+Caribbean,Martinica,Fort-de-France,Martinica,Latam
+South America,Brasil,Jacareí,São Paulo,Latam
+South America,Colombia,Cartagena,Bolívar,Latam
+Caribbean,República Dominicana,Bajos de Haina,San Cristóbal,Latam
+South America,Chile,Los Ángeles,Bío-Bío,Latam
+South America,Venezuela,Maracay,Aragua,Latam
+Eastern Asia,China,Qitaihe,Heilongjiang,Pacific Asia
+Eastern Asia,China,Tangshan,Hebei,Pacific Asia
+South Asia,India,Ganganagar,Rajastán,Pacific Asia
+South Asia,India,Panihati,Bengala Occidental,Pacific Asia
+West Asia,Turquía,Cankaya,Ankara,Pacific Asia
+Eastern Asia,China,Tieling,Liaoning,Pacific Asia
+West Asia,Turquía,Balikesir,Balikesir,Pacific Asia
+South Asia,India,Tiruppur,Tamil Nadu,Pacific Asia
+South Asia,India,Saharanpur,Uttar Pradesh,Pacific Asia
+Eastern Asia,China,Laohekou,Hubei,Pacific Asia
+South Asia,India,Bellary,Karnataka,Pacific Asia
+Us Center,Estados Unidos,Tyler,Texas,Usca
+South Of  Usa,Estados Unidos,Jonesboro,Arkansas,Usca
+West Of Usa,Estados Unidos,Vancouver,Washington,Usca
+West Of Usa,Estados Unidos,Santa Clara,California,Usca
+South Of  Usa,Estados Unidos,Florence,Kentucky,Usca
+Us Center,Estados Unidos,Portage,Indiana,Usca
+Eastern Europe,Moldavia,Balti,Balti,Europe
+Southern Europe,Croacia,Osijek,Osjecko-Baranjska,Europe
+Eastern Europe,Ucrania,Lisichansk,Lugansk,Europe
+South America,Paraguay,Lambaré,Central,Latam
+South Asia,India,Jodhpur,Rajastán,Pacific Asia
+West Of Usa,Estados Unidos,La Mesa,California,Usca
+Eastern Europe,Polonia,Katowice,Silesia,Europe
+South Asia,India,Jamnagar,Guyarat,Pacific Asia
+West Asia,Turquía,Kayseri,Kayseri,Pacific Asia
+West Asia,Arabia Saudí,Mecca,Meca,Pacific Asia
+Eastern Asia,China,Zigong,Sichuan,Pacific Asia
+South Asia,India,Dhule,Maharashtra,Pacific Asia
+Oceania,Nueva Zelanda,Whangarei,Northland,Pacific Asia
+Eastern Asia,China,Hefei,Anhui,Pacific Asia
+Eastern Asia,China,Handan,Hebei,Pacific Asia
+South Asia,India,Aurangabad,Maharashtra,Pacific Asia
+Us Center,Estados Unidos,Muskogee,Oklahoma,Usca
+South Of  Usa,Estados Unidos,Murfreesboro,Tennessee,Usca
+South Of  Usa,Estados Unidos,Mobile,Alabama,Usca
+East Of Usa,Estados Unidos,Westfield,Nueva Jersey,Usca
+Us Center,Estados Unidos,Olathe,Kansas,Usca
+South Of  Usa,Estados Unidos,Lafayette,Luisiana,Usca
+Canada,Canada,Winnipeg,Manitoba,Usca
+East Of Usa,Estados Unidos,Paterson,Nueva Jersey,Usca
+Us Center,Estados Unidos,Lafayette,Indiana,Usca
+East Of Usa,Estados Unidos,Long Beach,Nueva York,Usca
+South Of  Usa,Estados Unidos,Hollywood,Florida,Usca
+Canada,Canada,Kingston,Ontario,Usca
+West Of Usa,Estados Unidos,Arvada,Colorado,Usca
+Canada,Canada,Quebec,Quebec,Usca
+South Of  Usa,Estados Unidos,East Point,Georgia,Usca
+West Of Usa,Estados Unidos,Inglewood,California,Usca
+East Of Usa,Estados Unidos,Lancaster,Ohio,Usca
+Us Center,Estados Unidos,Haltom City,Texas,Usca
+East Africa,Mozambique,Maputo,Cidade De Maputo,Africa
+Northern Europe,Reino Unido,Wallasey,Inglaterra,Europe
+Western Europe,Francia,Sannois,Isla de Francia,Europe
+Northern Europe,Dinamarca,Esbjerg,Dinamarca Meridional,Europe
+South America,Brasil,Pelotas,Rio Grande do Sul,Latam
+South Asia,India,Aligarh,Uttar Pradesh,Pacific Asia
+West Asia,Arabia Saudí,Al Hufuf,Ash Sharqiyah,Pacific Asia
+Eastern Asia,China,Jilin,Jilin,Pacific Asia
+West Of Usa,Estados Unidos,Covington,Washington,Usca
+Western Europe,Alemania,Dorsten,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Saint-Ouen,Isla de Francia,Europe
+Western Europe,Francia,Bressuire,Aquitania-Lemosín-Poitou-Charentes,Europe
+Western Europe,Francia,Thonon-les-Bains,Auvernia-Ródano-Alpes,Europe
+South America,Argentina,Mar del Plata,Buenos Aires (provincia),Latam
+South America,Colombia,Soacha,Cundinamarca,Latam
+South America,Chile,Iquique,Tarapacá,Latam
+South America,Brasil,Boa Esperança,Minas Gerais,Latam
+Oceania,Australia,Gladstone,Queensland,Pacific Asia
+South Asia,India,Mathura,Uttar Pradesh,Pacific Asia
+South Asia,India,Amravati,Maharashtra,Pacific Asia
+South Asia,India,Chandigarh,Chandigarh,Pacific Asia
+West Of Usa,Estados Unidos,Longview,Washington,Usca
+Us Center,Estados Unidos,Lincoln Park,Michigan,Usca
+Us Center,Estados Unidos,Oklahoma City,Oklahoma,Usca
+South Of  Usa,Estados Unidos,Orlando,Florida,Usca
+East Africa,Mozambique,Maxixe,Inhambane,Africa
+Western Europe,Francia,Sucy-en-Brie,Isla de Francia,Europe
+Western Europe,Países Bajos,Haarlem,Holanda Septentrional,Europe
+Southern Europe,España,Lugo,Galicia,Europe
+Southern Europe,España,Guadalajara,Castilla-La Mancha,Europe
+South America,Chile,Valparaíso,Valparaíso,Latam
+Central America,México,Nicolás Romero,México,Latam
+South America,Brasil,Guaratinguetá,São Paulo,Latam
+East Of Usa,Estados Unidos,Troy,Ohio,Usca
+Western Europe,Francia,Belfort,Borgoña-Franco Condado,Europe
+South Asia,Irán,Teherán,Teherán,Pacific Asia
+Eastern Asia,China,Luoyang,Henan,Pacific Asia
+South Asia,India,Bareilly,Uttar Pradesh,Pacific Asia
+Eastern Asia,Japón,Funabashi,Chiba,Pacific Asia
+Eastern Asia,China,Dongguan,Guangdong,Pacific Asia
+Southeast Asia,Vietnam,Nha Trang,Khánh Hòa,Pacific Asia
+Eastern Asia,China,Donghai,Guangdong,Pacific Asia
+Oceania,Nueva Zelanda,Napier,Hawke's Bay,Pacific Asia
+West Asia,Qatar,Doha,Doha,Pacific Asia
+West Asia,Jordania,Wadi as Sir,Amán,Pacific Asia
+Central Asia,Kazajistán,Pavlodar,Pavlodar,Pacific Asia
+Eastern Asia,China,Qiqihar,Heilongjiang,Pacific Asia
+Eastern Asia,China,Xianning,Hubei,Pacific Asia
+West Of Usa,Estados Unidos,Anaheim,California,Usca
+West Of Usa,Estados Unidos,Louisville,Colorado,Usca
+South Of  Usa,Estados Unidos,Conway,Arkansas,Usca
+Us Center,Estados Unidos,El Paso,Texas,Usca
+West Of Usa,Estados Unidos,Long Beach,California,Usca
+East Of Usa,Estados Unidos,Providence,Rhode Island,Usca
+Us Center,Estados Unidos,Rochester,Minnesota,Usca
+West Of Usa,Estados Unidos,Riverside,California,Usca
+East Of Usa,Estados Unidos,Leominster,Massachusetts,Usca
+Us Center,Estados Unidos,Austin,Texas,Usca
+West Of Usa,Estados Unidos,Redmond,Washington,Usca
+West Of Usa,Estados Unidos,Salt Lake City,Utah,Usca
+East Of Usa,Estados Unidos,Fairfield,Connecticut,Usca
+Us Center,Estados Unidos,Waco,Texas,Usca
+Us Center,Estados Unidos,Bolingbrook,Illinois,Usca
+West Of Usa,Estados Unidos,San Bernardino,California,Usca
+South Of  Usa,Estados Unidos,Apopka,Florida,Usca
+East Of Usa,Estados Unidos,Quincy,Massachusetts,Usca
+South Of  Usa,Estados Unidos,Pembroke Pines,Florida,Usca
+West Of Usa,Estados Unidos,Everett,Washington,Usca
+Central Africa,Angola,Namibe,Namibe,Africa
+East Africa,Kenia,Kisumu,Nyanza,Africa
+Central Africa,Camerún,Garoua,Nord,Africa
+Western Europe,Francia,Colmar,Alsacia-Champaña-Ardenas-Lorena,Europe
+Southern Europe,Italia,Benevento,Campania,Europe
+Western Europe,Francia,Noisy-le-Sec,Isla de Francia,Europe
+Western Europe,Francia,Longjumeau,Isla de Francia,Europe
+Western Europe,Alemania,Kerpen,Renania del Norte-Westfalia,Europe
+Northern Europe,Reino Unido,Rhondda,Gales,Europe
+Western Europe,Francia,Le Pontet,Provenza-Alpes-Costa Azul,Europe
+Western Europe,Francia,Villejuif,Isla de Francia,Europe
+Southern Europe,España,Dos Hermanas,Andalucía,Europe
+South Asia,Irán,Sari,Mazandarán,Pacific Asia
+South Asia,Pakistán,Multan,Punyab,Pacific Asia
+Eastern Asia,Japón,Saga,Saga,Pacific Asia
+South Asia,India,Allahabad,Uttar Pradesh,Pacific Asia
+West Of Usa,Estados Unidos,Bellevue,Washington,Usca
+South Of  Usa,Estados Unidos,Bowling Green,Kentucky,Usca
+East Africa,Zambia,Ndola,Copperbelt,Africa
+West Africa,Mali,Mopti,Mopti,Africa
+Southern Europe,Italia,Torre del Greco,Campania,Europe
+Southern Europe,Italia,Velletri,Lacio,Europe
+Southern Europe,Albania,Durres,Durrës,Europe
+Central America,México,Guaymas,Sonora,Latam
+Eastern Asia,China,Kaifeng,Henan,Pacific Asia
+Oceania,Australia,Queanbeyan,Nueva Gales del Sur,Pacific Asia
+West Of Usa,Estados Unidos,Glendale,Arizona,Usca
+South Of  Usa,Estados Unidos,Sandy Springs,Georgia,Usca
+South Of  Usa,Estados Unidos,Monroe,Luisiana,Usca
+West Africa,Ghana,Kumasi,Ashanti,Africa
+Western Europe,Alemania,Bonn,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Saint-Genis-Laval,Auvernia-Ródano-Alpes,Europe
+Western Europe,Francia,La Celle-Saint-Cloud,Isla de Francia,Europe
+Western Europe,Francia,Montrouge,Isla de Francia,Europe
+Western Europe,Francia,Oyonnax,Auvernia-Ródano-Alpes,Europe
+Western Europe,Alemania,Karlsruhe,Baden-Wurtemberg,Europe
+Southern Europe,España,Lora del Río,Andalucía,Europe
+Western Europe,Francia,Colombes,Isla de Francia,Europe
+Western Europe,Países Bajos,Zaanstad,Holanda Septentrional,Europe
+Southern Europe,España,Estepona,Andalucía,Europe
+South America,Perú,Chimbote,Ancash,Latam
+Central America,México,Guanajuato,Guanajuato,Latam
+South America,Brasil,Gurupi,Tocantins,Latam
+Southeast Asia,Indonesia,Tasikmalaya,Java Occidental,Pacific Asia
+South Asia,India,Nasik,Maharashtra,Pacific Asia
+Southeast Asia,Filipinas,Marikina,Capital Nacional,Pacific Asia
+Eastern Asia,China,Zhumadian,Henan,Pacific Asia
+Eastern Asia,China,Kaiyuan,Liaoning,Pacific Asia
+South Of  Usa,Estados Unidos,Palm Coast,Florida,Usca
+Canada,Canada,Oshawa,Ontario,Usca
+South Of  Usa,Estados Unidos,Waynesboro,Virginia,Usca
+Us Center,Estados Unidos,Freeport,Illinois,Usca
+West Of Usa,Estados Unidos,Hesperia,California,Usca
+South Of  Usa,Estados Unidos,Bristol,Tennessee,Usca
+Southeast Asia,Indonesia,Banjarmasin,Borneo Meridional,Pacific Asia
+Central Africa,República Democrática Del Congo,Kolwezi,Katanga,Africa
+Southern Europe,España,Puertollano,Castilla-La Mancha,Europe
+West Of Usa,Estados Unidos,Salem,Oregón,Usca
+South America,Perú,Chincha Alta,Ica,Latam
+North Africa,Argelia,Laghouat,Laghouat,Africa
+Southern Africa,Sudafrica,eMbalenhle,Mpumalanga,Africa
+East Africa,Zambia,Lusaka,Lusaka,Africa
+Northern Europe,Reino Unido,Maidenhead,Inglaterra,Europe
+Eastern Europe,Bielorrusia,Lida,Grodno,Europe
+Western Europe,Francia,Lens,Norte-Paso de Calais-Picardía,Europe
+Northern Europe,Reino Unido,Nottingham,Inglaterra,Europe
+Northern Europe,Reino Unido,Fareham,Inglaterra,Europe
+Northern Europe,Reino Unido,Runcorn,Inglaterra,Europe
+Southern Europe,España,Sagunto,Valenciana,Europe
+Western Europe,Francia,Cannes,Provenza-Alpes-Costa Azul,Europe
+Southern Europe,Italia,Como,Lombardía,Europe
+Northern Europe,Reino Unido,Blackburn,Inglaterra,Europe
+Southern Europe,España,Vigo,Galicia,Europe
+Western Europe,Alemania,Euskirchen,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Vernon,Normandía,Europe
+Eastern Europe,Rusia,Gubkin,Bélgorod,Europe
+Eastern Europe,República Checa,Praga,Praga,Europe
+Western Europe,Alemania,Troisdorf,Renania del Norte-Westfalia,Europe
+Western Europe,Bélgica,Leuven,Brabante Flamenco,Europe
+Northern Europe,Reino Unido,Burnley,Inglaterra,Europe
+Eastern Europe,Rusia,Briansk,Briansk,Europe
+Western Europe,Austria,Graz,Stiria,Europe
+Western Europe,Bélgica,Bruselas,Bruselas,Europe
+Western Europe,Alemania,Norderstedt,Schleswig-Holstein,Europe
+Western Europe,Países Bajos,Eindhoven,Brabante Septentrional,Europe
+South America,Bolivia,Potosí,Potosí,Latam
+South America,Colombia,Palmira,Valle del Cauca,Latam
+South America,Brasil,São Luís,Marañón,Latam
+Central America,México,Melchor Ocampo,México,Latam
+Central America,México,Guzmán,Jalisco,Latam
+South America,Brasil,Caçador,Santa Catarina,Latam
+South America,Perú,Piura,Piura,Latam
+South America,Brasil,Ibirité,Minas Gerais,Latam
+Central America,México,Zihuatanejo,Guerrero,Latam
+South America,Colombia,Los Patios,Norte de Santander,Latam
+South America,Brasil,Lençóis Paulista,São Paulo,Latam
+Southeast Asia,Indonesia,Bengkulu,Bengkulu,Pacific Asia
+South Asia,India,Karnal,Haryana,Pacific Asia
+Eastern Asia,China,Mentougou,Pekín,Pacific Asia
+South Asia,Irán,Quchan,Jorasán Razaví,Pacific Asia
+South Asia,India,Hapur,Uttar Pradesh,Pacific Asia
+Eastern Asia,China,Jinjiang,Fujian,Pacific Asia
+Eastern Asia,China,Sanya,Hainan,Pacific Asia
+Eastern Asia,China,Bengbu,Anhui,Pacific Asia
+South Asia,Irán,Hamadán,Hamadán,Pacific Asia
+Eastern Asia,China,Jining,Mongolia Interior,Pacific Asia
+South Asia,India,Jammu,Jammu y Cachemira,Pacific Asia
+Us Center,Estados Unidos,Edinburg,Texas,Usca
+West Of Usa,Estados Unidos,Springfield,Oregón,Usca
+West Of Usa,Estados Unidos,Lake Elsinore,California,Usca
+Us Center,Estados Unidos,Indianapolis,Indiana,Usca
+East Of Usa,Estados Unidos,Allentown,Pensilvania,Usca
+Us Center,Estados Unidos,Grand Prairie,Texas,Usca
+East Of Usa,Estados Unidos,New Bedford,Massachusetts,Usca
+East Of Usa,Estados Unidos,Troy,Nueva York,Usca
+Us Center,Estados Unidos,Garden City,Kansas,Usca
+Us Center,Estados Unidos,La Crosse,Wisconsin,Usca
+East Of Usa,Estados Unidos,Dublín,Ohio,Usca
+West Of Usa,Estados Unidos,Redwood City,California,Usca
+East Of Usa,Estados Unidos,Everett,Massachusetts,Usca
+South Of  Usa,Estados Unidos,Chattanooga,Tennessee,Usca
+South Of  Usa,Estados Unidos,Jackson,Tennessee,Usca
+West Of Usa,Estados Unidos,Mesa,Arizona,Usca
+East Of Usa,Estados Unidos,Dover,Nuevo Hampshire,Usca
+East Of Usa,Estados Unidos,Mount Vernon,Nueva York,Usca
+West Of Usa,Estados Unidos,North Las Vegas,Nevada,Usca
+Us Center,Estados Unidos,Kenosha,Wisconsin,Usca
+Us Center,Estados Unidos,Richmond,Indiana,Usca
+East Of Usa,Estados Unidos,Cleveland,Ohio,Usca
+West Of Usa,Estados Unidos,Avondale,Arizona,Usca
+Us Center,Estados Unidos,Green Bay,Wisconsin,Usca
+Us Center,Estados Unidos,Naperville,Illinois,Usca
+Us Center,Estados Unidos,Glenview,Illinois,Usca
+East Of Usa,Estados Unidos,Watertown,Nueva York,Usca
+Us Center,Estados Unidos,Trenton,Michigan,Usca
+East Of Usa,Estados Unidos,Lakewood,Ohio,Usca
+West Of Usa,Estados Unidos,Bakersfield,California,Usca
+Us Center,Estados Unidos,Plano,Texas,Usca
+West Of Usa,Estados Unidos,Rio Rancho,Nuevo México,Usca
+West Of Usa,Estados Unidos,Vallejo,California,Usca
+South Of  Usa,Estados Unidos,Bossier City,Luisiana,Usca
+South Of  Usa,Estados Unidos,Smyrna,Georgia,Usca
+Canada,Canada,Markham,Ontario,Usca
+Us Center,Estados Unidos,Bloomington,Illinois,Usca
+East Of Usa,Estados Unidos,Hackensack,Nueva Jersey,Usca
+South Of  Usa,Estados Unidos,Burlington,Carolina del Norte,Usca
+East Of Usa,Estados Unidos,Toledo,Ohio,Usca
+West Of Usa,Estados Unidos,Santa Barbara,California,Usca
+Us Center,Estados Unidos,Texas City,Texas,Usca
+East Of Usa,Estados Unidos,Middletown,Connecticut,Usca
+Us Center,Estados Unidos,Evanston,Illinois,Usca
+West Of Usa,Estados Unidos,Eugene,Oregón,Usca
+South Of  Usa,Estados Unidos,Pensacola,Florida,Usca
+West Of Usa,Estados Unidos,Edmonds,Washington,Usca
+East Of Usa,Estados Unidos,Plainfield,Nueva Jersey,Usca
+South Of  Usa,Estados Unidos,Boynton Beach,Florida,Usca
+Us Center,Estados Unidos,La Porte,Indiana,Usca
+Us Center,Estados Unidos,Irving,Texas,Usca
+South Of  Usa,Estados Unidos,Athens,Georgia,Usca
+North Africa,Marruecos,Safi,Dukala-Abda,Africa
+North Africa,Argelia,Béchar,Béchar,Africa
+Central Africa,Camerún,Yaounde,Centro,Africa
+West Africa,Nigeria,Aba,Abia,Africa
+Central Africa,Camerún,Ebolowa,Sud,Africa
+West Africa,Nigeria,Abeokuta,Ogun,Africa
+North Africa,Egipto,Beni Suef,Bani Suwayf,Africa
+West Africa,Nigeria,Mubi,Adamawa,Africa
+Central Africa,República Democrática Del Congo,Kisangani,Provincia Oriental,Africa
+West Africa,Guinea,Kankan,Kankan,Africa
+Southern Africa,Sudafrica,Krugersdorp,Gauteng,Africa
+Central Africa,República Del Congo,Loubomo,Niari,Africa
+Western Europe,Países Bajos,Spijkenisse,Holanda Meridional,Europe
+Northern Europe,Reino Unido,Bedford,Inglaterra,Europe
+Southern Europe,España,Murcia,Murcia,Europe
+Western Europe,Alemania,Dinslaken,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Les Mureaux,Isla de Francia,Europe
+Eastern Europe,Rumania,Cluj-Napoca,Cluj,Europe
+Eastern Europe,Polonia,Bialystok,Podlaquia,Europe
+Western Europe,Bélgica,Roeselare,Flanders Occidental,Europe
+Western Europe,Francia,Faches-Thumesnil,Norte-Paso de Calais-Picardía,Europe
+Northern Europe,Reino Unido,Barnsley,Inglaterra,Europe
+Northern Europe,Reino Unido,Dudley,Inglaterra,Europe
+Southern Europe,Italia,Pomezia,Lacio,Europe
+Western Europe,Francia,Grasse,Provenza-Alpes-Costa Azul,Europe
+Western Europe,Francia,Villefontaine,Auvernia-Ródano-Alpes,Europe
+Eastern Europe,Polonia,Tarnow,Polonia Menor,Europe
+Southern Europe,Italia,Rovigo,Véneto,Europe
+Southern Europe,Bosnia Y Herzegovina,Tuzla,Federación de Bosnia y Herzegovina,Europe
+Eastern Europe,Ucrania,Zaporiyia,Zaporiyia,Europe
+Eastern Europe,Bulgaria,Burgas,Burgas,Europe
+Western Europe,Alemania,Moers,Renania del Norte-Westfalia,Europe
+Western Europe,Austria,Klagenfurt,Carintia,Europe
+Western Europe,Francia,Grenoble,Auvernia-Ródano-Alpes,Europe
+Southern Europe,España,Coslada,Madrid,Europe
+Western Europe,Alemania,Witten,Renania del Norte-Westfalia,Europe
+Southern Europe,España,Fuengirola,Andalucía,Europe
+Western Europe,Francia,Montigny-le-Bretonneux,Isla de Francia,Europe
+Western Europe,Francia,Fleury-les-Aubrais,Centro-Valle de Loira,Europe
+Northern Europe,Reino Unido,Chesterfield,Inglaterra,Europe
+Southern Europe,España,Elda,Valenciana,Europe
+Western Europe,Francia,Pierrefitte-sur-Seine,Isla de Francia,Europe
+Western Europe,Francia,Narbonne,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Western Europe,Bélgica,Bruges,Flanders Occidental,Europe
+Western Europe,Francia,Frontignan,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Western Europe,Francia,Schiltigheim,Alsacia-Champaña-Ardenas-Lorena,Europe
+Western Europe,Alemania,Hagen,Renania del Norte-Westfalia,Europe
+Southern Europe,Italia,Trieste,Friuli-Venecia Julia,Europe
+Western Europe,Francia,Amiens,Norte-Paso de Calais-Picardía,Europe
+South America,Brasil,Caucaia,Ceará,Latam
+South America,Argentina,Corrientes,Corrientes,Latam
+South America,Brasil,Novo Cruzeiro,Minas Gerais,Latam
+Central America,México,Monclova,Coahuila,Latam
+South America,Brasil,Boa Vista,Roraima,Latam
+South America,Brasil,Natal,Río Grande del Norte,Latam
+South America,Brasil,Petrópolis,Río de Janeiro,Latam
+Caribbean,Cuba,Cárdenas,Matanzas,Latam
+South America,Brasil,Barbacena,Minas Gerais,Latam
+Central America,México,Cuajimalpa,Distrito Federal,Latam
+South America,Brasil,Jaboticabal,São Paulo,Latam
+South America,Brasil,Mogi das Cruzes,São Paulo,Latam
+South America,Brasil,José Bonifácio,São Paulo,Latam
+South America,Venezuela,Bolívar,Bolívar,Latam
+Central America,México,Cuautitlán,México,Latam
+South America,Brasil,Abreu e Lima,Pernambuco,Latam
+South America,Colombia,Ibagué,Tolima,Latam
+South America,Brasil,Ijuí,Rio Grande do Sul,Latam
+South Asia,India,Bhopal,Madhya Pradesh,Pacific Asia
+South Asia,India,Bhiwandi,Maharashtra,Pacific Asia
+Eastern Asia,Japón,Yokkaichi,Oita,Pacific Asia
+South Asia,Irán,Khorramshahr,Juzestán,Pacific Asia
+South Asia,India,Ambattur,Tamil Nadu,Pacific Asia
+South Asia,Irán,Amol,Mazandarán,Pacific Asia
+West Asia,Turquía,Felahiye,Kayseri,Pacific Asia
+West Asia,Turquía,Menemen,Izmir,Pacific Asia
+Eastern Asia,China,Licheng,Guangdong,Pacific Asia
+Oceania,Australia,Geraldton,Australia Occidental,Pacific Asia
+West Asia,Turquía,Bandirma,Balikesir,Pacific Asia
+Eastern Asia,China,Yanji,Jilin,Pacific Asia
+West Asia,Omán,Mascate,Mascate,Pacific Asia
+Central Asia,Turkmenistán,Mary,Mary,Pacific Asia
+West Asia,Turquía,Osmaniye,Osmaniye,Pacific Asia
+South Asia,Irán,Masjed Soleyman,Juzestán,Pacific Asia
+South Asia,India,Guntur,Andhra Pradesh,Pacific Asia
+West Asia,Irak,Karbala,Karbala,Pacific Asia
+South Asia,Irán,Arak,Markazí,Pacific Asia
+Eastern Asia,China,Changsha,Hunan,Pacific Asia
+Eastern Asia,China,Yicheng,Hubei,Pacific Asia
+Eastern Asia,Japón,Matsudo,Chiba,Pacific Asia
+West Asia,Turquía,Etimesgut,Ankara,Pacific Asia
+Eastern Asia,China,Huizhou,Guangdong,Pacific Asia
+Eastern Asia,Japón,Shimonoseki,Yamaguchi,Pacific Asia
+Eastern Asia,China,Shijiazhuang,Hebei,Pacific Asia
+South Asia,India,Coimbatore,Tamil Nadu,Pacific Asia
+Us Center,Estados Unidos,Dearborn,Michigan,Usca
+East Of Usa,Estados Unidos,York,Pensilvania,Usca
+West Of Usa,Estados Unidos,Pomona,California,Usca
+West Of Usa,Estados Unidos,Caldwell,Idaho,Usca
+South Of  Usa,Estados Unidos,Gastonia,Carolina del Norte,Usca
+Us Center,Estados Unidos,Saginaw,Michigan,Usca
+East Of Usa,Estados Unidos,Dover,Delaware,Usca
+Canada,Canada,Vancouver,Columbia británica,Usca
+East Of Usa,Estados Unidos,Lorain,Ohio,Usca
+Us Center,Estados Unidos,Lubbock,Texas,Usca
+Canada,Canada,Saint-Laurent,Quebec,Usca
+East Of Usa,Estados Unidos,Yonkers,Nueva York,Usca
+South Of  Usa,Estados Unidos,Montgomery,Alabama,Usca
+Us Center,Estados Unidos,Roseville,Minnesota,Usca
+South Of  Usa,Estados Unidos,Suffolk,Virginia,Usca
+West Of Usa,Estados Unidos,Des Moines,Washington,Usca
+East Of Usa,Estados Unidos,Utica,Nueva York,Usca
+West Of Usa,Estados Unidos,Apple Valley,California,Usca
+East Of Usa,Estados Unidos,Washington,Distrito de Columbia,Usca
+East Of Usa,Estados Unidos,Bridgeton,Nueva Jersey,Usca
+West Of Usa,Estados Unidos,Tigard,Oregón,Usca
+East Of Usa,Estados Unidos,Franklin,Massachusetts,Usca
+Us Center,Estados Unidos,Rockford,Illinois,Usca
+East Of Usa,Estados Unidos,Malden,Massachusetts,Usca
+East Of Usa,Estados Unidos,Fairfield,Ohio,Usca
+Southern Africa,Sudafrica,Bloemfontein,Estado Libre,Africa
+North Africa,Argelia,Batna,Batna,Africa
+West Africa,Nigeria,Sokoto,Sokoto,Africa
+Southern Africa,Sudafrica,Westonaria,Gauteng,Africa
+North Africa,Túnez,Túnez,Túnez,Africa
+West Africa,Níger,Maradi,Maradi,Africa
+Central Africa,Angola,Benguela,Benguela,Africa
+Northern Europe,Reino Unido,Bideford,Inglaterra,Europe
+Western Europe,Alemania,Friedberg,Hesse,Europe
+Western Europe,Alemania,Schiffweiler,Sarre,Europe
+Eastern Europe,Rumania,Resita,Caras-Severin,Europe
+Western Europe,Francia,Rosny-sous-Bois,Isla de Francia,Europe
+Western Europe,Francia,Lisieux,Normandía,Europe
+Eastern Europe,Rumania,Arad,Arad,Europe
+Western Europe,Francia,Montereau-Fault-Yonne,Isla de Francia,Europe
+Eastern Europe,Ucrania,Uman,Cherkasy,Europe
+Western Europe,Alemania,Passau,Bavaria,Europe
+Southern Europe,Italia,Busto Arsizio,Lombardía,Europe
+Eastern Europe,Ucrania,Luts'k,Volinia,Europe
+Western Europe,Francia,Denain,Norte-Paso de Calais-Picardía,Europe
+Western Europe,Francia,Bourges,Centro-Valle de Loira,Europe
+Western Europe,Francia,Meaux,Isla de Francia,Europe
+Northern Europe,Reino Unido,Slough,Inglaterra,Europe
+Northern Europe,Reino Unido,Reading,Inglaterra,Europe
+Southern Europe,España,El Ejido,Andalucía,Europe
+Western Europe,Alemania,Cottbus,Brandenburgo,Europe
+West Of Usa,Estados Unidos,Lakewood,California,Usca
+West Of Usa,Estados Unidos,Sunnyvale,California,Usca
+Us Center,Estados Unidos,Carrollton,Texas,Usca
+South Of  Usa,Estados Unidos,Pine Bluff,Arkansas,Usca
+Us Center,Estados Unidos,Laredo,Texas,Usca
+Us Center,Estados Unidos,Mishawaka,Indiana,Usca
+Central Africa,Camerún,Ngaoundere,Adamaoua,Africa
+West Africa,Sierra Leona,Makeni,Septentrional,Africa
+East Africa,Tanzania,Mbeya,Mbeya,Africa
+West Africa,Nigeria,Ilorin,Kwara,Africa
+West Africa,Nigeria,Jos,Plateau,Africa
+West Africa,Benín,Natitingou,Atakora,Africa
+Southern Africa,Sudafrica,East London,Cabo Oriental,Africa
+East Africa,Yibuti,Yibuti,Yibuti,Africa
+Central Africa,Camerún,Bertoua,Est,Africa
+North Africa,Egipto,Bilbeis,Ash Sharqiyah,Africa
+Eastern Europe,Bielorrusia,Grodno,Grodno,Europe
+Western Europe,Austria,Wels,Alta Austria,Europe
+Western Europe,Francia,Villeneuve-sur-Lot,Aquitania-Lemosín-Poitou-Charentes,Europe
+Western Europe,Francia,Taverny,Isla de Francia,Europe
+Eastern Europe,Rusia,Usol'ye-Sibirskoye,Irkutsk,Europe
+Eastern Europe,Rusia,Kopeysk,Cheliábinsk,Europe
+Southern Europe,España,Santiago de Compostela,Galicia,Europe
+Western Europe,Francia,Guyancourt,Isla de Francia,Europe
+Northern Europe,Reino Unido,Norwich,Inglaterra,Europe
+Southern Europe,Italia,Bolzano,Trentino-Alto Adigio,Europe
+Eastern Europe,Rumania,Baia Mare,Maramures,Europe
+Western Europe,Francia,Le Cannet,Provenza-Alpes-Costa Azul,Europe
+Western Europe,Alemania,Ludwigshafen am Rhein,Renania-Palatinado,Europe
+Eastern Europe,Ucrania,Drogobych,Lviv,Europe
+Eastern Europe,Moldavia,Chisináu,Chisináu,Europe
+Western Europe,Francia,Gardanne,Provenza-Alpes-Costa Azul,Europe
+Western Europe,Francia,Beaune,Borgoña-Franco Condado,Europe
+South America,Venezuela,Guayana,Bolívar,Latam
+South America,Colombia,Ocaña,Norte de Santander,Latam
+Central America,México,Sahuayo de José María Morelos,Michoacán,Latam
+South America,Brasil,Duque de Caxias,Río de Janeiro,Latam
+Central America,México,Chetumal,Quintana Roo,Latam
+South America,Brasil,Montes Claros,Minas Gerais,Latam
+South America,Brasil,Goiânia,Goiás,Latam
+Central America,México,Fresnillo de González Echeverría,Zacatecas,Latam
+South America,Venezuela,Carora,Lara,Latam
+South America,Brasil,Diadema,São Paulo,Latam
+West Asia,Turquía,Esenyurt,Estambul,Pacific Asia
+South Asia,Irán,Khomeynishahr,Isfahán,Pacific Asia
+Southeast Asia,Indonesia,Banda Aceh,Aceh,Pacific Asia
+South Asia,Irán,Sabzevar,Jorasán Razaví,Pacific Asia
+Eastern Asia,China,Shuangyashan,Heilongjiang,Pacific Asia
+Eastern Asia,Japón,Ueda,Nagano,Pacific Asia
+Oceania,Nueva Zelanda,Hastings,Hawke's Bay,Pacific Asia
+South Of  Usa,Estados Unidos,Hendersonville,Tennessee,Usca
+West Of Usa,Estados Unidos,Scottsdale,Arizona,Usca
+South Of  Usa,Estados Unidos,Hickory,Carolina del Norte,Usca
+West Of Usa,Estados Unidos,Meridian,Idaho,Usca
+Canada,Canada,Waterloo,Ontario,Usca
+South Of  Usa,Estados Unidos,Knoxville,Tennessee,Usca
+Central Africa,Camerún,Bafoussam,Ouest,Africa
+East Africa,Tanzania,Kigoma,Kigoma,Africa
+East Africa,Burundi,Bujumbura,Buyumbura Mairie,Africa
+Western Europe,Francia,Beauvais,Norte-Paso de Calais-Picardía,Europe
+Southern Europe,España,Ceuta,Ceuta,Europe
+Southern Europe,Italia,Quartu Sant'Elena,Cerdeña,Europe
+Southern Europe,Italia,Castellammare di Stabia,Campania,Europe
+Eastern Europe,Ucrania,Nizhyn,Chernihiv,Europe
+Eastern Europe,Polonia,Rybnik,Silesia,Europe
+Northern Europe,Reino Unido,Worthing,Inglaterra,Europe
+Northern Europe,Reino Unido,York,Inglaterra,Europe
+Southern Europe,España,Santander,Cantabria,Europe
+Northern Europe,Reino Unido,Oxford,Inglaterra,Europe
+Southern Europe,Italia,Fiumicino,Lacio,Europe
+Southern Europe,España,Sant Boi de Llobregat,Cataluña,Europe
+Southern Europe,Montenegro,Podgorica,Podgorica,Europe
+Southern Europe,Bosnia Y Herzegovina,Sarajevo,Federación de Bosnia y Herzegovina,Europe
+Central America,México,Garza García,Nuevo León,Latam
+Oceania,Australia,Orange,Nueva Gales del Sur,Pacific Asia
+Us Center,Estados Unidos,Sterling Heights,Michigan,Usca
+South Of  Usa,Estados Unidos,Hialeah,Florida,Usca
+West Of Usa,Estados Unidos,Chandler,Arizona,Usca
+East Africa,Tanzania,Chalinze,Pwani,Africa
+Central Africa,Gabón,Libreville,Estuaire,Africa
+Southern Europe,Italia,Vignola,Emilia-Romaña,Europe
+Western Europe,Francia,Fontenay-le-Comte,Países del Loira,Europe
+Western Europe,Países Bajos,Delft,Holanda Meridional,Europe
+Western Europe,Francia,Abbeville,Norte-Paso de Calais-Picardía,Europe
+Northern Europe,Reino Unido,Chester,Inglaterra,Europe
+Western Europe,Francia,Saint-Pierre-des-Corps,Centro-Valle de Loira,Europe
+Northern Europe,Reino Unido,Washington,Inglaterra,Europe
+Northern Europe,Reino Unido,Bath,Inglaterra,Europe
+Southern Europe,Albania,Vlore,Vlorë,Europe
+Southern Europe,Italia,Cremona,Lombardía,Europe
+Western Europe,Francia,Colomiers,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+South America,Brasil,Lorena,São Paulo,Latam
+South America,Brasil,Paranaguá,Paraná,Latam
+South America,Colombia,Mosquera,Cundinamarca,Latam
+South America,Brasil,Guanambi,Bahía,Latam
+Central Asia,Uzbekistán,Andijon,Andiján,Pacific Asia
+Oceania,Nueva Zelanda,Papakura,Auckland,Pacific Asia
+Eastern Asia,China,Ningbo,Zhejiang,Pacific Asia
+East Of Usa,Estados Unidos,Orange,Nueva Jersey,Usca
+Us Center,Estados Unidos,Bedford,Texas,Usca
+East Of Usa,Estados Unidos,Bristol,Connecticut,Usca
+Canada,Canada,Brampton,Ontario,Usca
+Eastern Europe,Rusia,Severodvinsk,Arjánguelsk,Europe
+South America,Chile,San Bernardo,Santiago de Chile,Latam
+South Asia,Pakistán,Islamabad,Territorio de la Capital Federal,Pacific Asia
+Eastern Asia,China,Wuchang,Heilongjiang,Pacific Asia
+South Of  Usa,Estados Unidos,Johnson City,Tennessee,Usca
+Western Europe,Francia,Saint-Dizier,Alsacia-Champaña-Ardenas-Lorena,Europe
+South Of  Usa,Estados Unidos,Lake Charles,Luisiana,Usca
+North Africa,Sudán,Al Manaqil,Gezira,Africa
+North Africa,Marruecos,Sidi Qacem,Garb-Chrarda-Beni Hsen,Africa
+Western Europe,Francia,Saint-Nazaire,Países del Loira,Europe
+East Africa,Uganda,Gulu,Gulu,Africa
+Southern Europe,Italia,Boscoreale,Campania,Europe
+South America,Venezuela,Cagua,Aragua,Latam
+South America,Ecuador,Cuenca,Azuay,Latam
+Eastern Asia,China,Nanning,Guangxi,Pacific Asia
+West Of Usa,Estados Unidos,Mission Viejo,California,Usca
+Northern Europe,Reino Unido,Barry,Gales,Europe
+Eastern Asia,China,Yulin,Shaanxi,Pacific Asia
+North Africa,Egipto,Kafr ad Dawwar,Al Buhayrah,Africa
+Northern Europe,Reino Unido,Morley,Inglaterra,Europe
+South America,Brasil,Rio Grande,Rio Grande do Sul,Latam
+South Asia,Pakistán,Peshawar,Jaiber Pajtunjuá,Pacific Asia
+South America,Colombia,Girón,Santander,Latam
+Northern Europe,Reino Unido,Coventry,Inglaterra,Europe
+East Africa,Ruanda,Kigali,Kigali,Africa
+East Africa,Sudán Del Sur,Juba,Ecuatoria Central,Africa
+Western Europe,Alemania,Koblenz,Renania-Palatinado,Europe
+Western Europe,Alemania,Unna,Renania del Norte-Westfalia,Europe
+Western Europe,Luxemburgo,Luxemburgo,Luxemburgo,Europe
+Northern Europe,Reino Unido,Newcastle upon Tyne,Inglaterra,Europe
+Western Europe,Francia,Maisons-Laffitte,Isla de Francia,Europe
+Western Europe,Francia,Toul,Alsacia-Champaña-Ardenas-Lorena,Europe
+South America,Brasil,Pinheiro,Marañón,Latam
+South America,Bolivia,Sucre,Chuquisaca,Latam
+South America,Paraguay,San Lorenzo,Central,Latam
+South America,Venezuela,Petare,Miranda,Latam
+Eastern Asia,China,Zhongxiang,Hubei,Pacific Asia
+South Asia,India,Indore,Madhya Pradesh,Pacific Asia
+South Asia,India,Salem,Tamil Nadu,Pacific Asia
+Southeast Asia,Malasia,Shah Alam,Selangor,Pacific Asia
+Eastern Asia,China,Zunyi,Guizhou,Pacific Asia
+East Of Usa,Estados Unidos,Gaithersburg,Maryland,Usca
+West Of Usa,Estados Unidos,Carlsbad,Nuevo México,Usca
+East Of Usa,Estados Unidos,Vineland,Nueva Jersey,Usca
+Southern Africa,Sudafrica,George,Cabo Occidental,Africa
+Northern Europe,Reino Unido,Liverpool,Inglaterra,Europe
+Eastern Asia,China,Pingdingshan,Henan,Pacific Asia
+South Asia,India,Patiala,Punyab,Pacific Asia
+Central Africa,Camerún,Kumba,Ouest del Sur,Africa
+North Africa,Marruecos,Beni Mellal,Tadla-Azilal,Africa
+Eastern Europe,Rumania,Iasi,Iasi,Europe
+Northern Europe,Reino Unido,Hinckley,Inglaterra,Europe
+Western Europe,Francia,Arras,Norte-Paso de Calais-Picardía,Europe
+Northern Europe,Reino Unido,Kettering,Inglaterra,Europe
+Western Europe,Francia,Bar-le-Duc,Alsacia-Champaña-Ardenas-Lorena,Europe
+Southern Europe,Italia,Latina,Lacio,Europe
+Southern Europe,Italia,Imola,Emilia-Romaña,Europe
+Southern Europe,España,El Prat de Llobregat,Cataluña,Europe
+Western Europe,Países Bajos,Venlo,Limburgo,Europe
+Western Europe,Francia,Saint-Cyr-sur-Loire,Centro-Valle de Loira,Europe
+Eastern Europe,Bulgaria,Yambol,Yambol,Europe
+Western Europe,Francia,Echirolles,Auvernia-Ródano-Alpes,Europe
+Western Europe,Francia,Saumur,Países del Loira,Europe
+Western Europe,Alemania,Villingen-Schwenningen,Baden-Wurtemberg,Europe
+Northern Europe,Reino Unido,Bristol,Inglaterra,Europe
+Western Europe,Alemania,Grevenbroich,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Carquefou,Países del Loira,Europe
+Northern Europe,Reino Unido,Worcester,Inglaterra,Europe
+South America,Brasil,Osasco,São Paulo,Latam
+Central America,México,Salamanca,Guanajuato,Latam
+South Asia,Irán,Behshahr,Mazandarán,Pacific Asia
+South Asia,India,Puducherry,Puducherry,Pacific Asia
+South Asia,India,Cuttack,Odisha,Pacific Asia
+Us Center,Estados Unidos,Mcallen,Texas,Usca
+Western Europe,Francia,Angers,Países del Loira,Europe
+Eastern Europe,República Checa,Hradec Králové,Hradec Králové,Europe
+South America,Argentina,Presidencia Roque Sáenz Peña,Chaco,Latam
+South Of  Usa,Estados Unidos,Greensboro,Carolina del Norte,Usca
+West Of Usa,Estados Unidos,Oceanside,California,Usca
+East Africa,Mozambique,Beira,Sofala,Africa
+West Africa,Mali,Sikasso,Sikasso,Africa
+East Africa,Tanzania,Arusha,Arusha,Africa
+West Africa,Togo,Sokode,Central,Africa
+East Africa,Zambia,Chingola,Copperbelt,Africa
+West Africa,Nigeria,Owo,Ondo,Africa
+North Africa,Egipto,Menia,Menia,Africa
+Southern Africa,Sudafrica,Giyani,Limpopo,Africa
+Southern Africa,Namibia,Windhoek,Khomas,Africa
+West Africa,Mauritania,Nouakchott,Nouakchott,Africa
+West Africa,Nigeria,Benin City,Edo,Africa
+East Africa,Mozambique,Pemba,Cabo Delgado,Africa
+West Africa,Nigeria,Ilesha,Osun,Africa
+Southern Africa,Sudafrica,Mpumalanga,KwaZulu-Natal,Africa
+North Africa,Argelia,Messaad,Djelfa,Africa
+East Africa,Kenia,Marsabit,Oriental,Africa
+West Africa,Benín,Kandi,Alibori,Africa
+West Africa,Sierra Leona,Bo,Meridional,Africa
+Western Europe,Francia,Torcy,Isla de Francia,Europe
+Western Europe,Alemania,Flensburg,Schleswig-Holstein,Europe
+Western Europe,Suiza,Basel,Basilea-Ciudad,Europe
+Southern Europe,Italia,La Spezia,Liguria,Europe
+Western Europe,Países Bajos,Roermond,Limburgo,Europe
+Eastern Europe,Ucrania,Krasnyy Luch,Lugansk,Europe
+Western Europe,Alemania,Pforzheim,Baden-Wurtemberg,Europe
+Southern Europe,Italia,Potenza,Basilicata,Europe
+Western Europe,Países Bajos,Alkmaar,Holanda Septentrional,Europe
+Northern Europe,Reino Unido,Torquay,Inglaterra,Europe
+Eastern Europe,Eslovaquia,Nitra,Nitra,Europe
+Western Europe,Francia,Laval,Países del Loira,Europe
+Eastern Europe,Ucrania,Nikopol,Dnipropetrovsk,Europe
+Southern Europe,Italia,Trento,Trentino-Alto Adigio,Europe
+Western Europe,Países Bajos,Hilversum,Holanda Septentrional,Europe
+Western Europe,Francia,Neuilly-Plaisance,Isla de Francia,Europe
+Northern Europe,Dinamarca,Sonderborg,Dinamarca Meridional,Europe
+Northern Europe,Suecia,Landskrona,Escania,Europe
+Western Europe,Francia,Evreux,Normandía,Europe
+Western Europe,Francia,Illkirch-Graffenstaden,Alsacia-Champaña-Ardenas-Lorena,Europe
+Southern Europe,Italia,Foligno,Umbría,Europe
+Southern Europe,Italia,Ercolano,Campania,Europe
+Western Europe,Alemania,Leverkusen,Renania del Norte-Westfalia,Europe
+Western Europe,Países Bajos,Deventer,Overijssel,Europe
+Eastern Europe,Bielorrusia,Zhlobin,Gómel,Europe
+Southern Europe,España,Parla,Madrid,Europe
+Southern Europe,Italia,Lecce,Apulia,Europe
+Western Europe,Francia,Alfortville,Isla de Francia,Europe
+Eastern Europe,Ucrania,Ternópil,Ternópil,Europe
+Southern Europe,España,Toledo,Castilla-La Mancha,Europe
+Western Europe,Francia,Nogent-sur-Oise,Norte-Paso de Calais-Picardía,Europe
+Western Europe,Francia,Douai,Norte-Paso de Calais-Picardía,Europe
+Western Europe,Francia,Saint-Herblain,Países del Loira,Europe
+Western Europe,Francia,Mitry-Mory,Isla de Francia,Europe
+Southern Europe,Albania,Korce,Korçë,Europe
+Northern Europe,Reino Unido,Huyton,Inglaterra,Europe
+Western Europe,Suiza,Lausanne,Vaud,Europe
+Western Europe,Francia,Montesson,Isla de Francia,Europe
+Eastern Europe,Rumania,Buzau,Buzau,Europe
+Southern Europe,España,Salamanca,Castilla y León,Europe
+Western Europe,Francia,Eragny,Isla de Francia,Europe
+Western Europe,Francia,Les Ulis,Isla de Francia,Europe
+Northern Europe,Reino Unido,Hove,Inglaterra,Europe
+Western Europe,Bélgica,Namur,Namur,Europe
+Western Europe,Francia,Yerres,Isla de Francia,Europe
+Southern Europe,Italia,Taranto,Apulia,Europe
+Western Europe,Austria,Innsbruck,Tirol,Europe
+Northern Europe,Reino Unido,Wakefield,Inglaterra,Europe
+Western Europe,Francia,Lunel,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Western Europe,Países Bajos,Assen,Drenthe,Europe
+Western Europe,Alemania,Bottrop,Renania del Norte-Westfalia,Europe
+Southern Europe,España,Alcobendas,Madrid,Europe
+Northern Europe,Suecia,Lund,Escania,Europe
+Southern Europe,Italia,Pistoia,Toscana,Europe
+Western Europe,Francia,Landerneau,Bretaña,Europe
+Northern Europe,Reino Unido,Hemel Hempstead,Inglaterra,Europe
+Western Europe,Alemania,Paderborn,Renania del Norte-Westfalia,Europe
+Northern Europe,Reino Unido,Rochdale,Inglaterra,Europe
+Western Europe,Alemania,Minden,Renania del Norte-Westfalia,Europe
+Southern Europe,Portugal,Coimbra,Coimbra,Europe
+Western Europe,Francia,Roubaix,Norte-Paso de Calais-Picardía,Europe
+Western Europe,Francia,Auxerre,Borgoña-Franco Condado,Europe
+Western Europe,Francia,Saint-Jean-de-la-Ruelle,Centro-Valle de Loira,Europe
+Western Europe,Francia,Forbach,Alsacia-Champaña-Ardenas-Lorena,Europe
+Western Europe,Bélgica,Aalst,Flanders Oriental,Europe
+Western Europe,Francia,Lomme,Norte-Paso de Calais-Picardía,Europe
+Eastern Europe,Polonia,Plock,Mazovia,Europe
+Western Europe,Países Bajos,Sittard,Limburgo,Europe
+Western Europe,Francia,Troyes,Alsacia-Champaña-Ardenas-Lorena,Europe
+Northern Europe,Lituania,Panevezys,Panevezys,Europe
+Southern Europe,Grecia,Athens,Attica,Europe
+Eastern Europe,Ucrania,Cherkasy,Cherkasy,Europe
+Eastern Europe,Rumania,Sibiu,Sibiu,Europe
+Northern Europe,Reino Unido,Chelmsford,Inglaterra,Europe
+Northern Europe,Reino Unido,Gillingham,Inglaterra,Europe
+Western Europe,Países Bajos,Velsen,Holanda Septentrional,Europe
+Western Europe,Alemania,Regensburg,Bavaria,Europe
+Northern Europe,Reino Unido,Sale,Inglaterra,Europe
+South America,Brasil,Jundiaí,São Paulo,Latam
+South Asia,Irán,Ardebil,Ardebil,Pacific Asia
+South Asia,India,Barasat,Bengala Occidental,Pacific Asia
+Southeast Asia,Vietnam,Can Tho,T?nh C?n Th?,Pacific Asia
+Southeast Asia,Indonesia,Binjai,Sumatra Septentrional,Pacific Asia
+South Asia,Irán,Sanandaj,Kurdistán,Pacific Asia
+Eastern Asia,China,Yangquan,Shanxi,Pacific Asia
+West Asia,Turquía,Elazig,Elazig,Pacific Asia
+South Of  Usa,Estados Unidos,Florence,Carolina del Sur,Usca
+West Of Usa,Estados Unidos,Lake Forest,California,Usca
+East Of Usa,Estados Unidos,Marion,Ohio,Usca
+South Of  Usa,Estados Unidos,Jupiter,Florida,Usca
+South Of  Usa,Estados Unidos,Coral Springs,Florida,Usca
+South Of  Usa,Estados Unidos,Georgetown,Kentucky,Usca
+West Africa,Costa De Marfil,Man,Dix-Huit Montagnes,Africa
+Central Africa,República Democrática Del Congo,Kamina,Katanga,Africa
+West Africa,Nigeria,Owerri,Imo,Africa
+Northern Europe,Reino Unido,Birkenhead,Inglaterra,Europe
+Western Europe,Francia,Massy,Isla de Francia,Europe
+Northern Europe,Suecia,Helsingborg,Escania,Europe
+Southern Europe,Italia,Falconara Marittima,Marche,Europe
+Eastern Europe,Bulgaria,Plovdiv,Plovdiv,Europe
+Southern Europe,Italia,Legnano,Lombardía,Europe
+Western Europe,Francia,Lattes,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Northern Europe,Reino Unido,Middlesbrough,Inglaterra,Europe
+Western Europe,Alemania,Lippstadt,Renania del Norte-Westfalia,Europe
+Eastern Europe,Rumania,Braila,Braila,Europe
+Western Europe,Francia,Montgeron,Isla de Francia,Europe
+Western Europe,Francia,Vitry-sur-Seine,Isla de Francia,Europe
+Western Europe,Francia,Ploemeur,Bretaña,Europe
+Southern Europe,España,Manresa,Cataluña,Europe
+Western Europe,Alemania,Bamberg,Bavaria,Europe
+South America,Colombia,Ipiales,Nariño,Latam
+South America,Venezuela,Baruta,Miranda,Latam
+Central America,México,Rosarito,Baja California,Latam
+South Asia,India,Tirupati,Andhra Pradesh,Pacific Asia
+South Asia,India,Naihati,Bengala Occidental,Pacific Asia
+Eastern Asia,China,Changde,Hunan,Pacific Asia
+South Of  Usa,Estados Unidos,Concord,Carolina del Norte,Usca
+North Africa,Marruecos,Larache,Tánger-Tetuán,Africa
+West Africa,Togo,Atakpame,Plateaux,Africa
+West Africa,Nigeria,Funtua,Katsina,Africa
+Southern Africa,Sudafrica,Mabopane,Gauteng,Africa
+Western Europe,Francia,Istres,Provenza-Alpes-Costa Azul,Europe
+Northern Europe,Noruega,Bergen,Hordaland,Europe
+Southern Europe,España,Albacete,Castilla-La Mancha,Europe
+Western Europe,Francia,Cluses,Auvernia-Ródano-Alpes,Europe
+Southern Europe,España,Cartagena,Murcia,Europe
+Southern Europe,Italia,Lucca,Toscana,Europe
+Western Europe,Francia,Vertou,Países del Loira,Europe
+Western Europe,Alemania,Hattingen,Renania del Norte-Westfalia,Europe
+Southern Europe,Italia,Pesaro,Marche,Europe
+Western Europe,Alemania,Sonneberg,Turingia,Europe
+Western Europe,Francia,Saint-Laurent-du-Var,Provenza-Alpes-Costa Azul,Europe
+Northern Europe,Reino Unido,Harrogate,Inglaterra,Europe
+Southern Europe,España,Badajoz,Extremadura,Europe
+Western Europe,Francia,Limoges,Aquitania-Lemosín-Poitou-Charentes,Europe
+Central America,México,Chilpancingo,Guerrero,Latam
+South America,Brasil,Tianguá,Ceará,Latam
+Central America,México,Linares,Nuevo León,Latam
+South America,Brasil,Paracatu,Minas Gerais,Latam
+South America,Colombia,Florencia,Caquetá,Latam
+South America,Venezuela,Acarigua,Portuguesa,Latam
+Central America,México,Manzanillo,Colima,Latam
+South America,Brasil,Ituiutaba,Minas Gerais,Latam
+Oceania,Australia,Torquay,Queensland,Pacific Asia
+South Asia,India,Akola,Maharashtra,Pacific Asia
+Oceania,Australia,Forster,Nueva Gales del Sur,Pacific Asia
+South Of  Usa,Estados Unidos,Plantation,Florida,Usca
+West Of Usa,Estados Unidos,Murray,Utah,Usca
+South Of  Usa,Estados Unidos,Hattiesburg,Misisipi,Usca
+East Of Usa,Estados Unidos,Manchester,Connecticut,Usca
+East Of Usa,Estados Unidos,Rochester,Nueva York,Usca
+West Of Usa,Estados Unidos,Olympia,Washington,Usca
+Us Center,Estados Unidos,Corpus Christi,Texas,Usca
+West Of Usa,Estados Unidos,Layton,Utah,Usca
+Us Center,Estados Unidos,Normal,Illinois,Usca
+West Of Usa,Estados Unidos,West Jordan,Utah,Usca
+West Of Usa,Estados Unidos,Antioch,California,Usca
+West Of Usa,Estados Unidos,Roseville,California,Usca
+West Of Usa,Estados Unidos,Broomfield,Colorado,Usca
+West Of Usa,Estados Unidos,Pleasant Grove,Utah,Usca
+South Of  Usa,Estados Unidos,Margate,Florida,Usca
+East Of Usa,Estados Unidos,Beverly,Massachusetts,Usca
+East Of Usa,Estados Unidos,New Rochelle,Nueva York,Usca
+North Africa,Egipto,Marsa Matruh,Matruh,Africa
+North Africa,Argelia,Mostaganem,Mostaganem,Africa
+North Africa,Marruecos,Khenifra,Mequinez-Tafilalet,Africa
+West Africa,Nigeria,Onitsha,Anambra,Africa
+North Africa,Libia,Misurata,Misurata,Africa
+West Africa,Mali,Bamako,Bamako,Africa
+North Africa,Argelia,Skikda,Skikda,Africa
+North Africa,Marruecos,Agadir,Sus-Masa-Draa,Africa
+Central Africa,Camerún,Bamenda,Nord-Ouest,Africa
+Western Europe,Francia,Firminy,Auvernia-Ródano-Alpes,Europe
+Northern Europe,Reino Unido,Hereford,Inglaterra,Europe
+Eastern Europe,Rumania,Targu Jiu,Gorj,Europe
+Southern Europe,España,Palencia,Castilla y León,Europe
+Western Europe,Francia,Hazebrouck,Norte-Paso de Calais-Picardía,Europe
+Northern Europe,Reino Unido,Taunton,Inglaterra,Europe
+Western Europe,Alemania,Jena,Turingia,Europe
+Western Europe,Francia,Gradignan,Aquitania-Lemosín-Poitou-Charentes,Europe
+Eastern Europe,Ucrania,Berdychiv,Zhytómyr,Europe
+Northern Europe,Dinamarca,Randers,Jutlandia Central,Europe
+Eastern Europe,Ucrania,Chernihiv,Chernihiv,Europe
+Western Europe,Países Bajos,Capelle aan den IJssel,Holanda Meridional,Europe
+Western Europe,Francia,Antibes,Provenza-Alpes-Costa Azul,Europe
+Southern Europe,Italia,Marsala,Sicilia,Europe
+Central America,México,Valle Hermoso,Tamaulipas,Latam
+South America,Brasil,Araucária,Paraná,Latam
+South America,Argentina,Bahía Blanca,Buenos Aires (provincia),Latam
+South America,Chile,Arica,Arica y Parinacota,Latam
+Us Center,Estados Unidos,Port Arthur,Texas,Usca
+North Africa,Egipto,Port Said,Puerto Saíd,Africa
+Southern Europe,Italia,Vigevano,Lombardía,Europe
+Western Europe,Francia,Sarreguemines,Alsacia-Champaña-Ardenas-Lorena,Europe
+Western Europe,Francia,Evry,Isla de Francia,Europe
+Northern Europe,Reino Unido,Warrington,Inglaterra,Europe
+South America,Bolivia,Yacuiba,Tarija,Latam
+South America,Brasil,Itapetininga,São Paulo,Latam
+South America,Brasil,Conselheiro Lafaiete,Minas Gerais,Latam
+South Asia,India,Etawah,Uttar Pradesh,Pacific Asia
+Eastern Asia,China,Yueyang,Hunan,Pacific Asia
+West Of Usa,Estados Unidos,Torrance,California,Usca
+Southern Europe,Italia,Alessandria,Piamonte,Europe
+West Of Usa,Estados Unidos,Provo,Utah,Usca
+South America,Venezuela,Cumaná,Sucre,Latam
+East Africa,Zambia,Chililabombwe,Copperbelt,Africa
+West Africa,Mali,Kayes,Kayes,Africa
+East Africa,Zambia,Kabwe,Central,Africa
+Western Europe,Francia,Sanary-sur-Mer,Provenza-Alpes-Costa Azul,Europe
+Western Europe,Alemania,Schwerin,Mecklemburgo-Pomerania Occidental,Europe
+Northern Europe,Reino Unido,Weston-super-Mare,Inglaterra,Europe
+Western Europe,Francia,Fresnes,Isla de Francia,Europe
+Western Europe,Francia,Limay,Isla de Francia,Europe
+Eastern Europe,Polonia,Kalisz,Gran Polonia,Europe
+Central America,México,Ensenada,Baja California,Latam
+South America,Venezuela,Yaritagua,Yaracuy,Latam
+South America,Brasil,Ananindeua,Pará,Latam
+South America,Brasil,Dourados,Mato Grosso del Sur,Latam
+South America,Chile,Chillán,Bío-Bío,Latam
+South America,Brasil,Valparaíso de Goiás,Goiás,Latam
+South America,Chile,Osorno,Los Lagos,Latam
+South America,Brasil,Aracati,Ceará,Latam
+Southeast Asia,Indonesia,Purwokerto,Java Central,Pacific Asia
+Eastern Asia,China,Gaoyou,Jiangsu,Pacific Asia
+Eastern Asia,China,Xinghua,Jiangsu,Pacific Asia
+West Asia,Turquía,Cizre,Sirnak,Pacific Asia
+West Asia,Siria,Dayr az Zawr,Dayr az Zawr,Pacific Asia
+Eastern Asia,Corea Del Sur,Kwangju,Gyeonggi,Pacific Asia
+Eastern Asia,Corea Del Sur,Ulsan,Ulsan,Pacific Asia
+West Of Usa,Estados Unidos,Colorado Springs,Colorado,Usca
+South Of  Usa,Estados Unidos,Daytona Beach,Florida,Usca
+West Of Usa,Estados Unidos,San Gabriel,California,Usca
+South Of  Usa,Estados Unidos,Virginia Beach,Virginia,Usca
+Western Europe,Países Bajos,Purmerend,Holanda Septentrional,Europe
+Central America,México,La Paz,Baja California Sur,Latam
+West Asia,Turquía,Van,Van,Pacific Asia
+Canada,Canada,St. Catharines,Ontario,Usca
+West Of Usa,Estados Unidos,Sierra Vista,Arizona,Usca
+Us Center,Estados Unidos,Lansing,Michigan,Usca
+Northern Europe,Reino Unido,Ashford,Inglaterra,Europe
+South America,Perú,Pucallpa,Ucayali,Latam
+South America,Perú,Trujillo,La Libertad,Latam
+East Africa,Tanzania,Tabora,Tabora,Africa
+South America,Perú,Ilo,Moquegua,Latam
+South Of  Usa,Estados Unidos,Greenville,Carolina del Norte,Usca
+South America,Colombia,Valledupar,Cesar,Latam
+Southern Africa,Sudafrica,Vryburg,Noroeste,Africa
+North Africa,Marruecos,Tetouan,Tánger-Tetuán,Africa
+East Africa,Madagascar,Fianarantsoa,Haute-Matsiatra,Africa
+Central Africa,República Democrática Del Congo,Kikwit,Bandundu,Africa
+East Africa,Zambia,Kasama,Septentrional,Africa
+Southern Africa,Suazilandia,Manzini,Manzini,Africa
+Western Europe,Francia,Vitrolles,Provenza-Alpes-Costa Azul,Europe
+Eastern Europe,Rumania,Craiova,Dolj,Europe
+Western Europe,Países Bajos,Vlaardingen,Holanda Meridional,Europe
+Central America,México,Altotonga,Veracruz,Latam
+Eastern Asia,China,Jining,Shandong,Pacific Asia
+Oceania,Australia,Gawler,Australia del Sur,Pacific Asia
+South Asia,India,Tirunelveli,Tamil Nadu,Pacific Asia
+Southeast Asia,Indonesia,Palu,Célebes Central,Pacific Asia
+South Asia,Irán,Fasa,Fars,Pacific Asia
+West Asia,Turquía,Kozan,Adana,Pacific Asia
+Oceania,Australia,Cessnock,Nueva Gales del Sur,Pacific Asia
+South Asia,Irán,Varamin,Teherán,Pacific Asia
+Eastern Asia,China,Puyang,Henan,Pacific Asia
+Oceania,Nueva Zelanda,Levin,Manawatu-Wanganui,Pacific Asia
+West Asia,Turquía,Viransehir,Sanliurfa,Pacific Asia
+West Asia,Israel,Ramat Aviv,Tel Aviv,Pacific Asia
+West Asia,Irak,An Nasiriyah,Di Car,Pacific Asia
+South Asia,India,Asansol,Bengala Occidental,Pacific Asia
+Us Center,Estados Unidos,Beaumont,Texas,Usca
+West Of Usa,Estados Unidos,Redondo Beach,California,Usca
+South Of  Usa,Estados Unidos,Columbia,Tennessee,Usca
+South Of  Usa,Estados Unidos,Charlottesville,Virginia,Usca
+Canada,Canada,Richmond Hill,Ontario,Usca
+Us Center,Estados Unidos,Des Moines,Iowa,Usca
+West Of Usa,Estados Unidos,Kent,Washington,Usca
+Canada,Canada,Vaughan,Ontario,Usca
+Canada,Canada,Peterborough,Ontario,Usca
+Western Europe,Alemania,Neunkirchen,Sarre,Europe
+Western Europe,Francia,Clichy,Isla de Francia,Europe
+Northern Europe,Reino Unido,Cheshunt,Inglaterra,Europe
+Western Europe,Francia,Halluin,Norte-Paso de Calais-Picardía,Europe
+Southern Europe,Italia,Viterbo,Lacio,Europe
+South America,Guyana,Linden,Demerara-Berbice Superior,Latam
+South America,Argentina,Esquina,Corrientes,Latam
+South America,Colombia,Piedecuesta,Santander,Latam
+West Asia,Turquía,Mezitli,Mersin,Pacific Asia
+Canada,Canada,Richmond,Columbia británica,Usca
+Canada,Canada,Whitby,Ontario,Usca
+South America,Argentina,Neuquén,Neuquén,Latam
+Eastern Asia,China,Hengyang,Hunan,Pacific Asia
+East Of Usa,Estados Unidos,Passaic,Nueva Jersey,Usca
+South Asia,India,Udaipur,Tripura,Pacific Asia
+West Africa,Nigeria,Calabar,Cross River,Africa
+Northern Europe,Reino Unido,Gravesend,Inglaterra,Europe
+Eastern Europe,Ucrania,Rivne,Rivne,Europe
+Western Europe,Alemania,Gummersbach,Renania del Norte-Westfalia,Europe
+Central Asia,Kazajistán,Kostanái,Kostanái,Pacific Asia
+South Asia,India,Kota,Chhattisgarh,Pacific Asia
+West Of Usa,Estados Unidos,Orem,Utah,Usca
+South America,Brasil,Sobral,Ceará,Latam
+Southern Africa,Sudafrica,Vereeniging,Gauteng,Africa
+West Asia,Turquía,Gebze,Kocaeli,Pacific Asia
+Northern Europe,Noruega,Drammen,Buskerud,Europe
+Northern Europe,Reino Unido,Gosport,Inglaterra,Europe
+Southern Europe,España,Granollers,Cataluña,Europe
+Western Europe,Francia,Valence,Auvernia-Ródano-Alpes,Europe
+South America,Brasil,Bragança Paulista,São Paulo,Latam
+South America,Brasil,Sumaré,São Paulo,Latam
+Central America,México,Frontera,Tabasco,Latam
+Southeast Asia,Malasia,Tawau,Sabah,Pacific Asia
+South Asia,India,Jhansi,Uttar Pradesh,Pacific Asia
+South Asia,Irán,Iranshahr,Sistán y Baluchistán,Pacific Asia
+Eastern Asia,Japón,Koshigaya,Saitama,Pacific Asia
+Eastern Asia,China,Yichun,Heilongjiang,Pacific Asia
+South America,Colombia,Envigado,Antioquía,Latam
+Western Europe,Francia,Cergy,Isla de Francia,Europe
+Western Europe,Alemania,Neubrandenburg,Mecklemburgo-Pomerania Occidental,Europe
+Us Center,Estados Unidos,Allen,Texas,Usca
+West Asia,Turquía,Amasya,Amasya,Pacific Asia
+West Asia,Israel,Holon,Tel Aviv,Pacific Asia
+East Of Usa,Estados Unidos,Concord,Nuevo Hampshire,Usca
+East Africa,Mozambique,Nampula,Nampula,Africa
+West Africa,Nigeria,Damaturu,Yobe,Africa
+North Africa,Argelia,Saida,Saida,Africa
+Northern Europe,Reino Unido,East Kilbride,Escocia,Europe
+Western Europe,Francia,Chatou,Isla de Francia,Europe
+South America,Perú,Iquitos,Loreto,Latam
+Central America,México,Temixco,Morelos,Latam
+South America,Guayana Francesa,Cayenne,Französisch-Guayana,Latam
+South America,Brasil,Rolândia,Paraná,Latam
+South America,Brasil,Criciúma,Santa Catarina,Latam
+South America,Brasil,São Pedro da Aldeia,Río de Janeiro,Latam
+West Asia,Israel,Bene Beraq,Tel Aviv,Pacific Asia
+Southeast Asia,Indonesia,Jember,Java Oriental,Pacific Asia
+Eastern Asia,Japón,Kurashiki,Okayama,Pacific Asia
+Eastern Asia,China,Yuanjiang,Hunan,Pacific Asia
+West Asia,Turquía,Yalova,Yalova,Pacific Asia
+West Asia,Turquía,Beykoz,Estambul,Pacific Asia
+South Asia,India,Muzaffarpur,Bihar,Pacific Asia
+Eastern Asia,China,Weihai,Shandong,Pacific Asia
+South Asia,India,Panipat,Haryana,Pacific Asia
+South Of  Usa,Estados Unidos,Auburn,Alabama,Usca
+East Of Usa,Estados Unidos,Cuyahoga Falls,Ohio,Usca
+South Of  Usa,Estados Unidos,Roswell,Georgia,Usca
+Us Center,Estados Unidos,Orland Park,Illinois,Usca
+Us Center,Estados Unidos,Harlingen,Texas,Usca
+West Of Usa,Estados Unidos,Dublín,California,Usca
+East Of Usa,Estados Unidos,Parma,Ohio,Usca
+Us Center,Estados Unidos,Dearborn Heights,Michigan,Usca
+West Of Usa,Estados Unidos,Lehi,Utah,Usca
+Us Center,Estados Unidos,Champaign,Illinois,Usca
+Eastern Europe,Rusia,Vorónezh,Vorónezh,Europe
+Eastern Europe,Rumania,Bra?ov,Bra?ov,Europe
+Northern Europe,Reino Unido,Paisley,Escocia,Europe
+South America,Brasil,Vacaria,Rio Grande do Sul,Latam
+South America,Brasil,Farroupilha,Rio Grande do Sul,Latam
+Eastern Asia,China,Datong,Shanxi,Pacific Asia
+Southeast Asia,Vietnam,Da Nang,Dà Nang,Pacific Asia
+Northern Europe,Reino Unido,Shrewsbury,Inglaterra,Europe
+West Asia,Turquía,Batman,Batman,Pacific Asia
+Southern Africa,Sudafrica,Roodepoort,Gauteng,Africa
+Eastern Europe,Polonia,Tychy,Silesia,Europe
+Western Europe,Francia,Avion,Norte-Paso de Calais-Picardía,Europe
+Western Europe,Francia,Trappes,Isla de Francia,Europe
+South America,Brasil,Vitória de Santo Antão,Pernambuco,Latam
+Central Africa,República Centroafricana,Bangui,Bangui,Africa
+North Africa,Marruecos,Settat,Chauía-Uardiga,Africa
+Eastern Europe,Bulgaria,Pernik,Pernik,Europe
+Oceania,Australia,Sunbury,Victoria,Pacific Asia
+Us Center,Estados Unidos,Lawrence,Indiana,Usca
+Western Europe,Francia,Talence,Aquitania-Lemosín-Poitou-Charentes,Europe
+Western Europe,Francia,Les Lilas,Isla de Francia,Europe
+Western Europe,Alemania,Willich,Renania del Norte-Westfalia,Europe
+Western Europe,Alemania,Potsdam,Brandenburgo,Europe
+South America,Venezuela,Calabozo,Guárico,Latam
+South America,Chile,Villa Alemana,Valparaíso,Latam
+South America,Brasil,Gravataí,Rio Grande do Sul,Latam
+South America,Brasil,Itapecerica da Serra,São Paulo,Latam
+South America,Chile,Copiapó,Atacama,Latam
+Eastern Asia,Japón,Ibaraki,Osaka,Pacific Asia
+South Asia,India,Gaya,Bihar,Pacific Asia
+South Of  Usa,Estados Unidos,Hoover,Alabama,Usca
+Us Center,Estados Unidos,Bloomington,Indiana,Usca
+Canada,Canada,Abbotsford,Columbia británica,Usca
+South America,Chile,Calama,Antofagasta,Latam
+South America,Brasil,Francisco Morato,São Paulo,Latam
+South America,Brasil,Sapucaia do Sul,Rio Grande do Sul,Latam
+South America,Brasil,Sinop,Mato Grosso,Latam
+South America,Brasil,Cabo de Santo Agostinho,Pernambuco,Latam
+Central America,México,Cholula,Puebla,Latam
+South America,Argentina,San Fernando del Valle de Catamarca,Catamarca,Latam
+South America,Brasil,Guarapari,Espíritu Santo,Latam
+South America,Brasil,Campo Grande,Mato Grosso del Sur,Latam
+Central America,México,Coatzacoalcos,Veracruz,Latam
+South America,Brasil,Mococa,São Paulo,Latam
+South America,Argentina,Comodoro Rivadavia,Chubut,Latam
+Caribbean,República Dominicana,Bonao,Monseñor Nouel,Latam
+South America,Venezuela,Tinaquillo,Cojedes,Latam
+South America,Brasil,Apucarana,Paraná,Latam
+Eastern Asia,China,Jinhua,Zhejiang,Pacific Asia
+Eastern Asia,Japón,Sakai,Osaka,Pacific Asia
+Eastern Asia,China,Shashi,Hubei,Pacific Asia
+Southeast Asia,Filipinas,Taytay,Calabarzón,Pacific Asia
+Eastern Asia,Japón,Sakai,Gunma,Pacific Asia
+South Asia,Irán,Qazvín,Qazvín,Pacific Asia
+South Asia,India,Sonipat,Haryana,Pacific Asia
+Oceania,Australia,Palmerston,Territorio del Norte,Pacific Asia
+Eastern Asia,China,Haikou,Hainan,Pacific Asia
+South Asia,India,Avadi,Tamil Nadu,Pacific Asia
+Eastern Asia,China,Shouguang,Shandong,Pacific Asia
+Eastern Asia,China,Datong,Anhui,Pacific Asia
+Eastern Asia,Japón,Handa,Aichi,Pacific Asia
+Eastern Asia,Corea Del Sur,Suwon,Gyeonggi,Pacific Asia
+South Asia,Irán,Birjand,Jorasán del Sur,Pacific Asia
+Eastern Asia,China,Zhenjiang,Jiangsu,Pacific Asia
+South Asia,Pakistán,Quetta,Baluchistán,Pacific Asia
+South Asia,Bangladés,Rajshahi,Rajshahi,Pacific Asia
+Eastern Asia,China,Ezhou,Hubei,Pacific Asia
+Eastern Asia,Japón,Takamatsu,Kagawa,Pacific Asia
+Oceania,Nueva Zelanda,Upper Hutt,Wellington,Pacific Asia
+Eastern Asia,China,Chaohu,Anhui,Pacific Asia
+West Asia,Turquía,Gaziemir,Izmir,Pacific Asia
+South Asia,India,Baranagar,Bengala Occidental,Pacific Asia
+South Asia,India,Srinagar,Uttarakhand,Pacific Asia
+Eastern Asia,China,Zhaoyuan,Heilongjiang,Pacific Asia
+Eastern Asia,China,Chaoyang,Jilin,Pacific Asia
+West Of Usa,Estados Unidos,Escondido,California,Usca
+South Of  Usa,Estados Unidos,Tamarac,Florida,Usca
+Us Center,Estados Unidos,The Colony,Texas,Usca
+Us Center,Estados Unidos,Franklin,Wisconsin,Usca
+Us Center,Estados Unidos,Skokie,Illinois,Usca
+Us Center,Estados Unidos,Columbia,Misuri,Usca
+West Of Usa,Estados Unidos,Westminster,California,Usca
+Canada,Canada,Laval,Quebec,Usca
+Us Center,Estados Unidos,Norfolk,Nebraska,Usca
+Us Center,Estados Unidos,Apple Valley,Minnesota,Usca
+Us Center,Estados Unidos,League City,Texas,Usca
+East Of Usa,Estados Unidos,Meriden,Connecticut,Usca
+Us Center,Estados Unidos,San Marcos,Texas,Usca
+Us Center,Estados Unidos,College Station,Texas,Usca
+West Of Usa,Estados Unidos,Redding,California,Usca
+West Of Usa,Estados Unidos,Montebello,California,Usca
+East Of Usa,Estados Unidos,Burlington,Vermont,Usca
+Us Center,Estados Unidos,Saint Cloud,Minnesota,Usca
+East Africa,Zimbabue,Kadoma,Mashonalandia Occidental,Africa
+Southern Africa,Sudafrica,Durban,KwaZulu-Natal,Africa
+Eastern Europe,Rumania,Pitesti,Arges,Europe
+Western Europe,Francia,Dieppe,Normandía,Europe
+Western Europe,Francia,Bourg-en-Bresse,Auvernia-Ródano-Alpes,Europe
+South America,Brasil,Taubaté,São Paulo,Latam
+South America,Brasil,São Vicente,São Paulo,Latam
+South America,Brasil,Cubatão,São Paulo,Latam
+Caribbean,Cuba,Artemisa,Artemisa,Latam
+South Asia,India,Jamshedpur,Jharkhand,Pacific Asia
+West Asia,Turquía,Polatli,Ankara,Pacific Asia
+Eastern Asia,Japón,Sakai,Ibaraki,Pacific Asia
+West Asia,Turquía,Alanya,Antalya,Pacific Asia
+Eastern Asia,China,Wuxi,Jiangsu,Pacific Asia
+Eastern Asia,Taiwán,Taipei,Taipéi,Pacific Asia
+Canada,Canada,Guelph,Ontario,Usca
+West Of Usa,Estados Unidos,Encinitas,California,Usca
+Us Center,Estados Unidos,Saint Charles,Misuri,Usca
+Us Center,Estados Unidos,Eagan,Minnesota,Usca
+Eastern Europe,Rusia,Zlatoust,Cheliábinsk,Europe
+Eastern Europe,Ucrania,Jersón,Jersón,Europe
+Eastern Europe,Polonia,Zabrze,Silesia,Europe
+Western Europe,Francia,Chaville,Isla de Francia,Europe
+Southern Europe,España,Pontevedra,Galicia,Europe
+Eastern Europe,República Checa,Pilsen,Pilsen,Europe
+Southern Europe,Italia,Cinisello Balsamo,Lombardía,Europe
+Northern Europe,Suecia,Haninge,Estocolmo,Europe
+Southern Europe,España,Mijas,Andalucía,Europe
+Western Europe,Francia,Coulommiers,Isla de Francia,Europe
+Northern Europe,Reino Unido,Dronfield,Inglaterra,Europe
+Western Europe,Francia,Saint-Brieuc,Bretaña,Europe
+Western Europe,Francia,Outreau,Norte-Paso de Calais-Picardía,Europe
+Northern Europe,Estonia,Tallinn,Harjumaa,Europe
+Northern Europe,Reino Unido,Dewsbury,Inglaterra,Europe
+Western Europe,Francia,Tournefeuille,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+South America,Brasil,Uberaba,Minas Gerais,Latam
+South America,Brasil,Oriximiná,Pará,Latam
+South America,Brasil,Bagé,Rio Grande do Sul,Latam
+South America,Perú,Huaraz,Ancash,Latam
+Eastern Asia,Japón,Sagamihara,Kanagawa,Pacific Asia
+Eastern Asia,China,Jiangdu,Jiangsu,Pacific Asia
+Eastern Asia,China,Xinshi,Hubei,Pacific Asia
+South Asia,India,Brahmapur,Odisha,Pacific Asia
+Eastern Asia,Japón,Toyohashi,Aichi,Pacific Asia
+West Of Usa,Estados Unidos,Laguna Niguel,California,Usca
+East Of Usa,Estados Unidos,Grove City,Ohio,Usca
+Canada,Canada,Edmonton,Alberta,Usca
+East Of Usa,Estados Unidos,Rockville,Maryland,Usca
+West Of Usa,Estados Unidos,Helena,Montana,Usca
+West Of Usa,Estados Unidos,Sparks,Nevada,Usca
+Eastern Europe,Rusia,Arzgir,Stávropol,Europe
+South America,Brasil,Garanhuns,Pernambuco,Latam
+South America,Argentina,Salta,Salta,Latam
+Eastern Asia,China,Bijie,Guizhou,Pacific Asia
+South Of  Usa,Estados Unidos,Hampton,Virginia,Usca
+West Of Usa,Estados Unidos,Great Falls,Montana,Usca
+Southern Africa,Sudafrica,Rustenburg,Noroeste,Africa
+Southern Europe,Albania,Shkoder,Shkodër,Europe
+Eastern Asia,China,Liaoyang,Liaoning,Pacific Asia
+South Asia,India,Thanjavur,Tamil Nadu,Pacific Asia
+East Africa,Tanzania,Mtwara,Mtwara,Africa
+South America,Venezuela,Cúa,Miranda,Latam
+Eastern Asia,Japón,Hachinohe,Aomori,Pacific Asia
+Eastern Europe,Rumania,Botosani,Botosani,Europe
+North Africa,Egipto,Aswan,Aswan,Africa
+North Africa,Marruecos,Mohammedia,Gran Casablanca,Africa
+East Africa,Madagascar,Antsiranana,Diana,Africa
+Western Europe,Francia,Bonneuil-sur-Marne,Isla de Francia,Europe
+Western Europe,Países Bajos,Breda,Brabante Septentrional,Europe
+Western Europe,Francia,Lanester,Bretaña,Europe
+Northern Europe,Reino Unido,Clydach,Gales,Europe
+Eastern Europe,Rusia,Pestovo,Nóvgorod,Europe
+Western Europe,Alemania,Pulheim,Renania del Norte-Westfalia,Europe
+Southern Europe,España,Sabadell,Cataluña,Europe
+Western Europe,Alemania,Forst,Brandenburgo,Europe
+Western Europe,Suiza,Lucerna,Lucerna,Europe
+Eastern Europe,República Checa,Ústí nad Labem,Ústí nad Labem,Europe
+South America,Venezuela,Catia La Mar,Vargas,Latam
+South America,Brasil,Presidente Prudente,São Paulo,Latam
+Central America,México,San Juan del Río,Querétaro,Latam
+Eastern Asia,China,Xining,Qinghai,Pacific Asia
+South Asia,India,Bilaspur,Uttar Pradesh,Pacific Asia
+Eastern Asia,Japón,Aoba-ku,Kanagawa,Pacific Asia
+Eastern Asia,China,Xiangtan,Hunan,Pacific Asia
+West Asia,Líbano,Beirut,Beirut,Pacific Asia
+Eastern Asia,China,Tanggu,Tianjin,Pacific Asia
+Eastern Asia,Japón,Takamatsu,Ishikawa,Pacific Asia
+Eastern Asia,China,Chenzhou,Hunan,Pacific Asia
+West Asia,Jordania,Irbid,Irbid,Pacific Asia
+Us Center,Estados Unidos,Brownsville,Texas,Usca
+East Of Usa,Estados Unidos,Shelton,Connecticut,Usca
+East Of Usa,Estados Unidos,Bethlehem,Pensilvania,Usca
+East Of Usa,Estados Unidos,Freeport,Nueva York,Usca
+Us Center,Estados Unidos,Mansfield,Texas,Usca
+Us Center,Estados Unidos,Midland,Michigan,Usca
+West Of Usa,Estados Unidos,Huntington Beach,California,Usca
+Central Africa,República Democrática Del Congo,Bukavu,Kivu del Sur,Africa
+Western Europe,Francia,Rueil-Malmaison,Isla de Francia,Europe
+Eastern Asia,China,Lianzhou,Guangxi,Pacific Asia
+Southern Europe,Chipre,Nicosia,Nicosia,Europe
+Western Europe,Francia,Bron,Auvernia-Ródano-Alpes,Europe
+Central America,México,Teziutlán,Puebla,Latam
+Western Europe,Bélgica,Verviers,Lieja,Europe
+West Of Usa,Estados Unidos,Brentwood,California,Usca
+Oceania,Australia,Echuca,Victoria,Pacific Asia
+East Of Usa,Estados Unidos,Atlantic City,Nueva Jersey,Usca
+Western Europe,Alemania,Kaiserslautern,Renania-Palatinado,Europe
+South America,Brasil,Patrocínio,Minas Gerais,Latam
+South Asia,India,Ratlam,Madhya Pradesh,Pacific Asia
+Southern Europe,Italia,Varese,Lombardía,Europe
+Western Europe,Francia,Plaisir,Isla de Francia,Europe
+Central Africa,Angola,Huambo,Huambo,Africa
+Eastern Asia,China,Macheng,Hubei,Pacific Asia
+West Of Usa,Estados Unidos,Medford,Oregón,Usca
+North Africa,Egipto,Al Mahallah al Kubra,Gharbia,Africa
+Central Africa,República Democrática Del Congo,Matadi,Bajo Congo,Africa
+West Africa,Nigeria,Makurdi,Benue,Africa
+Southern Europe,Italia,Savona,Liguria,Europe
+Eastern Europe,Polonia,Bielsko-Biala,Silesia,Europe
+Western Europe,Francia,Bagnolet,Isla de Francia,Europe
+Eastern Europe,Rumania,Lugoj,Timis,Europe
+Southern Europe,Italia,Crotone,Calabria,Europe
+Northern Europe,Reino Unido,Northwich,Inglaterra,Europe
+South America,Colombia,Quibdó,Chocó,Latam
+South America,Brasil,Uberlândia,Minas Gerais,Latam
+South Asia,India,Dehra Dun,Uttarakhand,Pacific Asia
+South Asia,Irán,Najafabad,Isfahán,Pacific Asia
+Eastern Asia,Japón,Hamamatsu,Shizuoka,Pacific Asia
+East Of Usa,Estados Unidos,Cranston,Rhode Island,Usca
+Us Center,Estados Unidos,Burlington,Iowa,Usca
+East Of Usa,Estados Unidos,Niagara Falls,Nueva York,Usca
+East Of Usa,Estados Unidos,Norwich,Connecticut,Usca
+Western Europe,Francia,Vence,Provenza-Alpes-Costa Azul,Europe
+Western Europe,Francia,Fontenay-sous-Bois,Isla de Francia,Europe
+Western Europe,Francia,Agde,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Eastern Asia,Japón,Hiratsuka,Kanagawa,Pacific Asia
+Us Center,Estados Unidos,Rapid City,Dakota del Sur,Usca
+East Africa,Tanzania,Bagamoyo,Pwani,Africa
+Northern Europe,Reino Unido,Brighton,Inglaterra,Europe
+South America,Brasil,Paulista,Pernambuco,Latam
+Eastern Europe,Rumania,Piatra-Neamt,Neamt,Europe
+South America,Brasil,Niterói,Río de Janeiro,Latam
+Northern Europe,Reino Unido,Ipswich,Inglaterra,Europe
+East Of Usa,Estados Unidos,Perth Amboy,Nueva Jersey,Usca
+West Asia,Turquía,Manisa,Manisa,Pacific Asia
+South Of  Usa,Estados Unidos,Thomasville,Carolina del Norte,Usca
+West Of Usa,Estados Unidos,Pocatello,Idaho,Usca
+West Of Usa,Estados Unidos,Pueblo,Colorado,Usca
+Central Africa,República Democrática Del Congo,Kindu,Maniema,Africa
+East Africa,Mozambique,Matola,Maputo,Africa
+Central Africa,Camerún,Loum,Littoral,Africa
+Southern Europe,Italia,Gela,Sicilia,Europe
+Eastern Europe,Rusia,Kaspiysk,Daguestán,Europe
+Western Europe,Alemania,Bergisch Gladbach,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Saint-Priest,Auvernia-Ródano-Alpes,Europe
+Western Europe,Francia,La Madeleine,Norte-Paso de Calais-Picardía,Europe
+Northern Europe,Reino Unido,Livingston,Escocia,Europe
+Western Europe,Francia,Saint-Avold,Alsacia-Champaña-Ardenas-Lorena,Europe
+Western Europe,Francia,Lormont,Aquitania-Lemosín-Poitou-Charentes,Europe
+Eastern Europe,Polonia,Siedlce,Mazovia,Europe
+Central America,Panamá,La Chorrera,Panamá,Latam
+Central America,México,Río Bravo,Tamaulipas,Latam
+Eastern Asia,China,Yuyao,Zhejiang,Pacific Asia
+Northern Europe,Reino Unido,Margate,Inglaterra,Europe
+Western Europe,Francia,Annonay,Auvernia-Ródano-Alpes,Europe
+Southern Europe,Italia,Siena,Toscana,Europe
+Western Europe,Francia,Carvin,Norte-Paso de Calais-Picardía,Europe
+South America,Argentina,San Luis,San Luis,Latam
+Eastern Asia,China,Linhai,Zhejiang,Pacific Asia
+West Asia,Turquía,Samsun,Samsun,Pacific Asia
+Eastern Asia,China,Deyang,Sichuan,Pacific Asia
+Eastern Asia,China,Shaoxing,Zhejiang,Pacific Asia
+Eastern Asia,China,Linyi,Shandong,Pacific Asia
+Eastern Asia,China,Hailin,Heilongjiang,Pacific Asia
+Us Center,Estados Unidos,Maple Grove,Minnesota,Usca
+West Of Usa,Estados Unidos,Logan,Utah,Usca
+Us Center,Estados Unidos,Madison,Wisconsin,Usca
+North Africa,Argelia,Ain Oussera,Djelfa,Africa
+South America,Brasil,Vitória da Conquista,Bahía,Latam
+Southern Africa,Sudafrica,Tembisa,Gauteng,Africa
+Southern Africa,Sudafrica,Umtata,Cabo Oriental,Africa
+Southern Europe,Italia,Barletta,Apulia,Europe
+West Asia,Israel,Hod HaSharon,Central,Pacific Asia
+Western Europe,Francia,Cavaillon,Provenza-Alpes-Costa Azul,Europe
+Western Europe,Francia,Vaulx-en-Velin,Auvernia-Ródano-Alpes,Europe
+Western Europe,Francia,Montbrison,Auvernia-Ródano-Alpes,Europe
+East Of Usa,Estados Unidos,Clifton,Nueva Jersey,Usca
+East Africa,Mozambique,Tete,Tete,Africa
+Western Europe,Alemania,Sindelfingen,Baden-Wurtemberg,Europe
+Eastern Asia,China,Wafangdian,Liaoning,Pacific Asia
+North Africa,Sudán,Kasala,Kasala,Africa
+Western Europe,Alemania,Eggenstein-Leopoldshafen,Baden-Wurtemberg,Europe
+Southern Europe,España,Cártama,Andalucía,Europe
+Western Europe,Francia,La Roche-sur-Yon,Países del Loira,Europe
+Western Europe,Alemania,Kassel,Hesse,Europe
+Northern Europe,Noruega,Kristiansand,Vest-Agder,Europe
+Western Europe,Alemania,Iserlohn,Renania del Norte-Westfalia,Europe
+Eastern Europe,Rusia,Blagoveshchensk,Bashkortostán,Europe
+Western Europe,Francia,Thiais,Isla de Francia,Europe
+Southern Europe,Italia,Marano di Napoli,Campania,Europe
+Eastern Asia,China,Luohe,Henan,Pacific Asia
+Eastern Asia,China,Jiamusi,Heilongjiang,Pacific Asia
+South Asia,Irán,Shushtar,Juzestán,Pacific Asia
+Eastern Asia,China,Hebi,Henan,Pacific Asia
+Southeast Asia,Indonesia,Kupang,Nusa Tenggara Oriental,Pacific Asia
+Eastern Asia,China,Shizuishan,Ningxia Hui,Pacific Asia
+West Of Usa,Estados Unidos,Reno,Nevada,Usca
+East Of Usa,Estados Unidos,Belleville,Nueva Jersey,Usca
+East Of Usa,Estados Unidos,Bayonne,Nueva Jersey,Usca
+West Of Usa,Estados Unidos,Burbank,California,Usca
+North Africa,Argelia,Tlemcen,Tlemcen,Africa
+Eastern Europe,República Checa,Olomouc,Olomouc,Europe
+Western Europe,Francia,Moulins,Auvernia,Europe
+South America,Brasil,Barreiras,Bahía,Latam
+South America,Brasil,Camocim,Ceará,Latam
+West Asia,Turquía,Nevsehir,Nevsehir,Pacific Asia
+Eastern Asia,China,Aksu,Xinjiang Uygur,Pacific Asia
+South America,Brasil,Passos,Minas Gerais,Latam
+South America,Brasil,Campina Grande,Paraíba,Latam
+South America,Colombia,Floridablanca,Santander,Latam
+South America,Chile,Punta Arenas,Magallanes y Antártica Chilena,Latam
+South America,Brasil,Lins,São Paulo,Latam
+Eastern Asia,Japón,Kawasaki,Fukuoka,Pacific Asia
+Eastern Asia,China,Wuxi,Hunan,Pacific Asia
+Eastern Asia,Japón,Nagaoka,Shizuoka,Pacific Asia
+South Asia,India,Jodhpur,Guyarat,Pacific Asia
+Eastern Asia,China,Yibin,Sichuan,Pacific Asia
+South Asia,Pakistán,Sialkot,Punyab,Pacific Asia
+Eastern Asia,China,Yushu,Jilin,Pacific Asia
+Us Center,Estados Unidos,Richardson,Texas,Usca
+West Of Usa,Estados Unidos,Danville,California,Usca
+Eastern Asia,China,Zhangjiakou,Hebei,Pacific Asia
+South Of  Usa,Estados Unidos,Warner Robins,Georgia,Usca
+West Asia,Turquía,Tekirdag,Tekirdag,Pacific Asia
+Western Europe,Francia,Villeparisis,Isla de Francia,Europe
+South Asia,India,Kamarhati,Bengala Occidental,Pacific Asia
+Western Europe,Francia,Orsay,Isla de Francia,Europe
+Central America,México,Acayucan,Veracruz,Latam
+South America,Brasil,Guarujá,São Paulo,Latam
+South America,Brasil,Catanduva,São Paulo,Latam
+South America,Colombia,Sogamoso,Boyacá,Latam
+Eastern Europe,Ucrania,Zhytómyr,Zhytómyr,Europe
+Eastern Europe,Bielorrusia,Orsha,Vitsyebsk,Europe
+Southern Europe,Bosnia Y Herzegovina,Zenica,Federación de Bosnia y Herzegovina,Europe
+South Of  Usa,Estados Unidos,Springdale,Arkansas,Usca
+South Of  Usa,Estados Unidos,Sanford,Florida,Usca
+West Of Usa,Estados Unidos,Hillsboro,Oregón,Usca
+Eastern Asia,Corea Del Sur,Anyang,Gyeonggi,Pacific Asia
+Eastern Asia,Japón,Oyama,Tochigi,Pacific Asia
+Northern Europe,Reino Unido,Darlington,Inglaterra,Europe
+Central America,México,Tapachula,Chiapas,Latam
+South America,Brasil,Londrina,Paraná,Latam
+North Africa,Egipto,Disuq,Kafr el Sheij,Africa
+Canada,Canada,Oakville,Ontario,Usca
+West Of Usa,Estados Unidos,Manteca,California,Usca
+Western Europe,Alemania,Stolberg,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Les Herbiers,Países del Loira,Europe
+Southern Europe,Italia,Modena,Emilia-Romaña,Europe
+South America,Colombia,Duitama,Boyacá,Latam
+Western Europe,Francia,Tremblay-en-France,Isla de Francia,Europe
+Northern Europe,Reino Unido,Southampton,Inglaterra,Europe
+Western Europe,Alemania,Günzburg,Bavaria,Europe
+South America,Venezuela,Porlamar,Nueva Esparta,Latam
+West Of Usa,Estados Unidos,San Luis Obispo,California,Usca
+Oceania,Australia,Burnie,Tasmania,Pacific Asia
+Eastern Asia,China,Ninghai,Zhejiang,Pacific Asia
+Eastern Asia,China,Zhoukou,Henan,Pacific Asia
+Western Europe,Bélgica,Hamme,Flanders Oriental,Europe
+Southern Europe,Italia,Manfredonia,Apulia,Europe
+Southern Europe,Italia,Ancona,Marche,Europe
+West Asia,Turquía,Iskenderun,Hatay,Pacific Asia
+West Asia,Yemen,Al Hudayda,Al Hudayda,Pacific Asia
+North Africa,Argelia,Guelma,Guelma,Africa
+North Africa,Argelia,Bugía,Bugía,Africa
+West Asia,Turquía,Trebisonda,Trebisonda,Pacific Asia
+West Africa,Guinea-Bissau,Bisáu,Bisáu,Africa
+West Asia,Emiratos Árabes Unidos,Ras al Khaymah,Ras al-Jaima,Pacific Asia
+West Africa,Nigeria,Shagamu,Ogun,Africa
+West Of Usa,Estados Unidos,Lodi,California,Usca
+West Of Usa,Estados Unidos,Longmont,Colorado,Usca
+West Of Usa,Estados Unidos,Thornton,Colorado,Usca
+West Of Usa,Estados Unidos,Santa Maria,California,Usca
+South America,Brasil,Indaiatuba,São Paulo,Latam
+Southern Europe,Italia,Prato,Toscana,Europe
+Eastern Europe,Ucrania,Kirovohrad,Kirovohrad,Europe
+North Africa,Egipto,Mallawi,Menia,Africa
+Central Asia,Kazajistán,Taraz,Zhambyl,Pacific Asia
+West Asia,Turquía,Kocaeli,Kocaeli,Pacific Asia
+West Of Usa,Estados Unidos,Gresham,Oregón,Usca
+South Asia,India,Karimnagar,Telangana,Pacific Asia
+Eastern Asia,China,Shangyu,Zhejiang,Pacific Asia
+South Asia,Pakistán,Sargodha,Punyab,Pacific Asia
+Eastern Asia,China,Wuhai,Mongolia Interior,Pacific Asia
+Western Europe,Francia,Montceau-les-Mines,Borgoña-Franco Condado,Europe
+Southern Europe,Italia,Molfetta,Apulia,Europe
+Western Europe,Francia,Thionville,Alsacia-Champaña-Ardenas-Lorena,Europe
+Western Europe,Francia,Saint-Chamond,Auvernia-Ródano-Alpes,Europe
+Western Europe,Francia,Vesoul,Borgoña-Franco Condado,Europe
+Western Europe,Países Bajos,Helmond,Brabante Septentrional,Europe
+Eastern Europe,Polonia,Chorzow,Silesia,Europe
+Southern Europe,Croacia,Split,Split-Dalmacia,Europe
+Western Europe,Francia,Berck,Norte-Paso de Calais-Picardía,Europe
+Western Europe,Francia,Le Pré-Saint-Gervais,Isla de Francia,Europe
+Western Europe,Bélgica,Tournai,Henao,Europe
+Western Europe,Francia,Vallauris,Provenza-Alpes-Costa Azul,Europe
+Western Europe,Francia,Castelnau-le-Lez,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+South America,Argentina,Santiago del Estero,Santiago del Estero,Latam
+South America,Argentina,Quilmes,Buenos Aires (provincia),Latam
+Eastern Asia,China,Heze,Shandong,Pacific Asia
+Eastern Asia,China,Renqiu,Hebei,Pacific Asia
+Eastern Asia,Japón,Matsumoto,Nagano,Pacific Asia
+West Asia,Turquía,Kars,Kars,Pacific Asia
+South Asia,India,Satna,Madhya Pradesh,Pacific Asia
+West Asia,Turquía,Aksaray,Aksaray,Pacific Asia
+Eastern Asia,Japón,Noda,Chiba,Pacific Asia
+Oceania,Nueva Zelanda,Paraparaumu,Wellington,Pacific Asia
+South Of  Usa,Estados Unidos,Pompano Beach,Florida,Usca
+South Of  Usa,Estados Unidos,Owensboro,Kentucky,Usca
+Us Center,Estados Unidos,Urbandale,Iowa,Usca
+East Of Usa,Estados Unidos,Altoona,Pensilvania,Usca
+Us Center,Estados Unidos,Highland Park,Illinois,Usca
+East Africa,Tanzania,Tanga,Tanga,Africa
+Eastern Europe,Eslovaquia,Zilina,ilina,Europe
+Southern Europe,Italia,Bisceglie,Apulia,Europe
+Us Center,Estados Unidos,San Angelo,Texas,Usca
+West Africa,Costa De Marfil,Bouake,Vallée du Bandama,Africa
+Western Europe,Francia,Choisy-le-Roi,Isla de Francia,Europe
+Eastern Asia,China,Xiangfan,Hubei,Pacific Asia
+South Of  Usa,Estados Unidos,Kenner,Luisiana,Usca
+East Of Usa,Estados Unidos,Mentor,Ohio,Usca
+Eastern Asia,China,Chengjiang,Jiangsu,Pacific Asia
+West Asia,Turquía,Silivri,Estambul,Pacific Asia
+West Africa,Benín,Ouidah,Departamento Atlántico,Africa
+North Africa,Egipto,Idfu,Aswan,Africa
+North Africa,Argelia,Barika,Batna,Africa
+Western Europe,Francia,Annecy-le-Vieux,Auvernia-Ródano-Alpes,Europe
+Western Europe,Francia,Villiers-le-Bel,Isla de Francia,Europe
+Western Europe,Francia,Rochefort,Aquitania-Lemosín-Poitou-Charentes,Europe
+Eastern Europe,Rusia,Bratsk,Irkutsk,Europe
+Northern Europe,Reino Unido,High Wycombe,Inglaterra,Europe
+Northern Europe,Suecia,Huddinge,Estocolmo,Europe
+Northern Europe,Reino Unido,Halesowen,Inglaterra,Europe
+Northern Europe,Irlanda,Galway,Galway,Europe
+Western Europe,Alemania,Weimar,Turingia,Europe
+Western Europe,Francia,Saint-Pol-sur-Mer,Norte-Paso de Calais-Picardía,Europe
+Eastern Europe,Rusia,Salavat,Bashkortostán,Europe
+Western Europe,Francia,Haguenau,Alsacia-Champaña-Ardenas-Lorena,Europe
+Western Europe,Francia,Lorient,Bretaña,Europe
+Southern Europe,España,Orihuela,Valenciana,Europe
+Western Europe,Francia,Blanquefort,Aquitania-Lemosín-Poitou-Charentes,Europe
+Western Europe,Alemania,Rheine,Renania del Norte-Westfalia,Europe
+Us Center,Estados Unidos,Sheboygan,Wisconsin,Usca
+East Africa,Mozambique,Chimoio,Manica,Africa
+Western Europe,Países Bajos,Maastricht,Limburgo,Europe
+Northern Europe,Reino Unido,Southport,Inglaterra,Europe
+Southern Europe,España,Gandia,Valenciana,Europe
+Western Europe,Alemania,Baden-Baden,Baden-Wurtemberg,Europe
+Western Europe,Francia,Montfermeil,Isla de Francia,Europe
+Western Europe,Francia,Saint-Gratien,Isla de Francia,Europe
+Southern Europe,España,Benidorm,Valenciana,Europe
+Southern Europe,Italia,Massa,Toscana,Europe
+Western Europe,Francia,Aix-les-Bains,Auvernia-Ródano-Alpes,Europe
+South America,Venezuela,Palo Negro,Aragua,Latam
+South America,Brasil,Jurema,Pernambuco,Latam
+South Asia,India,Nizamabad,Telangana,Pacific Asia
+Southeast Asia,Indonesia,Ambon,Maluku,Pacific Asia
+West Asia,Turquía,Malatya,Malatya,Pacific Asia
+South Of  Usa,Estados Unidos,Mount Pleasant,Carolina del Sur,Usca
+West Of Usa,Estados Unidos,Yuma,Arizona,Usca
+Us Center,Estados Unidos,Westland,Michigan,Usca
+Us Center,Estados Unidos,West Allis,Wisconsin,Usca
+South Of  Usa,Estados Unidos,Cary,Carolina del Norte,Usca
+Western Europe,Francia,Gap,Provenza-Alpes-Costa Azul,Europe
+Eastern Asia,China,Fuzhou,Fujian,Pacific Asia
+Eastern Asia,China,Xiantao,Hubei,Pacific Asia
+West Africa,Senegal,Ziguinchor,Ziguinchor,Africa
+Western Europe,Países Bajos,Den Helder,Holanda Septentrional,Europe
+Western Europe,Países Bajos,Enschede,Overijssel,Europe
+Us Center,Estados Unidos,Sioux Falls,Dakota del Sur,Usca
+Us Center,Estados Unidos,Wheeling,Illinois,Usca
+South America,Brasil,Manacapuru,Amazonas,Latam
+South Of  Usa,Estados Unidos,Líbano,Tennessee,Usca
+South Of  Usa,Estados Unidos,Summerville,Carolina del Sur,Usca
+East Africa,Kenia,Nakuru,Gran Valle del Rift,Africa
+East Africa,Zimbabue,Epworth,Harare,Africa
+West Africa,Níger,Nguigmi,Diffa,Africa
+West Africa,Benín,Parakou,Borgou,Africa
+Northern Europe,Reino Unido,Woking,Inglaterra,Europe
+Western Europe,Países Bajos,Barneveld,Güeldres,Europe
+Western Europe,Alemania,Hilden,Renania del Norte-Westfalia,Europe
+Northern Europe,Reino Unido,Stockport,Inglaterra,Europe
+Western Europe,Alemania,Greifswald,Mecklemburgo-Pomerania Occidental,Europe
+Western Europe,Alemania,Neu-Ulm,Bavaria,Europe
+Western Europe,Alemania,Waiblingen,Baden-Wurtemberg,Europe
+Western Europe,Francia,Blois,Centro-Valle de Loira,Europe
+Western Europe,Francia,Gagny,Isla de Francia,Europe
+Western Europe,Francia,Melun,Isla de Francia,Europe
+Western Europe,Francia,Goussainville,Isla de Francia,Europe
+Southern Europe,Italia,Faenza,Emilia-Romaña,Europe
+Western Europe,Francia,Maubeuge,Norte-Paso de Calais-Picardía,Europe
+Northern Europe,Reino Unido,Cumbernauld,Escocia,Europe
+Western Europe,Países Bajos,Amstelveen,Holanda Septentrional,Europe
+Western Europe,Francia,Sallanches,Auvernia-Ródano-Alpes,Europe
+South America,Brasil,Divinópolis,Minas Gerais,Latam
+South Asia,India,Gulbarga,Karnataka,Pacific Asia
+Eastern Asia,China,Penglai,Shandong,Pacific Asia
+Eastern Asia,China,Xingtai,Hebei,Pacific Asia
+Eastern Asia,China,Kaiyuan,Yunnan,Pacific Asia
+Southern Africa,Sudafrica,Randfontein,Gauteng,Africa
+Southern Europe,España,Segovia,Castilla y León,Europe
+Southern Europe,Italia,Chioggia,Véneto,Europe
+Eastern Europe,Polonia,Gliwice,Silesia,Europe
+Western Europe,Francia,Lons-le-Saunier,Borgoña-Franco Condado,Europe
+South America,Chile,San Antonio,Valparaíso,Latam
+South America,Brasil,Catalão,Goiás,Latam
+Eastern Asia,China,Langfang,Hebei,Pacific Asia
+West Asia,Israel,Ramat Gan,Tel Aviv,Pacific Asia
+West Asia,Turquía,Adiyaman,Adiyaman,Pacific Asia
+Oceania,Nueva Zelanda,Timaru,Canterbury,Pacific Asia
+Eastern Asia,China,Huzhou,Zhejiang,Pacific Asia
+South Asia,Irán,Bandar-e Anzali,Guilán,Pacific Asia
+West Of Usa,Estados Unidos,Boise,Idaho,Usca
+West Of Usa,Estados Unidos,Lancaster,California,Usca
+West Of Usa,Estados Unidos,Salinas,California,Usca
+East Of Usa,Estados Unidos,Warwick,Rhode Island,Usca
+South America,Brasil,Santa Helena,Marañón,Latam
+Western Europe,Francia,Concarneau,Bretaña,Europe
+Oceania,Australia,Goulburn,Nueva Gales del Sur,Pacific Asia
+Us Center,Estados Unidos,Abilene,Texas,Usca
+East Of Usa,Estados Unidos,Bowling Green,Ohio,Usca
+Northern Europe,Reino Unido,Chapel Allerton,Inglaterra,Europe
+East Africa,Uganda,Jinja,Jinja,Africa
+North Africa,Argelia,Baraki,Tipaza,Africa
+Southern Africa,Sudafrica,Centurion,Gauteng,Africa
+East Africa,Tanzania,Uvinza,Kigoma,Africa
+East Africa,Tanzania,Morogoro,Morogoro,Africa
+East Africa,Madagascar,Toamasina,Atsinanana,Africa
+North Africa,Egipto,Asiut,Asiut,Africa
+Western Europe,Francia,Voiron,Auvernia-Ródano-Alpes,Europe
+Western Europe,Alemania,Stralsund,Mecklemburgo-Pomerania Occidental,Europe
+Western Europe,Francia,La Crau,Provenza-Alpes-Costa Azul,Europe
+Northern Europe,Reino Unido,Bury,Inglaterra,Europe
+Northern Europe,Dinamarca,Kalundborg,Selandia,Europe
+Western Europe,Países Bajos,Bergen op Zoom,Brabante Septentrional,Europe
+Eastern Europe,Ucrania,Oleksandriya,Kirovohrad,Europe
+Northern Europe,Reino Unido,Kidderminster,Inglaterra,Europe
+Eastern Europe,Hungría,Gy?r,Gy?r,Europe
+Western Europe,Francia,Dole,Borgoña-Franco Condado,Europe
+Southern Europe,Italia,Vittoria,Sicilia,Europe
+Eastern Europe,Polonia,Nysa,Opole,Europe
+South America,Brasil,Sousa,Paraíba,Latam
+South America,Brasil,Jaú,São Paulo,Latam
+South America,Venezuela,El Tigre,Anzoátegui,Latam
+South America,Brasil,Lajeado,Rio Grande do Sul,Latam
+South America,Brasil,Toledo,Paraná,Latam
+Eastern Asia,China,Jiaohe,Jilin,Pacific Asia
+Eastern Asia,China,Anshun,Guizhou,Pacific Asia
+Southeast Asia,Indonesia,Mataram,Nusatenggara Occidental,Pacific Asia
+Eastern Asia,Japón,Kure,Hiroshima,Pacific Asia
+West Asia,Turquía,Afyon,Afyonkarahisar,Pacific Asia
+Southeast Asia,Indonesia,Jayapura,Papua,Pacific Asia
+West Asia,Turquía,Tarsus,Mersin,Pacific Asia
+West Asia,Turquía,Diyarbakir,Diyarbakir,Pacific Asia
+Eastern Asia,China,Jingmen,Hubei,Pacific Asia
+Eastern Asia,China,Quanzhou,Fujian,Pacific Asia
+Us Center,Estados Unidos,Marion,Iowa,Usca
+East Of Usa,Estados Unidos,Lancaster,Pensilvania,Usca
+Western Europe,Francia,Chilly-Mazarin,Isla de Francia,Europe
+Central America,México,Matehuala,San Luis Potosí,Latam
+South America,Brasil,Arcoverde,Pernambuco,Latam
+Eastern Asia,Japón,Kawagoe,Saitama,Pacific Asia
+South Asia,India,Shahjahanpur,Uttar Pradesh,Pacific Asia
+South Asia,India,Barddhaman,Bengala Occidental,Pacific Asia
+West Asia,Turquía,Çanakkale,Çanakkale,Pacific Asia
+East Of Usa,Estados Unidos,New Brunswick,Nueva Jersey,Usca
+Us Center,Estados Unidos,Cottage Grove,Minnesota,Usca
+Us Center,Estados Unidos,Gladstone,Misuri,Usca
+Us Center,Estados Unidos,Eau Claire,Wisconsin,Usca
+West Of Usa,Estados Unidos,Chico,California,Usca
+Canada,Canada,Burnaby,Columbia británica,Usca
+West Of Usa,Estados Unidos,Modesto,California,Usca
+Southern Europe,Albania,Elbasan,Elbasan,Europe
+West Of Usa,Estados Unidos,Concord,California,Usca
+Canada,Canada,Dartmouth,Nueva Escocia,Usca
+East Of Usa,Estados Unidos,Hamilton,Ohio,Usca
+Western Europe,Francia,Lagny-sur-Marne,Isla de Francia,Europe
+South America,Venezuela,Guatire,Miranda,Latam
+West Asia,Irak,Samarra,Saladino,Pacific Asia
+South Of  Usa,Estados Unidos,Macon,Georgia,Usca
+South Of  Usa,Estados Unidos,West Palm Beach,Florida,Usca
+Western Europe,Francia,Tulle,Aquitania-Lemosín-Poitou-Charentes,Europe
+South America,Brasil,Barretos,São Paulo,Latam
+South America,Brasil,Erechim,Rio Grande do Sul,Latam
+Central America,México,Huixquilucan,México,Latam
+Eastern Asia,China,Shuangcheng,Heilongjiang,Pacific Asia
+West Asia,Líbano,Tripoli,Líbano del Norte,Pacific Asia
+Eastern Asia,China,Foshan,Guangdong,Pacific Asia
+Eastern Asia,China,Suizhou,Hubei,Pacific Asia
+Eastern Asia,Japón,Ube,Yamaguchi,Pacific Asia
+Eastern Asia,China,Meizhou,Guangdong,Pacific Asia
+Eastern Asia,China,Tongliao,Mongolia Interior,Pacific Asia
+East Of Usa,Estados Unidos,Revere,Massachusetts,Usca
+Canada,Canada,Hamilton,Ontario,Usca
+South Of  Usa,Estados Unidos,Hot Springs,Arkansas,Usca
+Us Center,Estados Unidos,Woodstock,Illinois,Usca
+Us Center,Estados Unidos,Rochester Hills,Michigan,Usca
+West Of Usa,Estados Unidos,Bullhead City,Arizona,Usca
+South America,Brasil,Vilhena,Rondônia,Latam
+East Of Usa,Estados Unidos,Milford,Connecticut,Usca
+West Of Usa,Estados Unidos,Renton,Washington,Usca
+Western Europe,Francia,Issoire,Auvernia,Europe
+Eastern Europe,Ucrania,Mariupol,Donetsk,Europe
+Western Europe,Francia,Albertville,Auvernia-Ródano-Alpes,Europe
+Eastern Europe,Rusia,Khasavyurt,Daguestán,Europe
+Western Europe,Austria,Leoben,Stiria,Europe
+Western Europe,Alemania,Wetter (Ruhr),Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Coudekerque-Branche,Norte-Paso de Calais-Picardía,Europe
+Western Europe,Francia,Poitiers,Aquitania-Lemosín-Poitou-Charentes,Europe
+Southern Europe,Italia,Trani,Apulia,Europe
+South America,Brasil,Santa Cruz do Sul,Rio Grande do Sul,Latam
+South America,Surinam,Paramaribo,Paramaribo,Latam
+Central America,Guatemala,Guatemala City,Guatemala,Latam
+South America,Brasil,Cassilândia,Mato Grosso del Sur,Latam
+Eastern Asia,China,Xuanhua,Hebei,Pacific Asia
+Eastern Asia,China,Leshan,Sichuan,Pacific Asia
+South Asia,India,Hisar,Haryana,Pacific Asia
+Eastern Asia,Japón,Kasugai,Aichi,Pacific Asia
+South Of  Usa,Estados Unidos,Tuscaloosa,Alabama,Usca
+West Of Usa,Estados Unidos,Temecula,California,Usca
+South Of  Usa,Estados Unidos,Gulfport,Misisipi,Usca
+Us Center,Estados Unidos,La Porte,Texas,Usca
+West Of Usa,Estados Unidos,Oxnard,California,Usca
+West Of Usa,Estados Unidos,Stockton,California,Usca
+East Of Usa,Estados Unidos,Woonsocket,Rhode Island,Usca
+Us Center,Estados Unidos,Buffalo Grove,Illinois,Usca
+Us Center,Estados Unidos,Garland,Texas,Usca
+Us Center,Estados Unidos,Edmond,Oklahoma,Usca
+Western Europe,Francia,Salon-de-Provence,Provenza-Alpes-Costa Azul,Europe
+Us Center,Estados Unidos,Taylor,Michigan,Usca
+Us Center,Estados Unidos,Holland,Michigan,Usca
+West Asia,Irak,Al Amarah,Mesena,Pacific Asia
+Central Africa,Camerún,Maroua,Extreme-Nord,Africa
+East Africa,Tanzania,Moshi,Kilimanjaro,Africa
+Southern Europe,España,Rubí,Cataluña,Europe
+Western Europe,Francia,Caluire-et-Cuire,Auvernia-Ródano-Alpes,Europe
+Eastern Asia,China,Pingxiang,Jiangxi,Pacific Asia
+Us Center,Estados Unidos,Waukesha,Wisconsin,Usca
+Us Center,Estados Unidos,Lawton,Oklahoma,Usca
+Eastern Asia,China,Korla,Xinjiang Uygur,Pacific Asia
+West Africa,Costa De Marfil,Yamoussoukro,Lacs,Africa
+North Africa,Egipto,Qena,Qina,Africa
+Western Europe,Francia,Bergerac,Aquitania-Lemosín-Poitou-Charentes,Europe
+Eastern Europe,Polonia,Sosnowiec,Silesia,Europe
+Western Europe,Francia,Ermont,Isla de Francia,Europe
+Western Europe,Alemania,Ludwigsburg,Baden-Wurtemberg,Europe
+Western Europe,Alemania,Delmenhorst,Baja Sajonia,Europe
+South America,Ecuador,Quevedo,Los Ríos,Latam
+South America,Brasil,Araraquara,São Paulo,Latam
+South America,Perú,Chiclayo,Lambayeque,Latam
+South America,Brasil,Santos,São Paulo,Latam
+South America,Bolivia,Riberalta,El Beni,Latam
+Central America,Belice,San Ignacio,Distrito de Cayo,Latam
+South America,Brasil,Taboão da Serra,São Paulo,Latam
+South Asia,India,Tumkur,Karnataka,Pacific Asia
+Eastern Asia,Corea Del Sur,Cheonan,Chungcheong del Sur,Pacific Asia
+South Of  Usa,Estados Unidos,Boca Raton,Florida,Usca
+East Of Usa,Estados Unidos,Andover,Massachusetts,Usca
+Southern Europe,Eslovenia,Liubliana,Liubliana,Europe
+Eastern Asia,China,Suining,Sichuan,Pacific Asia
+South Asia,Afganistán,Kandahar,Kandahar,Pacific Asia
+South Asia,Irán,Shahreza,Isfahán,Pacific Asia
+South Asia,Irán,Ilam,Ilam,Pacific Asia
+West Of Usa,Estados Unidos,Citrus Heights,California,Usca
+West Of Usa,Estados Unidos,Loveland,Colorado,Usca
+West Africa,Nigeria,Akure,Ondo,Africa
+West Africa,Sierra Leona,Koidu,Oriental,Africa
+Central Africa,República Democrática Del Congo,Uvira,Kivu del Sur,Africa
+West Africa,Nigeria,Bauchi,Bauchi,Africa
+East Africa,Uganda,Fort Portal,Kabarole,Africa
+Western Europe,Países Bajos,Terneuzen,Zelanda,Europe
+South America,Brasil,Caraguatatuba,São Paulo,Latam
+South America,Colombia,Apartadó,Antioquía,Latam
+Western Europe,Francia,Plaisance-du-Touch,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Northern Europe,Reino Unido,Clacton-on-Sea,Inglaterra,Europe
+Southern Europe,España,Getxo,País Vasco,Europe
+Southern Europe,Portugal,Odivelas,Lisboa,Europe
+South Asia,Irán,Behbahan,Juzestán,Pacific Asia
+Canada,Canada,Pickering,Ontario,Usca
+Eastern Europe,Polonia,Gorzow Wielkopolski,Lubusz,Europe
+West Asia,Turquía,Aydin,Aydin,Pacific Asia
+Southern Europe,España,Majadahonda,Madrid,Europe
+Western Europe,Alemania,Cuxhaven,Baja Sajonia,Europe
+Northern Europe,Reino Unido,Chatham,Inglaterra,Europe
+South America,Brasil,Bento Gonçalves,Rio Grande do Sul,Latam
+South America,Brasil,Palmares,Pernambuco,Latam
+Eastern Europe,Polonia,Zielona Gora,Lubusz,Europe
+Us Center,Estados Unidos,Woodbury,Minnesota,Usca
+South Asia,India,Jalna,Maharashtra,Pacific Asia
+South America,Brasil,Crato,Ceará,Latam
+South America,Colombia,Ciénaga,Magdalena,Latam
+Western Europe,Francia,Dax,Aquitania-Lemosín-Poitou-Charentes,Europe
+Southern Europe,España,Molina de Segura,Murcia,Europe
+South America,Argentina,San Salvador de Jujuy,Jujuy,Latam
+Northern Europe,Suecia,Halmstad,Halland,Europe
+Eastern Asia,China,Gaomi,Shandong,Pacific Asia
+Eastern Asia,China,Wuzhou,Guangxi,Pacific Asia
+South Asia,India,Anantapur,Andhra Pradesh,Pacific Asia
+Eastern Asia,China,Huaihua,Hunan,Pacific Asia
+Southeast Asia,Indonesia,Pekalongan,Java Central,Pacific Asia
+Eastern Asia,China,Xinxiang,Henan,Pacific Asia
+Eastern Asia,China,Guiping,Guangxi,Pacific Asia
+Western Europe,Francia,Sartrouville,Isla de Francia,Europe
+Western Europe,Francia,Bastia,Corse,Europe
+Southern Europe,Portugal,Guimarães,Braga,Europe
+Southern Europe,Italia,Civitavecchia,Lacio,Europe
+Western Europe,Francia,Saint-Louis,Alsacia-Champaña-Ardenas-Lorena,Europe
+Western Europe,Francia,Agen,Aquitania-Lemosín-Poitou-Charentes,Europe
+Western Europe,Alemania,Marl,Renania del Norte-Westfalia,Europe
+Western Europe,Francia,Oullins,Auvernia-Ródano-Alpes,Europe
+Southern Europe,Italia,Ragusa,Sicilia,Europe
+Southern Europe,Italia,Caserta,Campania,Europe
+Western Europe,Francia,Valenciennes,Norte-Paso de Calais-Picardía,Europe
+Western Europe,Francia,Avon,Isla de Francia,Europe
+Western Europe,Francia,Les Pennes-Mirabeau,Provenza-Alpes-Costa Azul,Europe
+Western Europe,Alemania,Borken,Renania del Norte-Westfalia,Europe
+Northern Europe,Suecia,Eskilstuna,Södermanland,Europe
+Western Europe,Alemania,Bad Waldsee,Baden-Wurtemberg,Europe
+Northern Europe,Reino Unido,South Shields,Inglaterra,Europe
+Western Europe,Francia,Osny,Isla de Francia,Europe
+Western Europe,Francia,Mâcon,Borgoña-Franco Condado,Europe
+Western Europe,Francia,Loos,Norte-Paso de Calais-Picardía,Europe
+Western Europe,Francia,Houilles,Isla de Francia,Europe
+Northern Europe,Reino Unido,Stourbridge,Inglaterra,Europe
+South America,Venezuela,Barcelona,Anzoátegui,Latam
+South America,Brasil,Andradina,São Paulo,Latam
+South America,Brasil,Pato Branco,Paraná,Latam
+South America,Brasil,Floriano,Piauí,Latam
+South America,Venezuela,Guarenas,Miranda,Latam
+South America,Brasil,Palhoça,Santa Catarina,Latam
+Central America,México,Cadereyta,Nuevo León,Latam
+South America,Colombia,Villavicencio,Meta,Latam
+Central America,México,Delicias,Chihuahua,Latam
+South America,Brasil,Franco da Rocha,São Paulo,Latam
+South America,Paraguay,Fernando de la Mora,Central,Latam
+South America,Brasil,Várzea Grande,Mato Grosso,Latam
+South America,Brasil,Gravatá,Pernambuco,Latam
+South Asia,Irán,Babol,Mazandarán,Pacific Asia
+South Asia,India,Mau,Uttar Pradesh,Pacific Asia
+West Of Usa,Estados Unidos,Clovis,Nuevo México,Usca
+Western Europe,Francia,Saint-Cloud,Isla de Francia,Europe
+West Asia,Turquía,Igdir,Igdir,Pacific Asia
+East Africa,Zambia,Chipata,Oriental,Africa
+Eastern Asia,China,Yantai,Shandong,Pacific Asia
+West Africa,Níger,Zinder,Zinder,Africa
+Southern Europe,Portugal,Feira,Aveiro,Europe
+Eastern Europe,Polonia,Pila,Gran Polonia,Europe
+Northern Europe,Reino Unido,Ferndown,Inglaterra,Europe
+South America,Argentina,Santa Rosa,La Pampa,Latam
+Eastern Asia,China,Yiyang,Hunan,Pacific Asia
+West Asia,Turquía,Inegol,Bursa,Pacific Asia
+South Of  Usa,Estados Unidos,Delray Beach,Florida,Usca
+West Of Usa,Estados Unidos,Murrieta,California,Usca
+Northern Europe,Reino Unido,Stevenage,Inglaterra,Europe
+Eastern Europe,Ucrania,Berdyans'k,Zaporiyia,Europe
+West Asia,Turquía,Karliova,Bingöl,Pacific Asia
+Eastern Europe,Rumania,Roman,Neamt,Europe
+Western Europe,Alemania,Neuwied,Renania-Palatinado,Europe
+Western Europe,Países Bajos,Amersfoort,Utrecht,Europe
+Western Europe,Países Bajos,Roosendaal,Brabante Septentrional,Europe
+Eastern Europe,Bielorrusia,Polatsk,Vitsyebsk,Europe
+South Asia,Irán,Saqqez,Kurdistán,Pacific Asia
+Western Europe,Países Bajos,Nijmegen,Güeldres,Europe
+Western Europe,Francia,Montargis,Centro-Valle de Loira,Europe
+Western Europe,Países Bajos,Oss,Brabante Septentrional,Europe
+South America,Brasil,Cidade Ocidental,Goiás,Latam
+South America,Brasil,Carapicuíba,São Paulo,Latam
+South America,Perú,Talara,Piura,Latam
+Us Center,Estados Unidos,Peoria,Illinois,Usca
+West Of Usa,Estados Unidos,Camarillo,California,Usca
+Western Europe,Países Bajos,Uithoorn,Holanda Septentrional,Europe
+South America,Argentina,La Rioja,La Rioja,Latam
+Northern Europe,Reino Unido,Rottingdean,Inglaterra,Europe
+Us Center,Estados Unidos,Fargo,Dakota del Norte,Usca
+Eastern Europe,Rumania,Drobeta-Turnu Severin,Mehedinti,Europe
+Canada,Canada,Brantford,Ontario,Usca
+North Africa,Egipto,Tahta,Suhaj,Africa
+West Africa,República De Gambia,Brikama,Occidental,Africa
+Western Europe,Francia,Ris-Orangis,Isla de Francia,Europe
+Western Europe,Francia,Millau,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Northern Europe,Reino Unido,Harlow,Inglaterra,Europe
+Southern Europe,España,Cuenca,Castilla-La Mancha,Europe
+Northern Europe,Reino Unido,Dunstable,Inglaterra,Europe
+South America,Venezuela,Charallave,Miranda,Latam
+Central America,México,Acámbaro,Guanajuato,Latam
+South America,Brasil,Paço do Lumiar,Marañón,Latam
+South America,Perú,Barranca,Lima,Latam
+South Asia,India,Mau,Madhya Pradesh,Pacific Asia
+West Asia,Turquía,Torbali,Izmir,Pacific Asia
+Eastern Asia,China,Shihezi,Xinjiang Uygur,Pacific Asia
+South Asia,Bangladés,Tongi,Daca,Pacific Asia
+Eastern Asia,China,Binzhou,Heilongjiang,Pacific Asia
+Eastern Asia,Japón,Takasaki,Gunma,Pacific Asia
+Us Center,Estados Unidos,Dubuque,Iowa,Usca
+West Of Usa,Estados Unidos,Whittier,California,Usca
+West Of Usa,Estados Unidos,Ontario,California,Usca
+Us Center,Estados Unidos,Bryan,Texas,Usca
+Us Center,Estados Unidos,Cedar Rapids,Iowa,Usca
+East Of Usa,Estados Unidos,Elyria,Ohio,Usca
+Canada,Canada,Longueuil,Quebec,Usca
+South Of  Usa,Estados Unidos,Saint Petersburg,Florida,Usca
+South Of  Usa,Estados Unidos,Homestead,Florida,Usca
+West Of Usa,Estados Unidos,Marysville,Washington,Usca
+West Africa,Senegal,Saint-Louis,Saint-Louis,Africa
+Western Europe,Alemania,Ludwigsfelde,Brandenburgo,Europe
+South Asia,Irán,Gorgan,Golestán,Pacific Asia
+Western Europe,Francia,Stains,Isla de Francia,Europe
+South America,Brasil,Ipatinga,Minas Gerais,Latam
+Eastern Europe,Rusia,Oktyabr'skiy,Bashkortostán,Europe
+Us Center,Estados Unidos,Royal Oak,Michigan,Usca
+Us Center,Estados Unidos,Norman,Oklahoma,Usca
+Eastern Europe,Hungría,Balmazujvaros,Hajdú-Bihar,Europe
+West Asia,Turquía,Silopi,Sirnak,Pacific Asia
+Us Center,Estados Unidos,Coppell,Texas,Usca
+South Of  Usa,Estados Unidos,Rock Hill,Carolina del Sur,Usca
+West Africa,Liberia,Zwedru,Grand Gedeh,Africa
+East Africa,Tanzania,Iringa,Iringa,Africa
+Southern Africa,Botsuana,Gaborone,Sudeste,Africa
+Central America,México,Guamúchil,Sinaloa,Latam
+Eastern Asia,China,Anyang,Henan,Pacific Asia
+Western Europe,Francia,Villeneuve-la-Garenne,Isla de Francia,Europe
+Eastern Asia,Japón,Yokkaichi,Mie,Pacific Asia
+Northern Europe,Reino Unido,Briton Ferry,Gales,Europe
+Eastern Europe,Rusia,Birobidzhan,Yevrey,Europe
+Eastern Europe,Rumania,Oradea,Bihor,Europe
+South America,Brasil,Ariquemes,Rondônia,Latam
+West Asia,Turquía,Bolu,Bolu,Pacific Asia
+Eastern Asia,China,Changshu,Jiangsu,Pacific Asia
+East Africa,Zimbabue,Mutare,Manicalandia,Africa
+Northern Europe,Reino Unido,Guildford,Inglaterra,Europe
+Western Europe,Francia,La Ciotat,Provenza-Alpes-Costa Azul,Europe
+Southern Europe,Italia,Treviglio,Lombardía,Europe
+Western Europe,Francia,Cherbourg-Octeville,Normandía,Europe
+West Asia,Turquía,Buca,Izmir,Pacific Asia
+East Of Usa,Estados Unidos,Marlborough,Massachusetts,Usca
+East Africa,Mozambique,Lichinga,Niassa,Africa
+Northern Europe,Reino Unido,Nuneaton,Inglaterra,Europe
+Western Europe,Francia,Mauguio,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+Eastern Asia,China,Zhangzhou,Fujian,Pacific Asia
+West Asia,Armenia,Vanadzor,Lori,Pacific Asia
+Us Center,Estados Unidos,Greenwood,Indiana,Usca
+Us Center,Estados Unidos,Grand Island,Nebraska,Usca
+West Asia,Turquía,Kiziltepe,Mardin,Pacific Asia
+Southern Europe,Italia,Modica,Sicilia,Europe
+South Asia,Irán,Semnán,Semnán,Pacific Asia
+Eastern Asia,China,Beipiao,Liaoning,Pacific Asia
+Us Center,Estados Unidos,Ann Arbor,Michigan,Usca
+Eastern Asia,China,Cangzhou,Hebei,Pacific Asia
+West Of Usa,Estados Unidos,Bozeman,Montana,Usca
+Oceania,Australia,Warrnambool,Victoria,Pacific Asia
+Central Asia,Uzbekistán,Jizzakh,Jizzakh,Pacific Asia
+West Of Usa,Estados Unidos,Santa Fe,Nuevo México,Usca
+East Of Usa,Estados Unidos,Reading,Pensilvania,Usca
+North Africa,Egipto,Girga,Suhaj,Africa
+Canada,Canada,Halifax,Nueva Escocia,Usca
+West Asia,Israel,Be'er Sheva,Meridional,Pacific Asia
+West Asia,Turquía,Umraniye,Estambul,Pacific Asia
+Eastern Europe,Bulgaria,Sliven,Sliven,Europe
+North Africa,Marruecos,Berrechid,Chauía-Uardiga,Africa
+South Asia,Irán,Rafsanjan,Kerman,Pacific Asia
+East Africa,Tanzania,Igurusi,Mbeya,Africa
+West Asia,Turquía,Isparta,Isparta,Pacific Asia
+West Asia,Turquía,Rize,Rize,Pacific Asia
+Southern Africa,Sudafrica,Pietermaritzburg,KwaZulu-Natal,Africa
+West Africa,Nigeria,Gusau,Zamfara,Africa
+South Asia,Irán,Shahriar,Teherán,Pacific Asia
+Central Africa,Guinea Ecuatorial,Bata,Litoral,Africa
+Eastern Europe,Ucrania,Melitopol,Zaporiyia,Europe
+South Asia,Irán,Borazjan,Bushehr,Pacific Asia
+West Asia,Irak,Baqubah,Diala,Pacific Asia
+West Asia,Siria,Ar Raqa,Ar Raqa,Pacific Asia
+North Africa,Egipto,Tanta,Gharbia,Africa
+Eastern Europe,Ucrania,Stakhanov,Lugansk,Europe
+North Africa,Libia,Al Khums,Al Marqab,Africa
+Central Asia,Kirguistán,Osh,Osh,Pacific Asia
+West Africa,Ghana,Cape Coast,Central,Africa
+West Asia,Turquía,Tokat,Tokat,Pacific Asia
+Eastern Europe,Rusia,Nal'chik,Kabardia-Balkaria,Europe
+West Asia,Turquía,Usak,Usak,Pacific Asia
+Eastern Europe,Rumania,Deva,Hunedoara,Europe
+East Africa,Zambia,Mufulira,Copperbelt,Africa
+North Africa,Marruecos,Khemisset,Rabat-Salé-Zemur-Zaer,Africa
+West Asia,Kuwait,Kuwait City,Al Asimah,Pacific Asia
+East Of Usa,Estados Unidos,Mason,Ohio,Usca
+West Of Usa,Estados Unidos,San Clemente,California,Usca
+Us Center,Estados Unidos,Arlington Heights,Illinois,Usca
+West Of Usa,Estados Unidos,Fort Collins,Colorado,Usca
+South Of  Usa,Estados Unidos,North Miami,Florida,Usca
+West Of Usa,Estados Unidos,Twin Falls,Idaho,Usca
+West Of Usa,Estados Unidos,Rancho Cucamonga,California,Usca
+South America,Venezuela,San José de Guanipa,Anzoátegui,Latam
+South America,Brasil,Itamaraju,Bahía,Latam
+South America,Brasil,Tatuí,São Paulo,Latam
+South America,Brasil,Coari,Amazonas,Latam
+South America,Brasil,Senhor do Bonfim,Bahía,Latam
+South America,Brasil,Poços de Caldas,Minas Gerais,Latam
+South America,Brasil,Camaragibe,Pernambuco,Latam
+South America,Venezuela,Mérida,Mérida,Latam
+Western Europe,Francia,Chevilly-Larue,Isla de Francia,Europe
+Southern Europe,España,Chiclana de la Frontera,Andalucía,Europe
+Southern Europe,Italia,Cuneo,Piamonte,Europe
+Northern Europe,Suecia,Upplands Väsby,Estocolmo,Europe
+West Of Usa,Estados Unidos,Visalia,California,Usca
+South Of  Usa,Estados Unidos,North Charleston,Carolina del Sur,Usca
+West Of Usa,Estados Unidos,Thousand Oaks,California,Usca
+West Of Usa,Estados Unidos,Draper,Utah,Usca
+Us Center,Estados Unidos,Oak Park,Michigan,Usca
+Us Center,Estados Unidos,Kirkwood,Misuri,Usca
+South Of  Usa,Estados Unidos,Deltona,Florida,Usca
+Us Center,Estados Unidos,Danville,Illinois,Usca
+Us Center,Estados Unidos,Carol Stream,Illinois,Usca
+Us Center,Estados Unidos,Tinley Park,Illinois,Usca
+Us Center,Estados Unidos,Conroe,Texas,Usca
+West Of Usa,Estados Unidos,San Mateo,California,Usca
+Us Center,Estados Unidos,Missouri City,Texas,Usca
+West Of Usa,Estados Unidos,Billings,Montana,Usca
+South Of  Usa,Estados Unidos,Murray,Kentucky,Usca
+East Of Usa,Estados Unidos,Jamestown,Nueva York,Usca
+West Of Usa,Estados Unidos,Coachella,California,Usca
+Us Center,Estados Unidos,South Bend,Indiana,Usca
+West Of Usa,Estados Unidos,Auburn,Washington,Usca
+Us Center,Estados Unidos,Appleton,Wisconsin,Usca
+Oceania,Nueva Zelanda,Whakatane,Bay of Plenty,Pacific Asia
+Southeast Asia,Filipinas,San Pedro,Calabarzón,Pacific Asia
+South Asia,Bangladés,Coxs B?z?r,Chittagong,Pacific Asia
+Eastern Asia,China,Yongchuan,Chongqing,Pacific Asia
+Eastern Asia,China,Zaoyang,Hubei,Pacific Asia
+Eastern Asia,China,Rizhao,Shandong,Pacific Asia
+Eastern Asia,Japón,Tsukuba,Ibaraki,Pacific Asia
+East Africa,Zambia,Luanshya,Copperbelt,Africa
+Northern Europe,Reino Unido,Dartford,Inglaterra,Europe
+Western Europe,Alemania,Stadtlohn,Renania del Norte-Westfalia,Europe
+Southern Europe,Italia,Teramo,Abruzos,Europe
+Western Europe,Francia,Louviers,Normandía,Europe
+Southern Europe,Italia,Cercola,Campania,Europe
+Western Europe,Francia,Allauch,Provenza-Alpes-Costa Azul,Europe
+Northern Europe,Reino Unido,Bracknell,Inglaterra,Europe
+Western Europe,Alemania,Rosenheim,Bavaria,Europe
+Southern Europe,Italia,Casoria,Campania,Europe
+South America,Colombia,Facatativá,Cundinamarca,Latam
+South America,Chile,La Pintana,Santiago de Chile,Latam
+South America,Brasil,Itapeva,São Paulo,Latam
+East Africa,Tanzania,Musoma,Mara,Africa
+North Africa,Egipto,Damanhur,Al Buhayrah,Africa
+Eastern Europe,Bulgaria,Shumen,Shumen,Europe
+Eastern Europe,Hungría,Gyula,Békés,Europe
+South America,Brasil,Sorriso,Mato Grosso,Latam
+West Asia,Turquía,Ordu,Ordu,Pacific Asia
+Eastern Asia,China,Jiaxing,Zhejiang,Pacific Asia
+South Asia,Bután,Phuntsholing,Chukha,Pacific Asia
+Eastern Asia,China,Sanming,Fujian,Pacific Asia
+Eastern Europe,Rumania,Suceava,Suceava,Europe
+Eastern Europe,Bulgaria,Pazardzhik,Pazardzhik,Europe
+Eastern Europe,Rumania,Focsani,Vrancea,Europe
+South America,Venezuela,San Carlos del Zulia,Zulia,Latam
+South America,Brasil,Barra do Piraí,Río de Janeiro,Latam
+South Asia,Irán,Kazerun,Fars,Pacific Asia
+Eastern Asia,Japón,Kawaguchi,Chiba,Pacific Asia
+Central Asia,Kazajistán,Taldyqorghan,Almaty,Pacific Asia
+South Asia,India,Bhilwara,Rajastán,Pacific Asia
+South Asia,India,Bharatpur,Rajastán,Pacific Asia
+South Asia,India,Ghaziabad,Uttar Pradesh,Pacific Asia
+Us Center,Estados Unidos,Park Ridge,Illinois,Usca
+Us Center,Estados Unidos,Canton,Michigan,Usca
+East Of Usa,Estados Unidos,Holyoke,Massachusetts,Usca
+Us Center,Estados Unidos,Romeoville,Illinois,Usca
+Us Center,Estados Unidos,Independence,Misuri,Usca
+Central Africa,Angola,Lubango,Huila,Africa
+West Asia,Israel,Hadera,Haifa,Pacific Asia
+South Of  Usa,Estados Unidos,Ormond Beach,Florida,Usca
+East Africa,Madagascar,Toliara,Atsimo-Andrefana,Africa
+Northern Europe,Reino Unido,Stafford,Inglaterra,Europe
+Western Europe,Bélgica,Kortrijk,Flanders Occidental,Europe
+Western Europe,Países Bajos,Hardenberg,Overijssel,Europe
+South America,Argentina,Junín,Buenos Aires (provincia),Latam
+Central Asia,Kazajistán,Dzhezkazgan,Karagandá,Pacific Asia
+Eastern Asia,Japón,Kita-ku,Osaka,Pacific Asia
+South Asia,India,Latur,Maharashtra,Pacific Asia
+Eastern Asia,China,Yuncheng,Shanxi,Pacific Asia
+West Asia,Turquía,Bingöl,Bingöl,Pacific Asia
+South Asia,India,New Delhi,Delhi,Pacific Asia
+East Of Usa,Estados Unidos,Laurel,Maryland,Usca
+West Of Usa,Estados Unidos,Bellingham,Washington,Usca
+Southern Europe,España,Ponteareas,Galicia,Europe
+West Africa,Nigeria,Gombe,Gombe,Africa
+South America,Brasil,Buriticupu,Marañón,Latam
+Eastern Europe,Polonia,Piotrkow Trybunalski,Lodz,Europe
+Southern Africa,Sudafrica,Boksburg,Gauteng,Africa
+Central Africa,Chad,Koumra,Mandoul,Africa
+Western Europe,Francia,Villeneuve-Saint-Georges,Isla de Francia,Europe
+Western Europe,Francia,Cambrai,Norte-Paso de Calais-Picardía,Europe
+West Asia,Turquía,Karaman,Karaman,Pacific Asia
+South Asia,Irán,Torbat-e Heydariyeh,Jorasán Razaví,Pacific Asia
+Us Center,Estados Unidos,Roseville,Michigan,Usca
+Western Europe,Alemania,Fulda,Hesse,Europe
+South Asia,Irán,Javanrud,Kermanshah,Pacific Asia
+West Africa,Nigeria,Sapele,Delta,Africa
+West Africa,Togo,Kara,Kara,Africa
+Canada,Canada,Gatineau,Quebec,Usca
+Eastern Europe,Polonia,Czestochowa,Silesia,Europe
+West Asia,Turquía,Cubuk,Ankara,Pacific Asia
+East Of Usa,Estados Unidos,East Orange,Nueva Jersey,Usca
+West Of Usa,Estados Unidos,El Cajon,California,Usca
+West Of Usa,Estados Unidos,Chula Vista,California,Usca
+Us Center,Estados Unidos,Cedar Hill,Texas,Usca
+Us Center,Estados Unidos,Moorhead,Minnesota,Usca
+West Of Usa,Estados Unidos,Las Cruces,Nuevo México,Usca
+Us Center,Estados Unidos,New Castle,Indiana,Usca
+Us Center,Estados Unidos,Grapevine,Texas,Usca
+Eastern Asia,China,Jingdezhen,Jiangxi,Pacific Asia
+Western Europe,Francia,Elbeuf,Normandía,Europe
+Southern Europe,Italia,Bitonto,Apulia,Europe
+Southern Europe,Italia,San Severo,Apulia,Europe
+Southern Europe,Italia,Battipaglia,Campania,Europe
+Southern Europe,Italia,Andria,Apulia,Europe
+South America,Brasil,Cambé,Paraná,Latam
+South America,Colombia,Pasto,Nariño,Latam
+Western Europe,Alemania,Aalen,Baden-Wurtemberg,Europe
+Eastern Europe,Serbia,Belgrade,Serbia Central,Europe
+East Africa,Tanzania,Mbinga,Ruvuma,Africa
+Western Europe,Países Bajos,Leiden,Holanda Meridional,Europe
+Western Europe,Francia,Sorgues,Provenza-Alpes-Costa Azul,Europe
+North Africa,Marruecos,Guelmim,Guelmim-Esmara,Africa
+West Asia,Turquía,Buyukcekmece,Estambul,Pacific Asia
+Eastern Europe,Bulgaria,Stara Zagora,Stara Zagora,Europe
+West Asia,Yemen,Ibb,Ibb,Pacific Asia
+West Asia,Turquía,Midyat,Mardin,Pacific Asia
+Eastern Europe,Bielorrusia,Pinsk,Brest,Europe
+North Africa,Argelia,Sidi Bel Abbes,Sidi Bel Abbes,Africa
+Southern Africa,Sudafrica,Ulundi,KwaZulu-Natal,Africa
+South Asia,Irán,Zabol,Sistán y Baluchistán,Pacific Asia
+Eastern Europe,Polonia,Jastrzebie Zdroj,Silesia,Europe
+North Africa,Argelia,Dar Chioukh,Djelfa,Africa
+South America,Brasil,Cruzeiro do Sul,Acre,Latam
+Western Europe,Bélgica,Mouscron,Henao,Europe
+Western Europe,Francia,Riom,Auvernia,Europe
+Us Center,Estados Unidos,Waterloo,Iowa,Usca
+Western Europe,Francia,La Chapelle-sur-Erdre,Países del Loira,Europe
+South America,Venezuela,Guanare,Portuguesa,Latam
+Eastern Asia,Japón,Chigasaki,Kanagawa,Pacific Asia
+Southern Europe,Portugal,Arrentela,Setúbal,Europe
+Southern Africa,Sudafrica,Springs,Gauteng,Africa
+Northern Europe,Estonia,Tartu,Tartu,Europe
+Southern Europe,Portugal,Braga,Braga,Europe
+South America,Colombia,Montería,Córdoba,Latam
+Eastern Asia,Japón,Katsushika-ku,Tokio,Pacific Asia
+Us Center,Estados Unidos,Aberdeen,Dakota del Sur,Usca
+South America,Perú,Juliaca,Puno,Latam
+South Asia,Irán,Neyshabur,Jorasán Razaví,Pacific Asia
+West Of Usa,Estados Unidos,Commerce City,Colorado,Usca
+Us Center,Estados Unidos,Deer Park,Texas,Usca
+West Africa,Sáhara Occidental,El Aaiún,El Aaiún,Africa
+Western Europe,Francia,Libourne,Aquitania-Lemosín-Poitou-Charentes,Europe
+South America,Brasil,Seropédica,Río de Janeiro,Latam
+Eastern Asia,China,Qidong,Jiangsu,Pacific Asia
+Canada,Canada,Burlington,Ontario,Usca
+Western Europe,Francia,Moissy-Cramayel,Isla de Francia,Europe
+Eastern Asia,China,Wendeng,Shandong,Pacific Asia
+South Of  Usa,Estados Unidos,Texarkana,Arkansas,Usca
+Us Center,Estados Unidos,Coon Rapids,Minnesota,Usca
+Oceania,Nueva Zelanda,Cambridge,Waikato,Pacific Asia
+Eastern Asia,Japón,Yao,Osaka,Pacific Asia
+South Asia,India,Shimoga,Karnataka,Pacific Asia
+Eastern Asia,China,Huangshi,Hubei,Pacific Asia
+West Asia,Turquía,Bafra,Samsun,Pacific Asia
+Eastern Asia,China,Zhuzhou,Hunan,Pacific Asia
+South Asia,Pakistán,Gujrat,Punyab,Pacific Asia
+Eastern Asia,China,Liaoyuan,Jilin,Pacific Asia
+Us Center,Estados Unidos,Pearland,Texas,Usca
+Us Center,Estados Unidos,Saint Peters,Misuri,Usca
+Southern Africa,Sudafrica,Vanderbijlpark,Gauteng,Africa
+Canada,Canada,St. John's,Terranova,Usca
+Us Center,Estados Unidos,Mount Pleasant,Michigan,Usca
+Southern Europe,Croacia,Samobor,Zagrebacka,Europe
+South Of  Usa,Estados Unidos,Kissimmee,Florida,Usca
+Western Europe,Países Bajos,Hengelo,Overijssel,Europe
+Western Europe,Alemania,Detmold,Renania del Norte-Westfalia,Europe
+Southern Europe,Macedonia,Bitola,Bitola,Europe
+Southern Africa,Sudafrica,Botshabelo,Estado Libre,Africa
+West Africa,Costa De Marfil,Daloa,Haut-Sassandra,Africa
+West Africa,Costa De Marfil,Korhogo,Savanes,Africa
+North Africa,Egipto,Samalut,Menia,Africa
+Eastern Europe,Polonia,Myslowice,Silesia,Europe
+West Asia,Turquía,Duzce,Düzce,Pacific Asia
+Southern Africa,Sudafrica,Stanger,KwaZulu-Natal,Africa
+Eastern Europe,Rumania,Bistrita,Bistrita-Nasaud,Europe
+Eastern Asia,Japón,Fujisawa,Kanagawa,Pacific Asia
+West Asia,Israel,Ashqelon,Meridional,Pacific Asia
+West Of Usa,Estados Unidos,Davis,California,Usca
+Us Center,Estados Unidos,Elkhart,Indiana,Usca
+West Of Usa,Estados Unidos,Farmington,Nuevo México,Usca
+Eastern Asia,China,Tongzhou,Pekín,Pacific Asia
+Western Europe,Francia,Gonesse,Isla de Francia,Europe
+East Of Usa,Estados Unidos,Linden,Nueva Jersey,Usca
+South Of  Usa,Estados Unidos,Woodstock,Georgia,Usca
+West Of Usa,Estados Unidos,Missoula,Montana,Usca
+Eastern Asia,China,Shangzhi,Heilongjiang,Pacific Asia
+Southern Africa,Sudafrica,Benoni,Gauteng,Africa
+Western Europe,Francia,Sète,Languedoc-Rosellón-Mediodía-Pirineos,Europe
+South America,Brasil,Contagem,Minas Gerais,Latam
+Eastern Asia,Japón,Amagasaki,Hyogo,Pacific Asia
+Southern Europe,España,El Escorial,Madrid,Europe
+Western Europe,Bélgica,Peer,Limburgo,Europe
+East Of Usa,Estados Unidos,Lindenhurst,Nueva York,Usca
+South Asia,Irán,Takestan,Qazvín,Pacific Asia
+Western Europe,Francia,Senlis,Norte-Paso de Calais-Picardía,Europe
+Southern Europe,Italia,Asti,Piamonte,Europe
+Central Africa,Camerún,Limbe,Ouest del Sur,Africa
+South America,Brasil,Campo Limpo Paulista,São Paulo,Latam
+Eastern Asia,China,Pingnan,Guangxi,Pacific Asia
+Eastern Asia,Japón,Tottori,Tottori,Pacific Asia
+South America,Brasil,Rondonópolis,Mato Grosso,Latam
+West Of Usa,Estados Unidos,Yucaipa,California,Usca
+Southern Africa,Sudafrica,Volksrust,Mpumalanga,Africa
+Western Europe,Francia,Anglet,Aquitania-Lemosín-Poitou-Charentes,Europe
+Central Asia,Uzbekistán,Urganch,Khorezm,Pacific Asia
+West Of Usa,Estados Unidos,Pico Rivera,California,Usca
+Eastern Asia,China,Tongling,Anhui,Pacific Asia
+Eastern Asia,China,Liuyang,Hunan,Pacific Asia
+East Of Usa,Estados Unidos,Nashua,Nuevo Hampshire,Usca
