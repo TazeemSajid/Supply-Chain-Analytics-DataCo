@@ -33,4 +33,85 @@ A retail supply chain company wants to:
 
 ---
 
-## 📁 Project Structure
+## 🔄 ETL Pipeline
+- Loaded 180,519 raw supply chain records
+- Cleaned nulls, duplicates and standardized text fields
+- Converted date columns to datetime format
+- Engineered 9 new features:
+  - `delivery_delay_days`
+  - `delay_flag`
+  - `delay_category`
+  - `profit_margin`
+  - `shipping_efficiency`
+  - `order_year`, `order_month`, `order_quarter`
+- Created star schema with 1 fact + 4 dimension tables
+- Exported cleaned CSVs and loaded into PostgreSQL
+
+---
+
+## 🗄️ Data Model (Star Schema)
+
+---
+
+## 📊 SQL Analysis
+- 6 KPI queries (Total Sales, Profit, Orders, Delay)
+- Operational analysis (Delay by Region, Shipping Mode)
+- Profitability analysis (Category, Market, Department)
+- Advanced SQL using:
+  - CTEs
+  - Window Functions (RANK, DENSE_RANK)
+  - CASE Statements
+  - Subqueries
+
+---
+
+## 📈 Power BI Dashboard
+
+### Page 1 — Executive Overview
+![Executive Overview](visuals/page1_executive_overview.png)
+
+### Page 2 — Delivery Performance
+![Delivery Performance](visuals/page2_delivery_performance.png)
+
+### Page 3 — Product & Profitability
+![Product Profitability](visuals/page3_product_profitability.png)
+
+### Page 4 — Geographic Insights
+![Geographic Insights](visuals/page4_geographic_insights.png)
+
+### Page 5 — Recommendations
+![Recommendations](visuals/page5_recommendations.png)
+
+---
+
+## 🔍 Key Insights
+- **57.3%** of all orders are delayed
+- **Second Class** shipping has highest avg delay of **1.99 days**
+- **First Class** shipping has **100% late delivery rate**
+- **Standard Class** is most reliable with **0.00 avg delay**
+- **Fishing** category generates highest profit — **$756K**
+- **Europe** is most profitable market — **$1.17M profit**
+- **Fan Shop** department dominates with **$1.83M profit**
+- **Consumer** segment contributes **51.91%** of total sales
+
+---
+
+## 💡 Business Recommendations
+1. Replace First Class shipping with Standard Class for time-sensitive orders
+2. Investigate logistics infrastructure in Central Asia (highest delay region)
+3. Increase inventory for Fishing & Cleats categories (highest profit)
+4. Audit PAYMENT_REVIEW status orders causing operational delays
+5. Review pricing strategy for 3 loss-making products
+
+---
+
+## 📂 Dataset
+- **Source:** DataCo Smart Supply Chain Dataset
+- **Link:** [Kaggle Dataset](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
+- **Size:** 180,519 rows × 53 columns
+
+---
+
+## 👤 Author
+**Tazeem Sajid**
+
